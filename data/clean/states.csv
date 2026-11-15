@@ -1,0 +1,38 @@
+state_code,state,zone,capital_city,latitude,longitude
+NG-AB,Abia,South East,Umuahia,5.53,7.49
+NG-AD,Adamawa,North East,Yola,9.21,12.48
+NG-AK,Akwa Ibom,South South,Uyo,5.04,7.93
+NG-AN,Anambra,South East,Awka,6.21,7.07
+NG-BA,Bauchi,North East,Bauchi,10.31,9.84
+NG-BY,Bayelsa,South South,Yenagoa,4.93,6.27
+NG-BE,Benue,North Central,Makurdi,7.73,8.54
+NG-BO,Borno,North East,Maiduguri,11.85,13.16
+NG-CR,Cross River,South South,Calabar,4.96,8.33
+NG-DE,Delta,South South,Asaba,6.2,6.73
+NG-EB,Ebonyi,South East,Abakaliki,6.32,8.11
+NG-ED,Edo,South South,Benin City,6.34,5.63
+NG-EK,Ekiti,South West,Ado-Ekiti,7.62,5.22
+NG-EN,Enugu,South East,Enugu,6.45,7.51
+NG-FC,FCT,North Central,Abuja,9.06,7.49
+NG-GO,Gombe,North East,Gombe,10.29,11.17
+NG-IM,Imo,South East,Owerri,5.48,7.03
+NG-JI,Jigawa,North West,Dutse,11.76,9.34
+NG-KD,Kaduna,North West,Kaduna,10.52,7.44
+NG-KN,Kano,North West,Kano,12.0,8.52
+NG-KT,Katsina,North West,Katsina,12.99,7.6
+NG-KE,Kebbi,North West,Birnin Kebbi,12.45,4.2
+NG-KO,Kogi,North Central,Lokoja,7.8,6.74
+NG-KW,Kwara,North Central,Ilorin,8.5,4.55
+NG-LA,Lagos,South West,Ikeja,6.6,3.35
+NG-NA,Nasarawa,North Central,Lafia,8.49,8.52
+NG-NI,Niger,North Central,Minna,9.61,6.56
+NG-OG,Ogun,South West,Abeokuta,7.15,3.35
+NG-ON,Ondo,South West,Akure,7.25,5.2
+NG-OS,Osun,South West,Osogbo,7.77,4.56
+NG-OY,Oyo,South West,Ibadan,7.38,3.95
+NG-PL,Plateau,North Central,Jos,9.9,8.86
+NG-RI,Rivers,South South,Port Harcourt,4.82,7.03
+NG-SO,Sokoto,North West,Sokoto,13.06,5.24
+NG-TA,Taraba,North East,Jalingo,8.89,11.36
+NG-YO,Yobe,North East,Damaturu,11.75,11.96
+NG-ZA,Zamfara,North West,Gusau,12.16,6.66

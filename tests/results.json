@@ -1,0 +1,908 @@
+{
+ "run": "2026-11-15T22:52:05.154Z",
+ "browser": "Chromium (Playwright)",
+ "passed": 150,
+ "failed": 0,
+ "results": [
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "all clean tables loaded (19,438 orders, 28,109 lines, 11,211 reviews, 14,800 customers)",
+   "pass": true,
+   "detail": "[19438,28109,11211,14800]"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI orders matches pandas",
+   "pass": true,
+   "detail": "19438 vs 19438"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI gmv matches pandas",
+   "pass": true,
+   "detail": "2091691150 vs 2091691150"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI real_gmv matches pandas",
+   "pass": true,
+   "detail": "1621137332.7947738 vs 1621137332.7947817"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI aov matches pandas",
+   "pass": true,
+   "detail": "114144.12824010914 vs 114144.12824010914"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI units matches pandas",
+   "pass": true,
+   "detail": "34106 vs 34106"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI net_delivered_gmv matches pandas",
+   "pass": true,
+   "detail": "1904188530 vs 1904188530"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI cancel_rate matches pandas",
+   "pass": true,
+   "detail": "5.725897726103509 vs 5.725897726103509"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI return_rate matches pandas",
+   "pass": true,
+   "detail": "6.787509176125134 vs 6.787509176125134"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI delivered_of_closed matches pandas",
+   "pass": true,
+   "detail": "92.72698711907006 vs 92.72698711907006"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI delivery_success matches pandas",
+   "pass": true,
+   "detail": "98.46538782318599 vs 98.46538782318599"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI avg_days matches pandas",
+   "pass": true,
+   "detail": "4.609128427729323 vs 4.609128427729302"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI median_days matches pandas",
+   "pass": true,
+   "detail": "4.19587962962963 vs 4.19587962962963"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI late_rate matches pandas",
+   "pass": true,
+   "detail": "13.281471807393105 vs 13.281471807393105"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI avg_days_late matches pandas",
+   "pass": true,
+   "detail": "1.7473279179136383 vs 1.7473279179136383"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI reviews matches pandas",
+   "pass": true,
+   "detail": "11211 vs 11211"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI review_rate matches pandas",
+   "pass": true,
+   "detail": "57.6756867990534 vs 57.6756867990534"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI avg_score matches pandas",
+   "pass": true,
+   "detail": "3.8604941575238607 vs 3.8604941575238607"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI low_rate matches pandas",
+   "pass": true,
+   "detail": "12.701810721612702 vs 12.701810721612702"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "customers: purchasing, ordering, repeat rate, purchases and spend per customer match pandas",
+   "pass": true,
+   "detail": "{\"purchasing\":11173,\"ordering\":11673,\"repeat\":29.911393537993376,\"cpc\":1.5420209433455652,\"spc\":187209.44688087353,\"coho"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "year on year GMV (nominal and constant prices) and orders match pandas",
+   "pass": true,
+   "detail": "55.848427836744754, 26.408141986344692"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "monthly price index identical (24 months)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "orders and GMV by month identical",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "category GMV, orders and units identical (18 categories)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "category AOV, cancellation, late, score and 1-2 star rates identical",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "category 1-2 star rate for on-time deliveries identical",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "region orders, spend per customer and delivery days identical",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "state orders, delivery days and late rates identical (37 states)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "late vs 1-2 star: rates, chi-square, relative risk and CI match SciPy",
+   "pass": true,
+   "detail": "RR 4.184182869153967"
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "Spearman days late vs score matches SciPy",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "Kruskal-Wallis score by category matches SciPy",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "chi-square cancellation by category matches SciPy",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "chi-square 1-2 stars by category (all and on-time) match SciPy",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "Kruskal-Wallis delivery days by state matches SciPy",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "monthly order trend slope and p-value match SciPy linregress",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "lateness buckets (n, average score, 1-2 star share) identical",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "flagged sellers identical (late: 25, low ratings: 13)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "complaint themes of 1-2 star reviews identical",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "cohort retention matrix identical",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T01 load and KPI accuracy",
+   "check": "KPI cards show formatted values",
+   "pass": true,
+   "detail": "GMV iGMVGross merchandise value: sum of line totals (after item discounts, before vouchers and shipping) of orders that "
+  },
+  {
+   "test": "T02 charts render",
+   "check": "overview: cMonth has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "overview: cCatOv has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "categories: cCatRank has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "categories: cCatMatrix has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "categories: cCatTrend has data",
+   "pass": true,
+   "detail": "18 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "customers: cPurch has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "customers: cNewRet has data",
+   "pass": true,
+   "detail": "2 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "customers: cZoneSpend has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "customers: cStateOrders has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "customers: cChannel has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "customers: cOrderHeat has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "delivery: cDelMonth has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "delivery: cDelHist has data",
+   "pass": true,
+   "detail": "2 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "delivery: cZoneDays has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "delivery: cSellerLate has data",
+   "pass": true,
+   "detail": "3 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "experience: cLateness has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "experience: cScoreDist has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "experience: cCatLow has data",
+   "pass": true,
+   "detail": "2 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "experience: cThemes has data",
+   "pass": true,
+   "detail": "1 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "sellers: cSellerScatter has data",
+   "pass": true,
+   "detail": "2 series"
+  },
+  {
+   "test": "T02 charts render",
+   "check": "cohort table shows 8 quarterly cohorts",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T02 charts render",
+   "check": "measure selectors switch without errors",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T03 filters",
+   "check": "month filter Jan-Jun 2025 keeps exactly the matching orders",
+   "pass": true,
+   "detail": "4107 vs 4107"
+  },
+  {
+   "test": "T03 filters",
+   "check": "region filter: North East only",
+   "pass": true,
+   "detail": "444 vs 444"
+  },
+  {
+   "test": "T03 filters",
+   "check": "active filter chip shown",
+   "pass": true,
+   "detail": "Region: North East ✕"
+  },
+  {
+   "test": "T03 filters",
+   "check": "removing the chip removes the filter",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T03 filters",
+   "check": "filters combine (Marketplace Fulfilled + Women's Fashion)",
+   "pass": true,
+   "detail": "1128 vs 1128"
+  },
+  {
+   "test": "T03 filters",
+   "check": "data explorer reflects filters",
+   "pass": true,
+   "detail": "1,128 of 19,438 orders (1,128 after filters). Page 1 of 23."
+  },
+  {
+   "test": "T03 filters",
+   "check": "explorer search narrows rows (seller SL180)",
+   "pass": true,
+   "detail": "1,820 of 19,438 orders (19,438 after filters, 1,820 matching \"SL180\"). Page 1 of 37."
+  },
+  {
+   "test": "T03 filters",
+   "check": "explorer sorts by order value (largest first)",
+   "pass": true,
+   "detail": "3494370"
+  },
+  {
+   "test": "T03 filters",
+   "check": "pagination controls rendered",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T03 filters",
+   "check": "clicking a category bar filters the dashboard (Computing = 849 orders)",
+   "pass": true,
+   "detail": "849"
+  },
+  {
+   "test": "T03 filters",
+   "check": "seller scorecard \"flagged only\" lists every flagged seller",
+   "pass": true,
+   "detail": "28 vs 28"
+  },
+  {
+   "test": "T04 invalid files",
+   "check": "missing required column rejected with explanation",
+   "pass": true,
+   "detail": "\n      02_missing_required_column.csv · 848 B · mode: Add new records\n      Cannot apply. A table in the file is missing required columns (details below).\n     "
+  },
+  {
+   "test": "T04 invalid files",
+   "check": "wrong file type rejected",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T04 invalid files",
+   "check": "file over 25 MB rejected",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T04 invalid files",
+   "check": "dataset unchanged after rejected files",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T05 append upload",
+   "check": "preview totals: 23 rows, 17 new, 1 duplicate, 3 rejected, 2 test records",
+   "pass": true,
+   "detail": "{\"rows in file\":23,\"passed cleaning and validation\":19,\"rejected\":3,\"duplicates\":1,\"new records to add\":17,\"test records removed\":2}"
+  },
+  {
+   "test": "T05 append upload",
+   "check": "per-table rows: orders, order lines and reviews recognised by sheet name",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T05 append upload",
+   "check": "cleaning applied and reported (R2 test order, R3 date, R5 payment, R6 state, I2 test line, V2 text score)",
+   "pass": true,
+   "detail": "R3: 1 day-first dates parsed,R5: 1 payment labels standardised,R6: 1 state names standardised,R2: 1 test orders removedOrder linesorder_items (sheet name)862060\n          I2: 1 test-order lines removedReviewsreviews (sheet name)550050\n          V2: 2 text scores converted\n      \n      \n      \n      "
+  },
+  {
+   "test": "T05 append upload",
+   "check": "rejection reasons listed (bad status, missing order, conflict)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T05 append upload",
+   "check": "validation results downloadable",
+   "pass": true,
+   "detail": "upload_validation_01_append_orders_lines_reviews.xlsx_2026-11-15.csv"
+  },
+  {
+   "test": "T05 append upload",
+   "check": "confirmation sentence uses actual counts",
+   "pass": true,
+   "detail": "Data successfully added. 23 records were processed, 17 were accepted (17 added), 1 duplicate was detected and 5 records were rejected.Orders: 6 added · Order lines: 6 added · Reviews: 5 added.All KPIs, charts, tables, th"
+  },
+  {
+   "test": "T05 append upload",
+   "check": "tables grow: 19,444 orders, 28,115 lines, 11,216 reviews",
+   "pass": true,
+   "detail": "[19444,28115,11216]"
+  },
+  {
+   "test": "T05 append upload",
+   "check": "KPIs recalculated (orders 19,444; GMV up)",
+   "pass": true,
+   "detail": "2091882100"
+  },
+  {
+   "test": "T05 append upload",
+   "check": "raw-style order cleaned: day-first date, POD -> Pay on delivery, \"Lagos State\" -> Lagos",
+   "pass": true,
+   "detail": "[\"2026-01-04 10:15:00\",\"Pay on delivery\",\"Lagos\"]"
+  },
+  {
+   "test": "T05 append upload",
+   "check": "month filter gains Jan 2026",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T05 append upload",
+   "check": "header shows working dataset status",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T06 local persistence",
+   "check": "after reload the working dataset (19,444 orders, 1 upload) is restored from IndexedDB",
+   "pass": true,
+   "detail": "19444, 1"
+  },
+  {
+   "test": "T07 duplicate handling",
+   "check": "re-uploading the same workbook adds nothing (18 duplicates)",
+   "pass": true,
+   "detail": "{\"rows in file\":23,\"passed cleaning and validation\":19,\"rejected\":3,\"duplicates\":18,\"new records to add\":0,\"test records removed\":2}"
+  },
+  {
+   "test": "T07 duplicate handling",
+   "check": "apply button disabled when nothing to add",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T07 duplicate handling",
+   "check": "reviews: older version superseded, text score read, out-of-range score rejected",
+   "pass": true,
+   "detail": "{\"rows in file\":4,\"passed cleaning and validation\":2,\"rejected\":1,\"duplicates\":1,\"new records to add\":2}"
+  },
+  {
+   "test": "T07 duplicate handling",
+   "check": "latest review version kept (score 4, comment trimmed) and \"4/5\" stored as 4",
+   "pass": true,
+   "detail": "MV000003:4:edited version | MV000005:4:null"
+  },
+  {
+   "test": "T08 update or add (merge)",
+   "check": "merge mode: the open order now delivered is an update; nothing new",
+   "pass": true,
+   "detail": "{\"rows in file\":23,\"passed cleaning and validation\":19,\"rejected\":2,\"duplicates\":0,\"new records to add\":0,\"records to update\":1,\"test records removed\":2}"
+  },
+  {
+   "test": "T08 update or add (merge)",
+   "check": "order status updated from shipped to delivered and delivery measures recalculated",
+   "pass": true,
+   "detail": "shipped -> delivered|1|0"
+  },
+  {
+   "test": "T09 JSON and alternative headers",
+   "check": "JSON with orders and order lines accepted (6 new records)",
+   "pass": true,
+   "detail": "{\"rows in file\":6,\"passed cleaning and validation\":6,\"rejected\":0,\"duplicates\":0,\"new records to add\":6}"
+  },
+  {
+   "test": "T09 JSON and alternative headers",
+   "check": "alternative column names mapped and reported",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T09 JSON and alternative headers",
+   "check": "labels standardised (in_transit -> shipped, Completed -> delivered, Abuja -> FCT) and category assigned",
+   "pass": true,
+   "detail": "ALIAS0|shipped|FCT|Men's Fashion ; ALIAS1|delivered|Rivers|Home & Kitchen ; ALIAS2|delivered|Rivers|Shoes & Bags"
+  },
+  {
+   "test": "T10 security",
+   "check": "HTML in uploaded text is shown as text, not executed",
+   "pass": true,
+   "detail": "img 0, alerts 0"
+  },
+  {
+   "test": "T10 security",
+   "check": "exported CSV neutralises formula text",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T11 data export",
+   "check": "full CSV export has every analysed order",
+   "pass": true,
+   "detail": "19449 vs 19449"
+  },
+  {
+   "test": "T11 data export",
+   "check": "export includes uploaded orders and the source column",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T11 data export",
+   "check": "all 19,438 base orders in the export match the pandas analysis file (38 fields each)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T11 data export",
+   "check": "filtered CSV export matches the filtered view",
+   "pass": true,
+   "detail": "6710 vs 6710"
+  },
+  {
+   "test": "T11 data export",
+   "check": "Excel export opens with orders, lines, reviews, 4 summaries and About",
+   "pass": true,
+   "detail": "['Orders (analysis)', 'Order lines', 'Reviews', 'By month', 'By category', 'By state', 'Seller scorecard', 'About'] 19449 28120 11218"
+  },
+  {
+   "test": "T11 data export",
+   "check": "category summary CSV downloads",
+   "pass": true,
+   "detail": "marketvale_category_summary_filtered_2026-11-15.csv"
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "filtered report downloads as a valid PDF",
+   "pass": true,
+   "detail": "8 pages"
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report states scope and filters",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"1. Business context and problem\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"2. Purpose and objectives\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"3. Dataset overview\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"4. Data preparation\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"5. Analytical methods\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"6. KPI definitions\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"7. Key numerical results\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"8. Key findings\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"9. Areas requiring management attention\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"10. Business interpretation\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"11. Recommendations\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report has section \"12. Limitations\"",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report reflects uploaded data (upload history)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "full-dataset report covers every order",
+   "pass": true,
+   "detail": "19449"
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report embeds 6 chart images",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T12 PDF report",
+   "check": "report text is plain ASCII with amounts in NGN",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T13 undo and reset",
+   "check": "undo removes the last upload (security file)",
+   "pass": true,
+   "detail": "19447, 4"
+  },
+  {
+   "test": "T13 undo and reset",
+   "check": "replace asks for confirmation",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T13 undo and reset",
+   "check": "replace leaves only the 40 orders in the file, and no reviews",
+   "pass": true,
+   "detail": "40, 40, 0"
+  },
+  {
+   "test": "T13 undo and reset",
+   "check": "undoing a replace restores the previous data",
+   "pass": true,
+   "detail": "19447"
+  },
+  {
+   "test": "T13 undo and reset",
+   "check": "reset returns to the original 19,438 orders",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T13 undo and reset",
+   "check": "after reset and reload, local data is gone",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T14 raw data cleaning",
+   "check": "raw workbook (4 sheets, 73,914 rows) read and cleaned in the browser",
+   "pass": true,
+   "detail": "4.4 s"
+  },
+  {
+   "test": "T14 raw data cleaning",
+   "check": "every cleaning-rule count equals the workbook cleaning log (23 rules)",
+   "pass": true,
+   "detail": "{\"R3\":971,\"R5\":1943,\"R4\":1555,\"R6\":663,\"R2\":18,\"R9\":98,\"R7\":25,\"R1\":140,\"R8\":30,\"I4\":20,\"I5\":25,\"I1\":60,\"I2\":18,\"I3\":25,\"V5\":200,\"V3\":30,\"V2\":71,\"V1\":120,\"V4\":20,\"C3\":444,\"C2\":593,\"C1\":70,\"C4\":40}"
+  },
+  {
+   "test": "T14 raw data cleaning",
+   "check": "rebuilt orders, lines, reviews and customers are identical to the clean tables",
+   "pass": true,
+   "detail": "{\"orders\":{\"n\":19438,\"base\":19438,\"diff\":0},\"order_items\":{\"n\":28109,\"base\":28109,\"diff\":0},\"reviews\":{\"n\":11211,\"base\":11211,\"diff\":0},\"customers\":{\"n\":14800,\"base\":14800,\"diff\":0}}"
+  },
+  {
+   "test": "T14 raw data cleaning",
+   "check": "KPIs after replacing with the cleaned raw data equal the reference",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "dark mode applied",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "arrow keys move between tabs",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "visible charts have text alternatives",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "mobile 390px: no horizontal page scroll on overview",
+   "pass": true,
+   "detail": "0px"
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "mobile 390px: no horizontal page scroll on categories",
+   "pass": true,
+   "detail": "0px"
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "mobile 390px: no horizontal page scroll on customers",
+   "pass": true,
+   "detail": "0px"
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "mobile 390px: no horizontal page scroll on delivery",
+   "pass": true,
+   "detail": "0px"
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "mobile 390px: no horizontal page scroll on experience",
+   "pass": true,
+   "detail": "0px"
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "mobile 390px: no horizontal page scroll on sellers",
+   "pass": true,
+   "detail": "0px"
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "mobile 390px: no horizontal page scroll on data",
+   "pass": true,
+   "detail": "0px"
+  },
+  {
+   "test": "T15 layout and accessibility",
+   "check": "tablet 820px: no horizontal page scroll",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T16 deployment",
+   "check": "all asset references are relative",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T16 deployment",
+   "check": "every referenced file exists",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T16 deployment",
+   "check": "dashboard works opened directly from disk (file://)",
+   "pass": true,
+   "detail": "19438; "
+  },
+  {
+   "test": "T16 deployment",
+   "check": "no network requests to external hosts",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "T16 deployment",
+   "check": "no JavaScript errors during the whole run",
+   "pass": true,
+   "detail": ""
+  }
+ ]
+}

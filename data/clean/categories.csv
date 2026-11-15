@@ -1,0 +1,19 @@
+category_id,category_name,category_group
+C01,Phones & Tablets,Electronics & Tech
+C02,Computing,Electronics & Tech
+C03,TV & Audio,Electronics & Tech
+C04,Gaming,Electronics & Tech
+C05,Home Appliances,Home & Living
+C06,Home & Kitchen,Home & Living
+C07,Furniture,Home & Living
+C08,Women's Fashion,Fashion
+C09,Men's Fashion,Fashion
+C10,Shoes & Bags,Fashion
+C11,Beauty & Personal Care,Health & Beauty
+C12,Health & Wellness,Health & Beauty
+C13,Groceries & Beverages,Everyday Essentials
+C14,Baby Products,Everyday Essentials
+C15,Sports & Fitness,Lifestyle
+C16,Toys & Games,Lifestyle
+C17,Books & Stationery,Lifestyle
+C18,Automotive,Lifestyle

@@ -1,0 +1,5 @@
+review_id,order_id,review_score,review_date,review_comment
+RVT1,MV000003,2,2025-09-02,first version
+RVT2,MV000003,4,2025-09-04, edited version 
+RVT3,MV000005,4/5,2025-12-31,
+RVT4,MV000009,7,2025-12-31,

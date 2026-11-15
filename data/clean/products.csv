@@ -1,0 +1,2594 @@
+product_id,product_name,product_type,category_id,seller_id,list_price_ngn_2024,is_bulky,listed_date
+P00001,Brightway Suit 2-piece,Suit 2-piece,C09,SL001,9050,0,2024-12-18
+P00002,Eko Basics Jeans Men,Jeans Men,C09,SL001,16250,0,2023-10-25
+P00003,Tribe&Co Shorts,Shorts,C09,SL001,5550,0,2024-06-22
+P00004,Novaline Underwear Pack,Underwear Pack,C09,SL001,18100,0,2023-10-25
+P00005,Bluecrest Jeans Men,Jeans Men,C09,SL001,14400,0,2025-02-03
+P00006,Ofure Shorts,Shorts,C09,SL001,9350,0,2024-02-09
+P00007,Bluecrest Agbada Set,Agbada Set,C09,SL001,11600,0,2023-10-25
+P00008,Halden Suit 2-piece,Suit 2-piece,C09,SL001,10200,0,2024-02-27
+P00009,Halden Polo Shirt,Polo Shirt,C09,SL001,7550,0,2023-10-25
+P00010,Amberly T-shirt Pack of 3,T-shirt Pack of 3,C09,SL001,16000,0,2023-10-25
+P00011,Novaline Polo Shirt,Polo Shirt,C09,SL001,12250,0,2025-02-27
+P00012,Zuritek Agbada Set,Agbada Set,C09,SL001,14100,0,2023-10-25
+P00013,Novaline Senator Wear,Senator Wear,C09,SL001,19600,0,2024-04-17
+P00014,Oyela Agbada Set,Agbada Set,C09,SL001,12850,0,2024-05-01
+P00015,Ofure Polo Shirt,Polo Shirt,C09,SL001,5250,0,2024-06-10
+P00016,Marlow T-shirt Pack of 3,T-shirt Pack of 3,C09,SL001,13650,0,2023-10-25
+P00017,Ikoro Underwear Pack,Underwear Pack,C09,SL001,11050,0,2025-03-03
+P00018,Kito Dinner Set 24pcs,Dinner Set 24pcs,C06,SL002,7350,1,2025-06-29
+P00019,Zenith Home Duvet,Duvet,C06,SL002,9950,0,2024-11-19
+P00020,Oyela Storage Containers Set,Storage Containers Set,C06,SL002,45900,0,2022-09-28
+P00021,Amberly Non-stick Pot Set,Non-stick Pot Set,C06,SL002,22500,0,2022-04-16
+P00022,Sunpeak Bookshelf,Bookshelf,C07,SL002,151650,1,2022-01-25
+P00023,Daria Duvet,Duvet,C06,SL002,10350,0,2022-05-05
+P00024,Marlow TV Stand,TV Stand,C07,SL002,235750,1,2022-10-13
+P00025,Zenith Home 3-Seater Sofa,3-Seater Sofa,C07,SL002,55050,1,2022-11-03
+P00026,Sahel Women's Heels,Women's Heels,C10,SL003,9650,0,2023-10-09
+P00027,Bluecrest Travel Bag,Travel Bag,C10,SL003,35250,0,2023-10-22
+P00028,Ofure Sneakers,Sneakers,C10,SL003,51300,0,2024-07-05
+P00029,Oyela Wallet,Wallet,C10,SL003,22200,0,2023-11-10
+P00030,Oyela Slippers,Slippers,C10,SL003,15800,0,2023-01-27
+P00031,Brightway Backpack,Backpack,C10,SL003,10300,0,2023-10-27
+P00032,Kora Travel Bag,Travel Bag,C10,SL003,22800,0,2024-09-21
+P00033,Ikoro Backpack,Backpack,C10,SL003,13900,0,2023-07-03
+P00034,Nala Leather Sandals,Leather Sandals,C10,SL003,11200,0,2024-01-19
+P00035,Amberly Backpack,Backpack,C10,SL003,9500,0,2024-10-06
+P00036,Novaline Leather Sandals,Leather Sandals,C10,SL003,15200,0,2023-04-16
+P00037,Halden Leather Sandals,Leather Sandals,C10,SL003,16350,0,2024-05-02
+P00038,Halden Leather Sandals,Leather Sandals,C10,SL003,22200,0,2025-05-24
+P00039,Verano Leather Sandals,Leather Sandals,C10,SL003,14950,0,2024-03-24
+P00040,Lumora Sneakers,Sneakers,C10,SL003,57600,0,2023-02-03
+P00041,Sunpeak Sneakers,Sneakers,C10,SL003,54050,0,2025-06-13
+P00042,Halden Travel Bag,Travel Bag,C10,SL003,23850,0,2023-02-04
+P00043,Eko Basics Leather Sandals,Leather Sandals,C10,SL003,12650,0,2022-02-01
+P00044,Kito Travel Bag,Travel Bag,C10,SL003,32150,0,2024-09-26
+P00045,Brightway Women's Heels,Women's Heels,C10,SL003,8600,0,2023-04-10
+P00046,Kito Women's Heels,Women's Heels,C10,SL003,10750,0,2023-06-09
+P00047,Ikoro Travel Bag,Travel Bag,C10,SL003,31750,0,2023-07-15
+P00048,Tribe&Co Wallet,Wallet,C10,SL003,24700,0,2025-04-25
+P00049,Kora Travel Bag,Travel Bag,C10,SL003,27600,0,2022-06-14
+P00050,Sahel Women's Heels,Women's Heels,C10,SL003,12450,0,2023-03-03
+P00051,Nala Leather Sandals,Leather Sandals,C10,SL003,20050,0,2022-01-28
+P00052,Ofure Men's Loafers,Men's Loafers,C10,SL003,12850,0,2022-02-20
+P00053,Kito Men's Loafers,Men's Loafers,C10,SL003,14850,0,2023-12-25
+P00054,Sahel Wallet,Wallet,C10,SL003,35350,0,2023-07-28
+P00055,Zenith Home Water Dispenser,Water Dispenser,C06,SL004,26300,0,2024-03-31
+P00056,Amberly Curtain Pair,Curtain Pair,C06,SL004,10950,0,2023-05-15
+P00057,Tella Rechargeable Lamp,Rechargeable Lamp,C06,SL004,12750,0,2024-08-27
+P00058,Zenith Home Bath Towel Set,Bath Towel Set,C06,SL004,11700,0,2022-11-07
+P00059,Verano Storage Containers Set,Storage Containers Set,C06,SL004,19800,0,2022-05-07
+P00060,Ofure Duvet,Duvet,C06,SL004,10450,0,2022-05-30
+P00061,Oyela Kitchen Knife Set,Kitchen Knife Set,C06,SL004,47450,0,2025-05-11
+P00062,Lumora Duvet,Duvet,C06,SL004,13750,0,2023-08-12
+P00063,Zenith Home Bath Towel Set,Bath Towel Set,C06,SL004,14350,0,2023-08-02
+P00064,Marlow Body Lotion 400ml,Body Lotion 400ml,C11,SL005,4450,0,2025-07-06
+P00065,Marlow Hair Extensions,Hair Extensions,C11,SL005,16800,0,2025-07-06
+P00066,Halden Body Lotion 400ml,Body Lotion 400ml,C11,SL005,1850,0,2025-07-06
+P00067,Novaline Hair Clipper,Hair Clipper,C11,SL005,11450,0,2025-07-06
+P00068,Verano Hair Extensions,Hair Extensions,C11,SL005,13400,0,2025-07-06
+P00069,Daria Deodorant Pack,Deodorant Pack,C11,SL005,10100,0,2025-07-06
+P00070,Tribe&Co Hair Relaxer Kit,Hair Relaxer Kit,C11,SL005,12800,0,2025-07-06
+P00071,Verano Hair Extensions,Hair Extensions,C11,SL005,19400,0,2025-07-06
+P00072,Sahel Hair Relaxer Kit,Hair Relaxer Kit,C11,SL005,12000,0,2025-07-06
+P00073,Sahel Deodorant Pack,Deodorant Pack,C11,SL005,9250,0,2025-07-06
+P00074,Zuritek Face Serum,Face Serum,C11,SL005,5550,0,2025-07-06
+P00075,Ikoro Perfume 100ml,Perfume 100ml,C11,SL005,10300,0,2025-07-06
+P00076,Marlow Shea Butter 500g,Shea Butter 500g,C11,SL005,6100,0,2025-07-06
+P00077,Ikoro Hair Relaxer Kit,Hair Relaxer Kit,C11,SL005,7450,0,2025-07-06
+P00078,Ofure Body Lotion 400ml,Body Lotion 400ml,C11,SL005,1450,0,2025-07-06
+P00079,Ofure Hair Clipper,Hair Clipper,C11,SL005,13550,0,2025-07-06
+P00080,Zenith Home Makeup Palette,Makeup Palette,C11,SL005,7600,0,2025-07-06
+P00081,Daria Jeans Women,Jeans Women,C08,SL006,20650,0,2025-05-22
+P00082,Kito Lingerie Set,Lingerie Set,C08,SL006,11100,0,2025-05-22
+P00083,Kora Ankara Gown,Ankara Gown,C08,SL006,7000,0,2025-05-22
+P00084,Marlow Abaya,Abaya,C08,SL006,6250,0,2025-05-22
+P00085,Halden Maxi Skirt,Maxi Skirt,C08,SL006,23050,0,2025-05-22
+P00086,Ikoro Men's Loafers,Men's Loafers,C10,SL006,17400,0,2025-05-22
+P00087,Kito Two-piece Set,Two-piece Set,C08,SL006,15150,0,2025-05-22
+P00088,Brightway Men's Loafers,Men's Loafers,C10,SL006,13850,0,2025-05-22
+P00089,Halden Bodycon Dress,Bodycon Dress,C08,SL006,8050,0,2025-05-22
+P00090,Halden Maxi Skirt,Maxi Skirt,C08,SL006,23650,0,2025-05-22
+P00091,Verano Blouse,Blouse,C08,SL007,23700,0,2024-07-09
+P00092,Tribe&Co Abaya,Abaya,C08,SL007,11750,0,2024-09-21
+P00093,Sunpeak Blouse,Blouse,C08,SL007,21550,0,2025-06-12
+P00094,Verano Two-piece Set,Two-piece Set,C08,SL007,26350,0,2023-06-28
+P00095,Sunpeak Bodycon Dress,Bodycon Dress,C08,SL007,12050,0,2024-01-17
+P00096,Tribe&Co Jumpsuit,Jumpsuit,C08,SL007,21700,0,2022-07-16
+P00097,Marlow Blouse,Blouse,C08,SL007,31950,0,2025-04-20
+P00098,Ofure Two-piece Set,Two-piece Set,C08,SL007,23050,0,2023-04-27
+P00099,Amberly Ankara Gown,Ankara Gown,C08,SL007,11900,0,2024-01-06
+P00100,Brightway Ankara Gown,Ankara Gown,C08,SL007,14750,0,2022-08-27
+P00101,Bluecrest Lingerie Set,Lingerie Set,C08,SL007,15250,0,2022-07-20
+P00102,Sahel Suit 2-piece,Suit 2-piece,C09,SL008,3950,0,2023-10-14
+P00103,Sunpeak Chinos,Chinos,C09,SL008,21700,0,2023-09-07
+P00104,Zuritek Shorts,Shorts,C09,SL008,8050,0,2023-09-07
+P00105,Ofure Kaftan Set,Kaftan Set,C09,SL008,11750,0,2023-09-07
+P00106,Amberly Shorts,Shorts,C09,SL008,9950,0,2023-09-07
+P00107,Eko Basics Polo Shirt,Polo Shirt,C09,SL008,11300,0,2025-06-19
+P00108,Sahel Agbada Set,Agbada Set,C09,SL008,18550,0,2023-12-04
+P00109,Oyela T-shirt Pack of 3,T-shirt Pack of 3,C09,SL008,11200,0,2023-09-07
+P00110,Sahel Agbada Set,Agbada Set,C09,SL008,8950,0,2023-09-07
+P00111,Ikoro Suit 2-piece,Suit 2-piece,C09,SL008,8650,0,2023-09-07
+P00112,Ofure Novel Paperback,Novel Paperback,C17,SL009,4000,0,2022-09-07
+P00113,Ofure Textbook,Textbook,C17,SL009,3100,0,2025-04-14
+P00114,Tribe&Co Art Supplies Set,Art Supplies Set,C17,SL009,6800,0,2024-04-11
+P00115,Tribe&Co Pens Pack,Pens Pack,C17,SL009,2350,0,2022-10-21
+P00116,Ofure School Bag,School Bag,C17,SL009,4350,0,2023-01-06
+P00117,Ofure Novel Paperback,Novel Paperback,C17,SL009,6750,0,2024-10-25
+P00118,Zenith Home Textbook,Textbook,C17,SL009,3650,0,2024-07-02
+P00119,Zuritek Exercise Books Pack of 20,Exercise Books Pack of 20,C17,SL009,3150,0,2025-03-18
+P00120,Tella Curtain Pair,Curtain Pair,C06,SL010,14500,0,2024-09-07
+P00121,Ofure Dinner Set 24pcs,Dinner Set 24pcs,C06,SL010,7800,1,2023-05-10
+P00122,Verano Dinner Set 24pcs,Dinner Set 24pcs,C06,SL010,6850,1,2022-03-02
+P00123,Zenith Home Bath Towel Set,Bath Towel Set,C06,SL010,42050,0,2024-11-22
+P00124,Zuritek Storage Containers Set,Storage Containers Set,C06,SL010,39850,0,2022-10-07
+P00125,Kora Duvet,Duvet,C06,SL010,9650,0,2022-04-19
+P00126,Ofure Bedsheet Set,Bedsheet Set,C06,SL010,29300,0,2022-08-12
+P00127,Amberly Water Dispenser,Water Dispenser,C06,SL010,10650,0,2024-04-30
+P00128,Tribe&Co Wall Clock,Wall Clock,C06,SL010,12450,1,2023-01-17
+P00129,Tella Kitchen Knife Set,Kitchen Knife Set,C06,SL010,41350,0,2022-03-30
+P00130,Ikoro Kitchen Knife Set,Kitchen Knife Set,C06,SL010,29650,0,2023-07-21
+P00131,Nala Curtain Pair,Curtain Pair,C06,SL010,9550,0,2024-01-06
+P00132,Lumora Bath Towel Set,Bath Towel Set,C06,SL010,28400,0,2022-03-02
+P00133,Tella Water Dispenser,Water Dispenser,C06,SL010,11700,0,2022-04-14
+P00134,Sunpeak Curtain Pair,Curtain Pair,C06,SL010,12900,0,2024-12-12
+P00135,Sahel Storage Containers Set,Storage Containers Set,C06,SL010,37600,0,2023-10-05
+P00136,Halden Non-stick Pot Set,Non-stick Pot Set,C06,SL010,29700,0,2024-11-30
+P00137,Kito Kitchen Knife Set,Kitchen Knife Set,C06,SL010,46950,0,2022-11-10
+P00138,Kora Dinner Set 24pcs,Dinner Set 24pcs,C06,SL010,15450,1,2024-03-01
+P00139,Ikoro Dinner Set 24pcs,Dinner Set 24pcs,C06,SL010,4950,1,2022-07-13
+P00140,Eko Basics Rechargeable Lamp,Rechargeable Lamp,C06,SL010,30800,0,2023-02-27
+P00141,Sahel Curtain Pair,Curtain Pair,C06,SL010,15100,0,2023-05-26
+P00142,Kito Curtain Pair,Curtain Pair,C06,SL010,10400,0,2024-07-12
+P00143,Sunpeak Duvet,Duvet,C06,SL010,6450,0,2025-01-02
+P00144,Sunpeak Storage Containers Set,Storage Containers Set,C06,SL010,20200,0,2022-03-21
+P00145,Ofure Non-stick Pot Set,Non-stick Pot Set,C06,SL010,16000,0,2022-03-02
+P00146,Amberly Bedsheet Set,Bedsheet Set,C06,SL010,13000,0,2024-07-19
+P00147,Eko Basics Rechargeable Lamp,Rechargeable Lamp,C06,SL010,13600,0,2022-08-17
+P00148,Verano Rechargeable Lamp,Rechargeable Lamp,C06,SL010,10750,0,2022-12-20
+P00149,Sahel Storage Containers Set,Storage Containers Set,C06,SL010,53050,0,2023-10-18
+P00150,Tribe&Co Dinner Set 24pcs,Dinner Set 24pcs,C06,SL010,6950,1,2023-06-15
+P00151,Brightway Water Dispenser,Water Dispenser,C06,SL010,8450,0,2025-03-04
+P00152,Verano Bath Towel Set,Bath Towel Set,C06,SL010,17100,0,2023-01-14
+P00153,Zenith Home Water Dispenser,Water Dispenser,C06,SL010,9550,0,2024-10-15
+P00154,Bluecrest Dinner Set 24pcs,Dinner Set 24pcs,C06,SL010,8300,1,2022-12-28
+P00155,Nala Dinner Set 24pcs,Dinner Set 24pcs,C06,SL010,6250,1,2023-01-01
+P00156,Sunpeak Curtain Pair,Curtain Pair,C06,SL010,15600,0,2025-01-24
+P00157,Tella Curtain Pair,Curtain Pair,C06,SL010,7700,0,2022-09-26
+P00158,Zuritek Non-stick Pot Set,Non-stick Pot Set,C06,SL010,12200,0,2022-04-09
+P00159,Marlow Storage Containers Set,Storage Containers Set,C06,SL010,39600,0,2022-09-27
+P00160,Marlow Water Dispenser,Water Dispenser,C06,SL010,14600,0,2023-11-03
+P00161,Halden Bedsheet Set,Bedsheet Set,C06,SL010,12150,0,2024-02-10
+P00162,Amberly Non-stick Pot Set,Non-stick Pot Set,C06,SL010,30500,0,2022-06-13
+P00163,Sahel Rechargeable Lamp,Rechargeable Lamp,C06,SL010,38750,0,2024-12-26
+P00164,Tribe&Co Dinner Set 24pcs,Dinner Set 24pcs,C06,SL010,6000,1,2024-11-18
+P00165,Bluecrest Men's Loafers,Men's Loafers,C10,SL011,16150,0,2024-05-10
+P00166,Zuritek Leather Sandals,Leather Sandals,C10,SL011,14000,0,2024-03-21
+P00167,Daria Travel Bag,Travel Bag,C10,SL011,35650,0,2022-12-29
+P00168,Ofure Wallet,Wallet,C10,SL011,22800,0,2025-05-16
+P00169,Verano Handbag,Handbag,C10,SL011,16200,0,2022-07-30
+P00170,Zenith Home Men's Loafers,Men's Loafers,C10,SL011,23000,0,2024-07-17
+P00171,Sunpeak Men's Loafers,Men's Loafers,C10,SL011,10800,0,2022-08-26
+P00172,Amberly Women's Heels,Women's Heels,C10,SL011,7100,0,2024-03-20
+P00173,Verano Backpack,Backpack,C10,SL011,10100,0,2024-06-30
+P00174,Oyela Noodles Carton,Noodles Carton,C13,SL012,6750,0,2025-01-11
+P00175,Bluecrest Vegetable Oil 3L,Vegetable Oil 3L,C13,SL012,7700,0,2024-11-18
+P00176,Sunpeak Coffee 200g,Coffee 200g,C13,SL012,7200,0,2024-11-18
+P00177,Sunpeak Beverage Drink 900g,Beverage Drink 900g,C13,SL012,1950,0,2024-11-18
+P00178,Halden Tomato Paste Carton,Tomato Paste Carton,C13,SL012,13550,0,2024-11-18
+P00179,Halden Infant Formula 400g,Infant Formula 400g,C14,SL012,10200,0,2024-11-18
+P00180,Tribe&Co Bottled Water Pack,Bottled Water Pack,C13,SL012,5800,0,2024-11-18
+P00181,Zuritek Baby Carrier,Baby Carrier,C14,SL012,14800,0,2024-11-18
+P00182,Sahel Coffee 200g,Coffee 200g,C13,SL012,9600,0,2024-11-18
+P00183,Halden Noodles Carton,Noodles Carton,C13,SL012,4600,0,2024-11-18
+P00184,Kito Cereal 500g,Cereal 500g,C13,SL012,6850,0,2024-11-18
+P00185,Amberly Baby Carrier,Baby Carrier,C14,SL012,10300,0,2024-11-18
+P00186,Tribe&Co Baby Clothing Set,Baby Clothing Set,C14,SL012,14750,0,2024-11-18
+P00187,Amberly Coffee 200g,Coffee 200g,C13,SL012,4650,0,2024-11-18
+P00188,Eko Basics Vegetable Oil 3L,Vegetable Oil 3L,C13,SL012,6500,0,2024-11-18
+P00189,Ofure Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL012,6600,0,2024-11-18
+P00190,Lumora Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL012,11350,0,2024-11-18
+P00191,Marlow Soft Drinks Pack,Soft Drinks Pack,C13,SL012,7900,0,2024-11-18
+P00192,Zuritek Coffee 200g,Coffee 200g,C13,SL012,6350,0,2024-11-18
+P00193,Nala Digital Thermometer,Digital Thermometer,C12,SL013,7100,0,2024-07-10
+P00194,Halden Glucose Meter,Glucose Meter,C12,SL013,3300,0,2024-01-28
+P00195,Nala Digital Thermometer,Digital Thermometer,C12,SL013,10250,0,2023-10-18
+P00196,Kito Protein Powder,Protein Powder,C12,SL013,6850,0,2023-10-18
+P00197,Eko Basics Face Masks Pack,Face Masks Pack,C12,SL013,10400,0,2025-05-13
+P00198,Tribe&Co Face Masks Pack,Face Masks Pack,C12,SL013,17050,0,2024-09-07
+P00199,Ofure Digital Thermometer,Digital Thermometer,C12,SL013,3450,0,2024-04-25
+P00200,Kito Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL013,9300,0,2023-10-18
+P00201,Ofure Digital Thermometer,Digital Thermometer,C12,SL013,4300,0,2023-10-18
+P00202,Daria Face Masks Pack,Face Masks Pack,C12,SL013,19500,0,2024-07-07
+P00203,Tella Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL013,15400,0,2024-08-21
+P00204,Verano First Aid Kit,First Aid Kit,C12,SL013,7450,0,2023-12-31
+P00205,Marlow Protein Powder,Protein Powder,C12,SL013,7450,0,2023-10-18
+P00206,Halden Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL013,20550,0,2024-11-20
+P00207,Daria Blood Pressure Monitor,Blood Pressure Monitor,C12,SL013,16800,0,2024-04-20
+P00208,Verano Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL013,12500,0,2023-11-21
+P00209,Zenith Home Face Masks Pack,Face Masks Pack,C12,SL013,9600,0,2023-10-18
+P00210,Halden First Aid Kit,First Aid Kit,C12,SL013,9600,0,2023-10-18
+P00211,Zenith Home Glucose Meter,Glucose Meter,C12,SL013,4900,0,2023-10-18
+P00212,Nala Digital Thermometer,Digital Thermometer,C12,SL013,6900,0,2023-10-18
+P00213,Marlow First Aid Kit,First Aid Kit,C12,SL013,11350,0,2023-10-18
+P00214,Eko Basics Glucose Meter,Glucose Meter,C12,SL013,7900,0,2023-10-18
+P00215,Marlow Herbal Tea,Herbal Tea,C12,SL013,10500,0,2023-10-18
+P00216,Nala Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL013,14150,0,2023-10-18
+P00217,Daria Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL013,11950,0,2024-04-27
+P00218,Lumora First Aid Kit,First Aid Kit,C12,SL013,9550,0,2023-10-18
+P00219,Zenith Home Face Masks Pack,Face Masks Pack,C12,SL013,16650,0,2023-10-18
+P00220,Zuritek Blood Pressure Monitor,Blood Pressure Monitor,C12,SL013,9400,0,2023-10-18
+P00221,Halden Blood Pressure Monitor,Blood Pressure Monitor,C12,SL013,4500,0,2023-10-18
+P00222,Marlow Wallet,Wallet,C10,SL014,29650,0,2024-02-29
+P00223,Amberly Sneakers,Sneakers,C10,SL014,64350,0,2024-05-07
+P00224,Sunpeak Kaftan Set,Kaftan Set,C09,SL014,16450,0,2024-07-07
+P00225,Halden Men's Loafers,Men's Loafers,C10,SL014,14550,0,2024-02-29
+P00226,Verano Leather Sandals,Leather Sandals,C10,SL014,22200,0,2024-07-12
+P00227,Daria Sneakers,Sneakers,C10,SL014,33450,0,2025-06-15
+P00228,Sunpeak Backpack,Backpack,C10,SL014,12200,0,2024-02-29
+P00229,Ofure Wallet,Wallet,C10,SL014,44900,0,2024-02-29
+P00230,Halden Women's Heels,Women's Heels,C10,SL014,15050,0,2025-05-27
+P00231,Ikoro Electric Kettle,Electric Kettle,C05,SL015,78750,1,2024-05-27
+P00232,Tella Blender 1.5L,Blender 1.5L,C05,SL015,33650,0,2024-08-15
+P00233,Zenith Home Rechargeable Fan,Rechargeable Fan,C05,SL015,137450,1,2023-12-19
+P00234,Kora Double Door Fridge,Double Door Fridge,C05,SL015,109450,1,2023-12-20
+P00235,Sahel Washing Machine 7kg,Washing Machine 7kg,C05,SL015,38800,0,2023-04-14
+P00236,Daria Double Door Fridge,Double Door Fridge,C05,SL015,98750,1,2023-04-14
+P00237,Oyela Washing Machine 7kg,Washing Machine 7kg,C05,SL015,44150,0,2023-07-08
+P00238,Zenith Home Split Air Conditioner 1.5HP,Split Air Conditioner 1.5HP,C05,SL015,114450,0,2023-10-20
+P00239,Verano Standing Fan 18in,Standing Fan 18in,C05,SL015,220150,0,2023-04-14
+P00240,Ikoro Chest Freezer 200L,Chest Freezer 200L,C05,SL015,154450,0,2023-04-14
+P00241,Tribe&Co Standing Fan 18in,Standing Fan 18in,C05,SL015,158450,0,2023-06-27
+P00242,Verano Split Air Conditioner 1.5HP,Split Air Conditioner 1.5HP,C05,SL015,116950,0,2023-04-14
+P00243,Sunpeak Abaya,Abaya,C08,SL016,10950,0,2022-10-29
+P00244,Daria Polo Shirt,Polo Shirt,C09,SL016,6700,0,2023-01-28
+P00245,Verano Chinos,Chinos,C09,SL016,29350,0,2024-01-06
+P00246,Daria Chinos,Chinos,C09,SL016,17600,0,2025-05-24
+P00247,Tella Polo Shirt,Polo Shirt,C09,SL016,12450,0,2023-12-16
+P00248,Tella Lingerie Set,Lingerie Set,C08,SL016,16100,0,2022-07-06
+P00249,Marlow Kaftan Set,Kaftan Set,C09,SL016,21450,0,2023-07-05
+P00250,Daria Underwear Pack,Underwear Pack,C09,SL016,23600,0,2024-02-15
+P00251,Eko Basics Agbada Set,Agbada Set,C09,SL016,19650,0,2024-07-11
+P00252,Kora Blood Pressure Monitor,Blood Pressure Monitor,C12,SL017,7300,0,2025-08-10
+P00253,Ikoro Face Masks Pack,Face Masks Pack,C12,SL017,22500,0,2025-08-10
+P00254,Verano First Aid Kit,First Aid Kit,C12,SL017,7450,0,2025-08-10
+P00255,Tribe&Co Protein Powder,Protein Powder,C12,SL017,9300,0,2025-08-10
+P00256,Sahel Herbal Tea,Herbal Tea,C12,SL017,9300,0,2025-08-10
+P00257,Verano Glucose Meter,Glucose Meter,C12,SL017,8500,0,2025-08-10
+P00258,Nala Blood Pressure Monitor,Blood Pressure Monitor,C12,SL017,15350,0,2025-08-10
+P00259,Nala First Aid Kit,First Aid Kit,C12,SL017,6000,0,2025-08-10
+P00260,Brightway Herbal Tea,Herbal Tea,C12,SL017,12700,0,2025-08-10
+P00261,Tribe&Co Protein Powder,Protein Powder,C12,SL017,18750,0,2025-08-10
+P00262,Oyela Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL017,15150,0,2025-08-10
+P00263,Oyela First Aid Kit,First Aid Kit,C12,SL018,14050,0,2023-01-15
+P00264,Amberly Hair Extensions,Hair Extensions,C11,SL018,18000,0,2023-06-24
+P00265,Oyela Face Serum,Face Serum,C11,SL018,4350,0,2023-03-16
+P00266,Tella Beard Grooming Kit,Beard Grooming Kit,C11,SL018,8100,0,2023-11-12
+P00267,Sunpeak Hair Relaxer Kit,Hair Relaxer Kit,C11,SL018,6700,0,2023-09-06
+P00268,Eko Basics Hair Clipper,Hair Clipper,C11,SL018,7350,0,2022-10-31
+P00269,Eko Basics Hair Relaxer Kit,Hair Relaxer Kit,C11,SL018,10000,0,2022-12-01
+P00270,Halden Makeup Palette,Makeup Palette,C11,SL018,8200,0,2023-03-31
+P00271,Oyela Makeup Palette,Makeup Palette,C11,SL018,5750,0,2022-10-31
+P00272,Kito Hair Relaxer Kit,Hair Relaxer Kit,C11,SL018,11050,0,2023-10-16
+P00273,Tribe&Co Resistance Bands,Resistance Bands,C15,SL019,29300,0,2022-10-18
+P00274,Verano Bicycle,Bicycle,C15,SL019,17250,0,2023-02-19
+P00275,Zenith Home Bicycle,Bicycle,C15,SL019,19550,0,2024-08-06
+P00276,Zenith Home Bicycle,Bicycle,C15,SL019,17400,0,2023-06-09
+P00277,Zenith Home Bicycle,Bicycle,C15,SL019,11050,0,2025-05-31
+P00278,Sahel Yoga Mat,Yoga Mat,C15,SL019,17950,0,2024-03-03
+P00279,Zenith Home Yoga Mat,Yoga Mat,C15,SL019,29150,0,2024-06-01
+P00280,Zuritek Resistance Bands,Resistance Bands,C15,SL019,23350,0,2024-07-12
+P00281,Sahel Exercise Bike,Exercise Bike,C15,SL019,10500,0,2023-02-15
+P00282,Kora Football,Football,C15,SL019,20450,1,2024-04-17
+P00283,Novaline Treadmill,Treadmill,C15,SL019,40150,1,2025-02-05
+P00284,Ikoro Jersey,Jersey,C15,SL019,65450,1,2022-08-07
+P00285,Lumora Jump Starter,Jump Starter,C18,SL020,22900,0,2023-05-03
+P00286,Ikoro Jump Starter,Jump Starter,C18,SL020,19050,0,2024-03-08
+P00287,Sunpeak Car Vacuum Cleaner,Car Vacuum Cleaner,C18,SL020,40900,0,2023-10-01
+P00288,Brightway Car Phone Holder,Car Phone Holder,C18,SL020,49350,0,2022-09-22
+P00289,Daria Dash Camera,Dash Camera,C18,SL020,27450,0,2024-12-28
+P00290,Zenith Home Jump Starter,Jump Starter,C18,SL020,17050,0,2023-11-09
+P00291,Zenith Home Jump Starter,Jump Starter,C18,SL020,13200,0,2023-10-14
+P00292,Daria Jump Starter,Jump Starter,C18,SL020,9250,0,2025-05-30
+P00293,Tella Engine Oil 4L,Engine Oil 4L,C18,SL020,9600,0,2022-03-29
+P00294,Tribe&Co Car Phone Holder,Car Phone Holder,C18,SL020,64100,0,2025-02-20
+P00295,Sahel Dash Camera,Dash Camera,C18,SL020,26650,0,2025-05-02
+P00296,Sunpeak Tyre 16in,Tyre 16in,C18,SL020,26900,0,2025-01-16
+P00297,Sahel Dash Camera,Dash Camera,C18,SL020,30950,0,2022-08-25
+P00298,Marlow Dash Camera,Dash Camera,C18,SL020,12050,0,2023-01-13
+P00299,Zenith Home Engine Oil 4L,Engine Oil 4L,C18,SL020,14050,0,2022-05-12
+P00300,Marlow Jump Starter,Jump Starter,C18,SL020,33600,0,2024-02-06
+P00301,Tella Car Vacuum Cleaner,Car Vacuum Cleaner,C18,SL020,18700,0,2022-02-14
+P00302,Tribe&Co Car Phone Holder,Car Phone Holder,C18,SL020,52350,0,2024-08-18
+P00303,Oyela Jump Starter,Jump Starter,C18,SL020,16750,0,2022-12-20
+P00304,Ofure Car Seat Covers,Car Seat Covers,C18,SL020,51200,0,2023-10-10
+P00305,Zuritek Car Seat Covers,Car Seat Covers,C18,SL020,29500,0,2025-01-11
+P00306,Ofure Car Seat Covers,Car Seat Covers,C18,SL020,54700,0,2025-04-30
+P00307,Verano Dash Camera,Dash Camera,C18,SL020,82500,0,2025-06-20
+P00308,Ofure Car Battery,Car Battery,C18,SL020,15000,0,2022-04-04
+P00309,Oyela Dash Camera,Dash Camera,C18,SL020,18900,0,2023-01-12
+P00310,Sunpeak Jump Starter,Jump Starter,C18,SL020,20550,0,2024-05-26
+P00311,Ofure Engine Oil 4L,Engine Oil 4L,C18,SL020,26800,0,2022-07-08
+P00312,Marlow Tyre 16in,Tyre 16in,C18,SL020,9450,0,2024-05-10
+P00313,Ofure Car Seat Covers,Car Seat Covers,C18,SL020,31400,0,2023-06-16
+P00314,Tella Dash Camera,Dash Camera,C18,SL020,24000,0,2025-01-25
+P00315,Oyela Car Seat Covers,Car Seat Covers,C18,SL020,69750,0,2023-06-01
+P00316,Daria Tyre 16in,Tyre 16in,C18,SL020,11650,0,2024-10-30
+P00317,Sunpeak Dash Camera,Dash Camera,C18,SL020,16150,0,2023-10-09
+P00318,Daria Tyre 16in,Tyre 16in,C18,SL020,15550,0,2023-03-10
+P00319,Zuritek Jump Starter,Jump Starter,C18,SL020,11500,0,2023-06-11
+P00320,Tribe&Co Car Seat Covers,Car Seat Covers,C18,SL020,46100,0,2023-06-13
+P00321,Marlow Car Battery,Car Battery,C18,SL020,19850,0,2025-03-07
+P00322,Verano Jump Starter,Jump Starter,C18,SL020,16650,0,2023-09-01
+P00323,Zenith Home Ankara Gown,Ankara Gown,C08,SL021,5300,0,2023-01-07
+P00324,Tribe&Co Two-piece Set,Two-piece Set,C08,SL021,24600,0,2024-11-22
+P00325,Novaline Abaya,Abaya,C08,SL021,7800,0,2024-10-25
+P00326,Marlow Blouse,Blouse,C08,SL021,21800,0,2022-10-10
+P00327,Novaline Lingerie Set,Lingerie Set,C08,SL021,16700,0,2022-08-09
+P00328,Kora Wide-leg Trousers,Wide-leg Trousers,C08,SL021,15150,0,2022-01-30
+P00329,Daria Wide-leg Trousers,Wide-leg Trousers,C08,SL021,18250,0,2024-12-27
+P00330,Bluecrest Abaya,Abaya,C08,SL021,4650,0,2025-04-01
+P00331,Daria Ankara Gown,Ankara Gown,C08,SL021,13550,0,2025-01-01
+P00332,Verano Split Air Conditioner 1.5HP,Split Air Conditioner 1.5HP,C05,SL022,157700,0,2025-05-05
+P00333,Eko Basics Chest Freezer 200L,Chest Freezer 200L,C05,SL022,132900,0,2022-10-31
+P00334,Amberly Double Door Fridge,Double Door Fridge,C05,SL022,161700,1,2025-04-08
+P00335,Halden Standing Fan 18in,Standing Fan 18in,C05,SL022,106700,0,2024-07-10
+P00336,Kito Washing Machine 7kg,Washing Machine 7kg,C05,SL022,24200,0,2022-07-01
+P00337,Tella Blender 1.5L,Blender 1.5L,C05,SL022,45050,0,2024-04-20
+P00338,Tella Split Air Conditioner 1.5HP,Split Air Conditioner 1.5HP,C05,SL022,201450,0,2022-04-13
+P00339,Sunpeak Double Door Fridge,Double Door Fridge,C05,SL022,81100,1,2023-03-31
+P00340,Tribe&Co Electric Kettle,Electric Kettle,C05,SL022,78800,1,2023-05-10
+P00341,Zenith Home Chest Freezer 200L,Chest Freezer 200L,C05,SL022,138850,0,2022-11-04
+P00342,Sahel Blender 1.5L,Blender 1.5L,C05,SL022,50200,0,2023-04-04
+P00343,Eko Basics Washing Machine 7kg,Washing Machine 7kg,C05,SL022,29550,0,2022-10-01
+P00344,Ikoro Standing Fan 18in,Standing Fan 18in,C05,SL022,131950,0,2023-02-03
+P00345,Ikoro Standing Fan 18in,Standing Fan 18in,C05,SL022,140500,0,2024-10-11
+P00346,Zuritek Microwave Oven 20L,Microwave Oven 20L,C05,SL022,34500,1,2024-12-12
+P00347,Bluecrest Wide-leg Trousers,Wide-leg Trousers,C08,SL023,16350,0,2022-08-21
+P00348,Sunpeak Lingerie Set,Lingerie Set,C08,SL023,19450,0,2024-09-21
+P00349,Sahel Jumpsuit,Jumpsuit,C08,SL023,13450,0,2023-10-17
+P00350,Marlow Two-piece Set,Two-piece Set,C08,SL023,26850,0,2024-08-29
+P00351,Tribe&Co Bodycon Dress,Bodycon Dress,C08,SL023,7850,0,2025-04-18
+P00352,Kora Blouse,Blouse,C08,SL023,15500,0,2025-01-16
+P00353,Bluecrest Abaya,Abaya,C08,SL023,12450,0,2023-07-19
+P00354,Novaline Ankara Gown,Ankara Gown,C08,SL023,11900,0,2024-08-05
+P00355,Daria Abaya,Abaya,C08,SL023,7750,0,2025-06-15
+P00356,Daria Two-piece Set,Two-piece Set,C08,SL023,10900,0,2024-11-11
+P00357,Ofure Jumpsuit,Jumpsuit,C08,SL023,18800,0,2024-12-24
+P00358,Oyela Maxi Skirt,Maxi Skirt,C08,SL023,12600,0,2024-05-23
+P00359,Kora Blouse,Blouse,C08,SL023,38350,0,2023-01-29
+P00360,Verano Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL024,160100,0,2025-02-14
+P00361,Tribe&Co Kids Tablet 7in,Kids Tablet 7in,C01,SL024,387550,0,2022-08-08
+P00362,Kora Wireless Earbuds,Wireless Earbuds,C01,SL024,215700,0,2025-06-26
+P00363,Ofure Smartwatch,Smartwatch,C01,SL024,154500,0,2023-12-18
+P00364,Tribe&Co Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL024,163750,0,2023-11-24
+P00365,Sunpeak Android Tablet 10in,Android Tablet 10in,C01,SL024,163800,0,2025-01-20
+P00366,Kora Power Bank 20000mAh,Power Bank 20000mAh,C01,SL024,64250,0,2023-11-08
+P00367,Zuritek Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL024,411950,0,2022-11-13
+P00368,Sahel Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL024,306800,0,2024-01-29
+P00369,Marlow Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL024,230350,0,2022-01-24
+P00370,Eko Basics Smartwatch,Smartwatch,C01,SL024,137950,0,2023-04-08
+P00371,Bluecrest Underwear Pack,Underwear Pack,C09,SL025,20400,0,2024-04-05
+P00372,Zenith Home Suit 2-piece,Suit 2-piece,C09,SL025,4250,0,2024-04-05
+P00373,Brightway Chinos,Chinos,C09,SL025,23950,0,2024-04-05
+P00374,Kito Agbada Set,Agbada Set,C09,SL025,19500,0,2024-04-05
+P00375,Zuritek Suit 2-piece,Suit 2-piece,C09,SL025,15650,0,2024-06-08
+P00376,Ofure Kaftan Set,Kaftan Set,C09,SL025,11300,0,2024-04-05
+P00377,Tribe&Co Suit 2-piece,Suit 2-piece,C09,SL025,4500,0,2025-04-29
+P00378,Novaline Polo Shirt,Polo Shirt,C09,SL025,6350,0,2024-12-22
+P00379,Sahel T-shirt Pack of 3,T-shirt Pack of 3,C09,SL025,7750,0,2024-04-27
+P00380,Ofure Chinos,Chinos,C09,SL025,28050,0,2024-04-05
+P00381,Bluecrest Jeans Men,Jeans Men,C09,SL025,16300,0,2024-04-05
+P00382,Nala Hair Relaxer Kit,Hair Relaxer Kit,C11,SL026,8600,0,2024-10-09
+P00383,Verano Hair Extensions,Hair Extensions,C11,SL026,19000,0,2025-05-09
+P00384,Brightway Hair Extensions,Hair Extensions,C11,SL026,14900,0,2024-10-09
+P00385,Tribe&Co Hair Relaxer Kit,Hair Relaxer Kit,C11,SL026,6950,0,2024-10-09
+P00386,Tribe&Co Beard Grooming Kit,Beard Grooming Kit,C11,SL026,9250,0,2024-10-09
+P00387,Daria Beard Grooming Kit,Beard Grooming Kit,C11,SL026,17650,0,2024-10-09
+P00388,Halden Hair Relaxer Kit,Hair Relaxer Kit,C11,SL026,6100,0,2024-10-09
+P00389,Nala Makeup Palette,Makeup Palette,C11,SL026,7600,0,2024-10-09
+P00390,Lumora Shea Butter 500g,Shea Butter 500g,C11,SL026,11750,0,2024-10-09
+P00391,Nala Hair Clipper,Hair Clipper,C11,SL026,19000,0,2024-10-09
+P00392,Sahel Makeup Palette,Makeup Palette,C11,SL026,8700,0,2024-10-09
+P00393,Brightway Shea Butter 500g,Shea Butter 500g,C11,SL026,9850,0,2024-10-09
+P00394,Amberly External Hard Drive 1TB,External Hard Drive 1TB,C02,SL027,287750,0,2023-02-04
+P00395,Zuritek Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL027,436700,0,2023-06-10
+P00396,Zuritek USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL027,274600,0,2023-02-04
+P00397,Daria Inkjet Printer,Inkjet Printer,C02,SL027,206200,0,2023-02-04
+P00398,Ofure Inkjet Printer,Inkjet Printer,C02,SL027,408900,0,2023-07-20
+P00399,Kito Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL027,495100,0,2025-03-08
+P00400,Eko Basics Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL027,431650,0,2023-07-13
+P00401,Ofure USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL027,205950,0,2023-08-28
+P00402,Sunpeak Inkjet Printer,Inkjet Printer,C02,SL027,399100,0,2023-11-22
+P00403,Sunpeak Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL027,820250,0,2024-08-08
+P00404,Verano Laptop Bag,Laptop Bag,C02,SL027,368800,0,2024-07-13
+P00405,Tella Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL027,507300,0,2023-02-04
+P00406,Eko Basics Laptop Bag,Laptop Bag,C02,SL027,343450,0,2023-08-23
+P00407,Lumora USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL027,163100,0,2023-02-04
+P00408,Tella Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL027,391850,0,2023-06-10
+P00409,Bluecrest Monitor 24in,Monitor 24in,C02,SL027,341650,0,2023-02-04
+P00410,Halden Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL027,654450,0,2023-02-04
+P00411,Brightway Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL027,206500,0,2023-02-04
+P00412,Zenith Home Inkjet Printer,Inkjet Printer,C02,SL027,309350,0,2023-07-10
+P00413,Ofure Wi-Fi Router,Wi-Fi Router,C02,SL027,231400,1,2024-09-30
+P00414,Kito Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL027,452250,0,2023-02-04
+P00415,Tribe&Co Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL027,325000,0,2023-05-30
+P00416,Eko Basics Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL027,635750,0,2024-01-15
+P00417,Zuritek Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL027,216700,0,2023-04-18
+P00418,Bluecrest Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL027,552300,0,2023-02-04
+P00419,Sunpeak External Hard Drive 1TB,External Hard Drive 1TB,C02,SL027,459650,0,2023-10-30
+P00420,Amberly Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL027,365550,0,2025-05-24
+P00421,Lumora Maxi Skirt,Maxi Skirt,C08,SL028,18250,0,2023-08-27
+P00422,Eko Basics Blouse,Blouse,C08,SL028,38200,0,2024-11-11
+P00423,Eko Basics Bodycon Dress,Bodycon Dress,C08,SL028,7750,0,2024-02-07
+P00424,Eko Basics Two-piece Set,Two-piece Set,C08,SL028,12600,0,2023-10-04
+P00425,Oyela Bodycon Dress,Bodycon Dress,C08,SL028,6150,0,2023-04-01
+P00426,Halden Blouse,Blouse,C08,SL028,26500,0,2023-09-03
+P00427,Tella Ankara Gown,Ankara Gown,C08,SL028,12050,0,2022-04-26
+P00428,Zenith Home Blouse,Blouse,C08,SL028,40400,0,2023-03-08
+P00429,Daria Two-piece Set,Two-piece Set,C08,SL028,18600,0,2023-01-16
+P00430,Novaline Abaya,Abaya,C08,SL028,11000,0,2024-06-10
+P00431,Amberly Lingerie Set,Lingerie Set,C08,SL028,15100,0,2023-09-30
+P00432,Nala Lingerie Set,Lingerie Set,C08,SL028,16000,0,2023-12-21
+P00433,Halden Wide-leg Trousers,Wide-leg Trousers,C08,SL028,34500,0,2024-10-05
+P00434,Tribe&Co Bodycon Dress,Bodycon Dress,C08,SL028,5650,0,2022-06-30
+P00435,Verano Jeans Women,Jeans Women,C08,SL028,8000,0,2025-01-08
+P00436,Daria Two-piece Set,Two-piece Set,C08,SL028,17700,0,2023-06-15
+P00437,Novaline Jumpsuit,Jumpsuit,C08,SL028,20750,0,2024-04-24
+P00438,Lumora Bodycon Dress,Bodycon Dress,C08,SL028,7650,0,2022-06-24
+P00439,Verano Jumpsuit,Jumpsuit,C08,SL028,12450,0,2022-02-12
+P00440,Lumora Jeans Women,Jeans Women,C08,SL028,12300,0,2023-10-05
+P00441,Lumora Jumpsuit,Jumpsuit,C08,SL028,18550,0,2022-12-18
+P00442,Verano Lingerie Set,Lingerie Set,C08,SL028,19100,0,2025-03-09
+P00443,Halden Abaya,Abaya,C08,SL028,8600,0,2025-05-12
+P00444,Novaline Bodycon Dress,Bodycon Dress,C08,SL028,12850,0,2024-10-14
+P00445,Ikoro Wide-leg Trousers,Wide-leg Trousers,C08,SL028,15250,0,2022-08-28
+P00446,Eko Basics Blouse,Blouse,C08,SL028,26150,0,2023-02-06
+P00447,Lumora Maxi Skirt,Maxi Skirt,C08,SL028,19150,0,2022-06-04
+P00448,Ofure Bodycon Dress,Bodycon Dress,C08,SL028,8650,0,2024-12-31
+P00449,Ikoro Lingerie Set,Lingerie Set,C08,SL028,14800,0,2025-06-20
+P00450,Ofure Jumpsuit,Jumpsuit,C08,SL028,12050,0,2022-08-10
+P00451,Tribe&Co Maxi Skirt,Maxi Skirt,C08,SL028,26700,0,2024-03-21
+P00452,Nala Lingerie Set,Lingerie Set,C08,SL028,16400,0,2024-06-22
+P00453,Brightway Bodycon Dress,Bodycon Dress,C08,SL028,15450,0,2023-05-06
+P00454,Kito Lingerie Set,Lingerie Set,C08,SL028,12800,0,2023-02-05
+P00455,Kito Abaya,Abaya,C08,SL028,6950,0,2023-04-06
+P00456,Daria Blouse,Blouse,C08,SL028,33400,0,2024-10-28
+P00457,Ofure Ankara Gown,Ankara Gown,C08,SL028,11400,0,2022-07-21
+P00458,Ofure Wide-leg Trousers,Wide-leg Trousers,C08,SL028,31550,0,2022-09-21
+P00459,Daria Jeans Women,Jeans Women,C08,SL028,21800,0,2022-06-26
+P00460,Ofure Lingerie Set,Lingerie Set,C08,SL028,13100,0,2023-02-11
+P00461,Ikoro Maxi Skirt,Maxi Skirt,C08,SL028,7250,0,2022-10-25
+P00462,Bluecrest Lingerie Set,Lingerie Set,C08,SL028,11250,0,2024-12-23
+P00463,Marlow Ankara Gown,Ankara Gown,C08,SL028,12950,0,2022-10-31
+P00464,Zenith Home Ankara Gown,Ankara Gown,C08,SL028,10350,0,2023-10-20
+P00465,Verano Blouse,Blouse,C08,SL028,35400,0,2024-03-11
+P00466,Sahel Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL029,139550,0,2022-05-10
+P00467,Zuritek Smartwatch,Smartwatch,C01,SL029,119050,0,2023-01-28
+P00468,Zenith Home Android Tablet 10in,Android Tablet 10in,C01,SL029,157350,0,2024-05-11
+P00469,Kora Smartwatch,Smartwatch,C01,SL029,190950,0,2022-09-05
+P00470,Nala Wireless Earbuds,Wireless Earbuds,C01,SL029,157200,0,2024-09-28
+P00471,Zuritek Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL029,111950,0,2022-07-04
+P00472,Lumora Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL029,234650,0,2022-11-20
+P00473,Lumora Smartwatch,Smartwatch,C01,SL029,120750,0,2022-06-15
+P00474,Kito Hair Relaxer Kit,Hair Relaxer Kit,C11,SL030,17300,0,2024-08-28
+P00475,Sunpeak Makeup Palette,Makeup Palette,C11,SL030,5100,0,2022-08-18
+P00476,Sahel Hair Extensions,Hair Extensions,C11,SL030,12900,0,2024-02-20
+P00477,Sunpeak Shea Butter 500g,Shea Butter 500g,C11,SL030,6550,0,2024-11-15
+P00478,Oyela Shea Butter 500g,Shea Butter 500g,C11,SL030,6200,0,2024-08-06
+P00479,Lumora Perfume 100ml,Perfume 100ml,C11,SL030,5350,0,2023-12-30
+P00480,Zuritek Face Serum,Face Serum,C11,SL030,6150,0,2025-02-05
+P00481,Amberly Deodorant Pack,Deodorant Pack,C11,SL030,6000,0,2022-07-30
+P00482,Amberly Shea Butter 500g,Shea Butter 500g,C11,SL030,7850,0,2024-04-11
+P00483,Zenith Home Hair Relaxer Kit,Hair Relaxer Kit,C11,SL030,7400,0,2023-04-17
+P00484,Amberly Baby Cot,Baby Cot,C14,SL031,14900,0,2022-08-26
+P00485,Daria Baby Carrier,Baby Carrier,C14,SL031,15050,0,2025-02-20
+P00486,Brightway Baby Wipes Pack,Baby Wipes Pack,C14,SL031,10500,0,2024-05-16
+P00487,Bluecrest Baby Wipes Pack,Baby Wipes Pack,C14,SL031,37200,0,2023-09-06
+P00488,Nala Baby Carrier,Baby Carrier,C14,SL031,20150,0,2023-05-13
+P00489,Bluecrest Feeding Bottle Set,Feeding Bottle Set,C14,SL031,11100,0,2024-01-05
+P00490,Tribe&Co Feeding Bottle Set,Feeding Bottle Set,C14,SL031,6450,0,2024-09-16
+P00491,Brightway Baby Carrier,Baby Carrier,C14,SL031,14700,0,2024-06-22
+P00492,Bluecrest Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL031,16400,0,2023-04-01
+P00493,Tella Baby Carrier,Baby Carrier,C14,SL031,10300,0,2025-03-30
+P00494,Zuritek Baby Clothing Set,Baby Clothing Set,C14,SL031,24850,0,2023-08-01
+P00495,Marlow Bodycon Dress,Bodycon Dress,C08,SL032,6700,0,2024-04-11
+P00496,Zenith Home Wide-leg Trousers,Wide-leg Trousers,C08,SL032,26400,0,2024-02-10
+P00497,Nala Blouse,Blouse,C08,SL032,26100,0,2025-05-04
+P00498,Verano Bodycon Dress,Bodycon Dress,C08,SL032,10950,0,2023-09-01
+P00499,Brightway Bodycon Dress,Bodycon Dress,C08,SL032,7550,0,2023-10-18
+P00500,Halden Jeans Women,Jeans Women,C08,SL032,17700,0,2023-09-01
+P00501,Lumora Lingerie Set,Lingerie Set,C08,SL032,12150,0,2023-09-01
+P00502,Marlow Jeans Women,Jeans Women,C08,SL032,13600,0,2023-09-01
+P00503,Zuritek Maxi Skirt,Maxi Skirt,C08,SL032,19900,0,2023-09-01
+P00504,Brightway Maxi Skirt,Maxi Skirt,C08,SL032,16100,0,2023-09-01
+P00505,Sunpeak Ankara Gown,Ankara Gown,C08,SL032,11750,0,2024-04-18
+P00506,Kito Bodycon Dress,Bodycon Dress,C08,SL032,9000,0,2023-09-01
+P00507,Marlow Wide-leg Trousers,Wide-leg Trousers,C08,SL032,26350,0,2024-05-30
+P00508,Ofure Two-piece Set,Two-piece Set,C08,SL032,19850,0,2023-09-01
+P00509,Zenith Home Lingerie Set,Lingerie Set,C08,SL032,15950,0,2025-04-17
+P00510,Kora Maxi Skirt,Maxi Skirt,C08,SL032,13250,0,2025-04-02
+P00511,Nala Two-piece Set,Two-piece Set,C08,SL032,16900,0,2024-06-09
+P00512,Ofure Laptop Bag,Laptop Bag,C02,SL033,243050,0,2025-07-28
+P00513,Tribe&Co Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL033,409050,0,2025-07-28
+P00514,Verano External Hard Drive 1TB,External Hard Drive 1TB,C02,SL033,163950,0,2025-07-28
+P00515,Daria USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL033,213200,0,2025-07-28
+P00516,Oyela Wi-Fi Router,Wi-Fi Router,C02,SL033,284100,1,2025-07-28
+P00517,Ofure USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL033,158900,0,2025-07-28
+P00518,Eko Basics USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL033,155150,0,2025-07-28
+P00519,Novaline Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL033,368500,0,2025-07-28
+P00520,Zenith Home Refurbished Laptop 14in,Refurbished Laptop 14in,C02,SL033,105050,0,2025-07-28
+P00521,Tella Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL033,478700,0,2025-07-28
+P00522,Ikoro Monitor 24in,Monitor 24in,C02,SL033,226200,0,2025-07-28
+P00523,Brightway External Hard Drive 1TB,External Hard Drive 1TB,C02,SL033,166400,0,2025-07-28
+P00524,Nala Wi-Fi Router,Wi-Fi Router,C02,SL033,194700,1,2025-07-28
+P00525,Ofure Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL034,25000,0,2023-03-22
+P00526,Halden Feeding Bottle Set,Feeding Bottle Set,C14,SL034,10100,0,2023-03-22
+P00527,Verano Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL034,16150,0,2025-02-14
+P00528,Daria Baby Wipes Pack,Baby Wipes Pack,C14,SL034,14650,0,2023-03-22
+P00529,Zuritek Baby Bath Set,Baby Bath Set,C14,SL034,9100,0,2023-03-22
+P00530,Ofure Baby Bath Set,Baby Bath Set,C14,SL034,6250,0,2023-03-22
+P00531,Amberly Baby Bath Set,Baby Bath Set,C14,SL034,8350,0,2023-03-22
+P00532,Zenith Home Baby Wipes Pack,Baby Wipes Pack,C14,SL034,20350,0,2024-09-15
+P00533,Ofure Baby Wipes Pack,Baby Wipes Pack,C14,SL034,16150,0,2023-03-22
+P00534,Kora Baby Bath Set,Baby Bath Set,C14,SL034,15050,0,2023-03-25
+P00535,Zenith Home Baby Wipes Pack,Baby Wipes Pack,C14,SL034,9000,0,2023-03-22
+P00536,Kito Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL034,12650,0,2023-03-22
+P00537,Lumora Baby Carrier,Baby Carrier,C14,SL034,14050,0,2023-04-18
+P00538,Novaline Baby Bath Set,Baby Bath Set,C14,SL034,15550,0,2023-05-26
+P00539,Zuritek Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL034,19850,0,2023-03-22
+P00540,Sunpeak Baby Carrier,Baby Carrier,C14,SL034,12350,0,2024-06-21
+P00541,Brightway Feeding Bottle Set,Feeding Bottle Set,C14,SL034,6300,0,2023-10-20
+P00542,Zuritek Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL034,15250,0,2024-06-26
+P00543,Amberly Baby Bath Set,Baby Bath Set,C14,SL034,11000,0,2023-10-27
+P00544,Eko Basics Feeding Bottle Set,Feeding Bottle Set,C14,SL034,7000,0,2023-03-22
+P00545,Daria Baby Bath Set,Baby Bath Set,C14,SL034,11100,0,2023-04-09
+P00546,Ikoro Baby Cot,Baby Cot,C14,SL034,11350,0,2023-09-08
+P00547,Oyela Infant Formula 400g,Infant Formula 400g,C14,SL034,8950,0,2024-05-11
+P00548,Tella Lingerie Set,Lingerie Set,C08,SL035,15100,0,2024-12-14
+P00549,Brightway Abaya,Abaya,C08,SL035,12400,0,2024-11-17
+P00550,Oyela Lingerie Set,Lingerie Set,C08,SL035,20400,0,2025-01-29
+P00551,Kito Bodycon Dress,Bodycon Dress,C08,SL035,6400,0,2022-05-03
+P00552,Daria Jumpsuit,Jumpsuit,C08,SL035,18900,0,2023-05-30
+P00553,Amberly Abaya,Abaya,C08,SL035,11100,0,2024-05-06
+P00554,Tribe&Co Two-piece Set,Two-piece Set,C08,SL035,12100,0,2024-07-02
+P00555,Zenith Home Abaya,Abaya,C08,SL035,9000,0,2023-03-20
+P00556,Sahel Wide-leg Trousers,Wide-leg Trousers,C08,SL035,15400,0,2024-02-09
+P00557,Sahel Two-piece Set,Two-piece Set,C08,SL035,15700,0,2024-03-11
+P00558,Tella Ankara Gown,Ankara Gown,C08,SL035,8850,0,2022-06-08
+P00559,Ofure Wide-leg Trousers,Wide-leg Trousers,C08,SL035,27600,0,2024-01-10
+P00560,Halden Ankara Gown,Ankara Gown,C08,SL035,15950,0,2025-03-31
+P00561,Verano Maxi Skirt,Maxi Skirt,C08,SL035,25700,0,2023-08-23
+P00562,Daria Wide-leg Trousers,Wide-leg Trousers,C08,SL035,34800,0,2023-05-13
+P00563,Brightway Maxi Skirt,Maxi Skirt,C08,SL035,19100,0,2023-03-14
+P00564,Zuritek Bodycon Dress,Bodycon Dress,C08,SL035,7000,0,2025-04-12
+P00565,Zuritek Jeans Women,Jeans Women,C08,SL035,12600,0,2024-11-06
+P00566,Nala Abaya,Abaya,C08,SL035,6300,0,2023-08-12
+P00567,Lumora Lingerie Set,Lingerie Set,C08,SL035,12550,0,2023-03-14
+P00568,Amberly Face Serum,Face Serum,C11,SL036,8400,0,2025-05-14
+P00569,Verano Hair Relaxer Kit,Hair Relaxer Kit,C11,SL036,11550,0,2025-05-14
+P00570,Eko Basics Perfume 100ml,Perfume 100ml,C11,SL036,8600,0,2025-05-14
+P00571,Nala Hair Extensions,Hair Extensions,C11,SL036,32200,0,2025-05-14
+P00572,Sahel Perfume 100ml,Perfume 100ml,C11,SL036,6300,0,2025-06-20
+P00573,Ofure Beard Grooming Kit,Beard Grooming Kit,C11,SL036,13950,0,2025-05-14
+P00574,Ikoro Beard Grooming Kit,Beard Grooming Kit,C11,SL036,12500,0,2025-05-14
+P00575,Zenith Home Body Lotion 400ml,Body Lotion 400ml,C11,SL036,3300,0,2025-05-14
+P00576,Brightway Body Lotion 400ml,Body Lotion 400ml,C11,SL036,3350,0,2025-05-14
+P00577,Amberly Hair Clipper,Hair Clipper,C11,SL036,13950,0,2025-05-14
+P00578,Bluecrest Body Lotion 400ml,Body Lotion 400ml,C11,SL036,4900,0,2025-05-14
+P00579,Verano Face Serum,Face Serum,C11,SL036,5650,0,2025-05-14
+P00580,Sunpeak Body Lotion 400ml,Body Lotion 400ml,C11,SL036,4600,0,2025-05-14
+P00581,Verano Hair Relaxer Kit,Hair Relaxer Kit,C11,SL036,10150,0,2025-05-14
+P00582,Halden Body Lotion 400ml,Body Lotion 400ml,C11,SL036,2300,0,2025-05-14
+P00583,Brightway Hair Relaxer Kit,Hair Relaxer Kit,C11,SL036,8100,0,2025-05-14
+P00584,Zuritek Beard Grooming Kit,Beard Grooming Kit,C11,SL036,13400,0,2025-05-14
+P00585,Oyela Hair Clipper,Hair Clipper,C11,SL036,14850,0,2025-05-14
+P00586,Oyela Deodorant Pack,Deodorant Pack,C11,SL036,22150,0,2025-05-14
+P00587,Verano Perfume 100ml,Perfume 100ml,C11,SL036,10200,0,2025-05-14
+P00588,Halden Deodorant Pack,Deodorant Pack,C11,SL036,10750,0,2025-05-14
+P00589,Novaline Hair Relaxer Kit,Hair Relaxer Kit,C11,SL036,10300,0,2025-05-14
+P00590,Tribe&Co Makeup Palette,Makeup Palette,C11,SL036,6900,0,2025-05-14
+P00591,Tella Perfume 100ml,Perfume 100ml,C11,SL036,6200,0,2025-05-14
+P00592,Nala Hair Relaxer Kit,Hair Relaxer Kit,C11,SL036,11350,0,2025-05-14
+P00593,Daria Makeup Palette,Makeup Palette,C11,SL036,6050,0,2025-05-14
+P00594,Kito Hair Extensions,Hair Extensions,C11,SL036,28350,0,2025-05-14
+P00595,Daria Perfume 100ml,Perfume 100ml,C11,SL036,2800,0,2025-05-14
+P00596,Tella Hair Extensions,Hair Extensions,C11,SL036,20500,0,2025-06-26
+P00597,Marlow Shea Butter 500g,Shea Butter 500g,C11,SL036,3200,0,2025-05-14
+P00598,Tella Hair Extensions,Hair Extensions,C11,SL036,30500,0,2025-05-14
+P00599,Nala Face Serum,Face Serum,C11,SL036,5800,0,2025-05-14
+P00600,Zuritek Hair Clipper,Hair Clipper,C11,SL036,15400,0,2025-05-14
+P00601,Ikoro Hair Clipper,Hair Clipper,C11,SL036,13900,0,2025-05-14
+P00602,Nala Hair Clipper,Hair Clipper,C11,SL036,10850,0,2025-05-14
+P00603,Marlow Hair Extensions,Hair Extensions,C11,SL036,19100,0,2025-05-14
+P00604,Halden Hair Relaxer Kit,Hair Relaxer Kit,C11,SL036,7050,0,2025-05-14
+P00605,Daria Beard Grooming Kit,Beard Grooming Kit,C11,SL036,12900,0,2025-05-14
+P00606,Tribe&Co Wall Clock,Wall Clock,C06,SL037,11200,1,2024-10-12
+P00607,Zuritek Water Dispenser,Water Dispenser,C06,SL037,11600,0,2024-10-12
+P00608,Zenith Home Bedsheet Set,Bedsheet Set,C06,SL037,33750,0,2024-10-12
+P00609,Lumora Storage Containers Set,Storage Containers Set,C06,SL037,17250,0,2024-10-12
+P00610,Bluecrest Bedsheet Set,Bedsheet Set,C06,SL037,34700,0,2024-10-12
+P00611,Bluecrest Dinner Set 24pcs,Dinner Set 24pcs,C06,SL037,26950,1,2025-02-28
+P00612,Oyela Curtain Pair,Curtain Pair,C06,SL037,5050,0,2024-10-12
+P00613,Ikoro Storage Containers Set,Storage Containers Set,C06,SL037,38250,0,2025-03-10
+P00614,Sahel Rechargeable Lamp,Rechargeable Lamp,C06,SL037,12250,0,2024-10-12
+P00615,Sahel Bath Towel Set,Bath Towel Set,C06,SL037,12100,0,2025-01-30
+P00616,Lumora Maxi Skirt,Maxi Skirt,C08,SL038,19650,0,2024-03-25
+P00617,Ofure Jumpsuit,Jumpsuit,C08,SL038,22700,0,2022-03-21
+P00618,Nala Abaya,Abaya,C08,SL038,7950,0,2024-12-19
+P00619,Marlow Abaya,Abaya,C08,SL038,8600,0,2023-07-11
+P00620,Tella Blouse,Blouse,C08,SL038,36650,0,2024-03-18
+P00621,Halden Abaya,Abaya,C08,SL038,5200,0,2022-06-08
+P00622,Sunpeak Two-piece Set,Two-piece Set,C08,SL038,28550,0,2023-05-02
+P00623,Oyela Lingerie Set,Lingerie Set,C08,SL038,13400,0,2023-11-18
+P00624,Sunpeak Bodycon Dress,Bodycon Dress,C08,SL038,19400,0,2023-07-08
+P00625,Marlow Wide-leg Trousers,Wide-leg Trousers,C08,SL038,28150,0,2022-04-28
+P00626,Zenith Home Lingerie Set,Lingerie Set,C08,SL038,15000,0,2023-02-19
+P00627,Lumora Maxi Skirt,Maxi Skirt,C08,SL038,18200,0,2024-04-14
+P00628,Tribe&Co Lingerie Set,Lingerie Set,C08,SL038,13800,0,2024-02-08
+P00629,Ikoro Maxi Skirt,Maxi Skirt,C08,SL038,17350,0,2024-08-08
+P00630,Sahel Jeans Women,Jeans Women,C08,SL038,12550,0,2024-01-10
+P00631,Ikoro Two-piece Set,Two-piece Set,C08,SL038,12300,0,2024-08-21
+P00632,Lumora Two-piece Set,Two-piece Set,C08,SL038,17300,0,2024-12-07
+P00633,Tella Jumpsuit,Jumpsuit,C08,SL038,21200,0,2023-12-29
+P00634,Zuritek Abaya,Abaya,C08,SL038,4200,0,2022-12-06
+P00635,Ikoro Jeans Women,Jeans Women,C08,SL038,19400,0,2024-01-31
+P00636,Verano Lingerie Set,Lingerie Set,C08,SL038,13850,0,2023-11-28
+P00637,Tribe&Co Two-piece Set,Two-piece Set,C08,SL038,34250,0,2024-04-17
+P00638,Daria Maxi Skirt,Maxi Skirt,C08,SL038,15100,0,2022-08-24
+P00639,Tribe&Co Two-piece Set,Two-piece Set,C08,SL038,23200,0,2025-04-21
+P00640,Oyela Jumpsuit,Jumpsuit,C08,SL038,12800,0,2024-07-14
+P00641,Nala Ankara Gown,Ankara Gown,C08,SL038,11000,0,2024-05-18
+P00642,Eko Basics Maxi Skirt,Maxi Skirt,C08,SL039,10000,0,2023-12-05
+P00643,Daria Blouse,Blouse,C08,SL039,34600,0,2025-01-30
+P00644,Marlow Jeans Women,Jeans Women,C08,SL039,14800,0,2023-09-20
+P00645,Daria Lingerie Set,Lingerie Set,C08,SL039,9400,0,2024-05-03
+P00646,Novaline Abaya,Abaya,C08,SL039,11600,0,2022-01-31
+P00647,Amberly Bodycon Dress,Bodycon Dress,C08,SL039,6950,0,2022-07-28
+P00648,Sunpeak Blouse,Blouse,C08,SL039,18450,0,2022-08-21
+P00649,Amberly Maxi Skirt,Maxi Skirt,C08,SL039,18150,0,2022-04-26
+P00650,Ofure Abaya,Abaya,C08,SL039,6750,0,2022-10-01
+P00651,Nala Two-piece Set,Two-piece Set,C08,SL039,14650,0,2024-07-29
+P00652,Eko Basics Bodycon Dress,Bodycon Dress,C08,SL039,7850,0,2022-01-30
+P00653,Amberly Maxi Skirt,Maxi Skirt,C08,SL039,18050,0,2022-10-14
+P00654,Marlow Jumpsuit,Jumpsuit,C08,SL039,18800,0,2024-07-25
+P00655,Sahel Two-piece Set,Two-piece Set,C08,SL039,16400,0,2024-10-21
+P00656,Eko Basics Ankara Gown,Ankara Gown,C08,SL039,14150,0,2022-08-07
+P00657,Oyela Wide-leg Trousers,Wide-leg Trousers,C08,SL039,21700,0,2024-10-07
+P00658,Sahel Kaftan Set,Kaftan Set,C09,SL040,12850,0,2023-10-15
+P00659,Novaline T-shirt Pack of 3,T-shirt Pack of 3,C09,SL040,14900,0,2023-03-23
+P00660,Tribe&Co Polo Shirt,Polo Shirt,C09,SL040,9700,0,2025-02-17
+P00661,Lumora T-shirt Pack of 3,T-shirt Pack of 3,C09,SL040,15000,0,2024-03-03
+P00662,Brightway Polo Shirt,Polo Shirt,C09,SL040,10200,0,2023-09-23
+P00663,Bluecrest Underwear Pack,Underwear Pack,C09,SL040,10500,0,2024-05-13
+P00664,Verano T-shirt Pack of 3,T-shirt Pack of 3,C09,SL040,21000,0,2024-06-20
+P00665,Novaline T-shirt Pack of 3,T-shirt Pack of 3,C09,SL040,22850,0,2025-05-22
+P00666,Nala Kaftan Set,Kaftan Set,C09,SL040,5250,0,2024-01-16
+P00667,Novaline Senator Wear,Senator Wear,C09,SL040,33500,0,2025-03-18
+P00668,Amberly Polo Shirt,Polo Shirt,C09,SL040,10100,0,2025-06-16
+P00669,Sahel Chinos,Chinos,C09,SL040,18050,0,2023-01-07
+P00670,Verano T-shirt Pack of 3,T-shirt Pack of 3,C09,SL040,8200,0,2023-02-02
+P00671,Sahel Kaftan Set,Kaftan Set,C09,SL040,12350,0,2022-11-20
+P00672,Daria Kaftan Set,Kaftan Set,C09,SL040,21300,0,2025-01-31
+P00673,Daria Agbada Set,Agbada Set,C09,SL040,9050,0,2025-01-01
+P00674,Brightway Suit 2-piece,Suit 2-piece,C09,SL040,10400,0,2022-11-07
+P00675,Verano Kaftan Set,Kaftan Set,C09,SL040,9000,0,2022-12-30
+P00676,Zuritek Chinos,Chinos,C09,SL040,19650,0,2024-12-27
+P00677,Eko Basics Suit 2-piece,Suit 2-piece,C09,SL040,6300,0,2023-01-20
+P00678,Sahel Polo Shirt,Polo Shirt,C09,SL040,6000,0,2024-09-07
+P00679,Lumora Shorts,Shorts,C09,SL040,11600,0,2024-08-16
+P00680,Sahel Suit 2-piece,Suit 2-piece,C09,SL040,13650,0,2023-06-18
+P00681,Brightway Kaftan Set,Kaftan Set,C09,SL040,7150,0,2022-03-17
+P00682,Daria Underwear Pack,Underwear Pack,C09,SL040,11100,0,2023-12-31
+P00683,Sahel Shorts,Shorts,C09,SL040,7200,0,2022-03-24
+P00684,Oyela Senator Wear,Senator Wear,C09,SL040,20500,0,2022-02-17
+P00685,Lumora T-shirt Pack of 3,T-shirt Pack of 3,C09,SL040,9050,0,2025-02-07
+P00686,Bluecrest Chinos,Chinos,C09,SL040,25350,0,2023-12-30
+P00687,Kora Chinos,Chinos,C09,SL040,25400,0,2024-05-23
+P00688,Brightway Jeans Men,Jeans Men,C09,SL040,12100,0,2022-12-17
+P00689,Amberly Agbada Set,Agbada Set,C09,SL040,13150,0,2023-07-22
+P00690,Daria Kaftan Set,Kaftan Set,C09,SL040,10250,0,2022-04-05
+P00691,Sunpeak Shorts,Shorts,C09,SL040,11600,0,2022-12-08
+P00692,Nala Kaftan Set,Kaftan Set,C09,SL040,13650,0,2025-03-17
+P00693,Tribe&Co Chinos,Chinos,C09,SL040,12150,0,2024-08-26
+P00694,Tribe&Co Shorts,Shorts,C09,SL040,10450,0,2024-04-16
+P00695,Ikoro Chinos,Chinos,C09,SL040,13050,0,2023-03-24
+P00696,Sunpeak Two-piece Set,Two-piece Set,C08,SL041,15350,0,2024-04-09
+P00697,Zenith Home Blouse,Blouse,C08,SL041,41350,0,2023-05-21
+P00698,Eko Basics Wide-leg Trousers,Wide-leg Trousers,C08,SL041,19150,0,2024-11-10
+P00699,Kora Abaya,Abaya,C08,SL041,3550,0,2024-11-30
+P00700,Bluecrest Lingerie Set,Lingerie Set,C08,SL041,12200,0,2023-05-21
+P00701,Sunpeak Wide-leg Trousers,Wide-leg Trousers,C08,SL041,25150,0,2023-05-21
+P00702,Novaline Abaya,Abaya,C08,SL041,7300,0,2023-05-21
+P00703,Kito Ankara Gown,Ankara Gown,C08,SL041,11900,0,2023-05-21
+P00704,Daria Hair Clipper,Hair Clipper,C11,SL042,9600,0,2025-01-31
+P00705,Nala Deodorant Pack,Deodorant Pack,C11,SL042,9650,0,2025-01-31
+P00706,Daria Perfume 100ml,Perfume 100ml,C11,SL042,4800,0,2025-01-31
+P00707,Zuritek Perfume 100ml,Perfume 100ml,C11,SL042,6650,0,2025-01-31
+P00708,Zuritek Beard Grooming Kit,Beard Grooming Kit,C11,SL042,14250,0,2025-06-12
+P00709,Zenith Home Beard Grooming Kit,Beard Grooming Kit,C11,SL042,18150,0,2025-01-31
+P00710,Daria Makeup Palette,Makeup Palette,C11,SL042,6850,0,2025-01-31
+P00711,Brightway Hair Extensions,Hair Extensions,C11,SL042,30400,0,2025-01-31
+P00712,Sunpeak Hair Extensions,Hair Extensions,C11,SL042,40850,0,2025-01-31
+P00713,Oyela Shea Butter 500g,Shea Butter 500g,C11,SL042,12200,0,2025-01-31
+P00714,Verano Face Serum,Face Serum,C11,SL042,17900,0,2025-01-31
+P00715,Verano Beard Grooming Kit,Beard Grooming Kit,C11,SL042,22250,0,2025-01-31
+P00716,Kora Makeup Palette,Makeup Palette,C11,SL042,7600,0,2025-01-31
+P00717,Novaline Makeup Palette,Makeup Palette,C11,SL042,5750,0,2025-01-31
+P00718,Tella Hair Clipper,Hair Clipper,C11,SL042,7900,0,2025-01-31
+P00719,Amberly Perfume 100ml,Perfume 100ml,C11,SL042,7650,0,2025-03-05
+P00720,Kito Beard Grooming Kit,Beard Grooming Kit,C11,SL042,8050,0,2025-01-31
+P00721,Kito Hair Clipper,Hair Clipper,C11,SL042,16150,0,2025-01-31
+P00722,Nala Face Serum,Face Serum,C11,SL042,4050,0,2025-04-05
+P00723,Eko Basics Hair Relaxer Kit,Hair Relaxer Kit,C11,SL042,9700,0,2025-05-27
+P00724,Oyela Body Lotion 400ml,Body Lotion 400ml,C11,SL042,3350,0,2025-01-31
+P00725,Brightway Hair Relaxer Kit,Hair Relaxer Kit,C11,SL042,17700,0,2025-01-31
+P00726,Lumora Hair Clipper,Hair Clipper,C11,SL042,11750,0,2025-01-31
+P00727,Halden Shea Butter 500g,Shea Butter 500g,C11,SL042,14000,0,2025-01-31
+P00728,Tella Storage Containers Set,Storage Containers Set,C06,SL043,27550,0,2022-11-21
+P00729,Marlow Dinner Set 24pcs,Dinner Set 24pcs,C06,SL043,4950,1,2025-02-23
+P00730,Kora Dinner Set 24pcs,Dinner Set 24pcs,C06,SL043,7900,1,2023-09-04
+P00731,Brightway Curtain Pair,Curtain Pair,C06,SL043,13600,0,2024-07-02
+P00732,Tribe&Co Duvet,Duvet,C06,SL043,14400,0,2022-05-20
+P00733,Kora Rechargeable Lamp,Rechargeable Lamp,C06,SL043,20750,0,2022-10-11
+P00734,Kora Kitchen Knife Set,Kitchen Knife Set,C06,SL043,63050,0,2025-02-18
+P00735,Lumora Wall Clock,Wall Clock,C06,SL043,11800,1,2025-01-20
+P00736,Tribe&Co Storage Containers Set,Storage Containers Set,C06,SL043,35100,0,2022-05-04
+P00737,Sunpeak Wall Clock,Wall Clock,C06,SL043,17350,1,2023-10-17
+P00738,Amberly Non-stick Pot Set,Non-stick Pot Set,C06,SL043,25350,0,2023-08-09
+P00739,Amberly Wall Clock,Wall Clock,C06,SL043,6050,1,2025-03-15
+P00740,Novaline Bath Towel Set,Bath Towel Set,C06,SL043,14650,0,2024-09-01
+P00741,Zuritek Dinner Set 24pcs,Dinner Set 24pcs,C06,SL043,4400,1,2024-08-06
+P00742,Halden Curtain Pair,Curtain Pair,C06,SL043,8450,0,2025-05-12
+P00743,Daria Coffee 200g,Coffee 200g,C13,SL044,4000,0,2024-10-04
+P00744,Novaline Rice 10kg,Rice 10kg,C13,SL044,2900,0,2024-03-08
+P00745,Eko Basics Rice 10kg,Rice 10kg,C13,SL044,3950,0,2022-07-16
+P00746,Ofure Beverage Drink 900g,Beverage Drink 900g,C13,SL044,3550,0,2024-02-20
+P00747,Sunpeak Soft Drinks Pack,Soft Drinks Pack,C13,SL044,8100,0,2025-05-10
+P00748,Kito Cereal 500g,Cereal 500g,C13,SL044,6600,0,2022-05-05
+P00749,Sahel Coffee 200g,Coffee 200g,C13,SL044,6600,0,2024-05-30
+P00750,Novaline Coffee 200g,Coffee 200g,C13,SL044,2450,0,2024-03-17
+P00751,Ofure Tomato Paste Carton,Tomato Paste Carton,C13,SL044,9800,0,2024-02-19
+P00752,Eko Basics Soft Drinks Pack,Soft Drinks Pack,C13,SL044,3900,0,2022-10-04
+P00753,Sunpeak Vegetable Oil 3L,Vegetable Oil 3L,C13,SL044,4350,0,2022-02-23
+P00754,Eko Basics Coffee 200g,Coffee 200g,C13,SL044,5550,0,2022-04-04
+P00755,Brightway Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL044,7600,0,2024-08-25
+P00756,Marlow Cereal 500g,Cereal 500g,C13,SL044,8100,0,2023-08-03
+P00757,Ikoro Coffee 200g,Coffee 200g,C13,SL044,7000,0,2022-12-11
+P00758,Sahel Vegetable Oil 3L,Vegetable Oil 3L,C13,SL044,6850,0,2023-01-30
+P00759,Zenith Home Bottled Water Pack,Bottled Water Pack,C13,SL044,5000,0,2024-08-18
+P00760,Tella Soft Drinks Pack,Soft Drinks Pack,C13,SL044,7600,0,2022-04-17
+P00761,Halden Coffee 200g,Coffee 200g,C13,SL044,7550,0,2024-05-22
+P00762,Halden Soft Drinks Pack,Soft Drinks Pack,C13,SL044,7550,0,2023-01-01
+P00763,Kito Vegetable Oil 3L,Vegetable Oil 3L,C13,SL044,5700,0,2022-01-19
+P00764,Brightway Noodles Carton,Noodles Carton,C13,SL044,14450,0,2023-08-25
+P00765,Brightway Wireless Earbuds,Wireless Earbuds,C01,SL045,88450,0,2023-06-09
+P00766,Tella Smartwatch,Smartwatch,C01,SL045,89900,0,2025-05-30
+P00767,Ikoro Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL045,149950,0,2023-06-09
+P00768,Ofure Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL045,158350,0,2025-06-16
+P00769,Lumora Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL045,132950,0,2023-06-27
+P00770,Kora Monitor 24in,Monitor 24in,C02,SL045,202500,0,2024-06-18
+P00771,Marlow Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL045,403100,0,2024-03-19
+P00772,Oyela Smartwatch,Smartwatch,C01,SL045,123350,0,2024-11-14
+P00773,Sunpeak Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL045,259950,0,2023-12-02
+P00774,Novaline Kids Tablet 7in,Kids Tablet 7in,C01,SL045,495950,0,2023-06-09
+P00775,Daria Power Bank 20000mAh,Power Bank 20000mAh,C01,SL045,148900,0,2023-06-09
+P00776,Tribe&Co Hair Relaxer Kit,Hair Relaxer Kit,C11,SL046,6900,0,2025-01-24
+P00777,Bluecrest Face Serum,Face Serum,C11,SL046,10600,0,2024-11-10
+P00778,Ofure Perfume 100ml,Perfume 100ml,C11,SL046,4400,0,2025-04-12
+P00779,Sunpeak Shea Butter 500g,Shea Butter 500g,C11,SL046,19150,0,2024-06-02
+P00780,Eko Basics Hair Extensions,Hair Extensions,C11,SL046,19850,0,2024-02-26
+P00781,Tribe&Co Hair Relaxer Kit,Hair Relaxer Kit,C11,SL046,11900,0,2024-06-22
+P00782,Zuritek Hair Extensions,Hair Extensions,C11,SL046,17250,0,2023-11-01
+P00783,Sunpeak Makeup Palette,Makeup Palette,C11,SL046,7750,0,2023-01-17
+P00784,Kito Perfume 100ml,Perfume 100ml,C11,SL046,13850,0,2024-02-15
+P00785,Tribe&Co Deodorant Pack,Deodorant Pack,C11,SL046,7700,0,2023-07-29
+P00786,Amberly Perfume 100ml,Perfume 100ml,C11,SL046,9250,0,2024-04-07
+P00787,Eko Basics Perfume 100ml,Perfume 100ml,C11,SL046,11700,0,2023-01-29
+P00788,Lumora Hair Clipper,Hair Clipper,C11,SL046,9350,0,2023-10-08
+P00789,Zenith Home Deodorant Pack,Deodorant Pack,C11,SL046,14350,0,2024-12-16
+P00790,Kora Hair Extensions,Hair Extensions,C11,SL046,12700,0,2024-07-22
+P00791,Tribe&Co Body Lotion 400ml,Body Lotion 400ml,C11,SL046,1300,0,2023-03-07
+P00792,Oyela Hair Clipper,Hair Clipper,C11,SL046,17700,0,2024-09-05
+P00793,Kora Hair Clipper,Hair Clipper,C11,SL046,15550,0,2022-02-15
+P00794,Sahel Face Serum,Face Serum,C11,SL046,12950,0,2025-03-06
+P00795,Nala Body Lotion 400ml,Body Lotion 400ml,C11,SL046,2100,0,2024-10-11
+P00796,Tribe&Co Shea Butter 500g,Shea Butter 500g,C11,SL046,8400,0,2025-04-18
+P00797,Kora Body Lotion 400ml,Body Lotion 400ml,C11,SL046,4650,0,2023-04-02
+P00798,Oyela Hair Relaxer Kit,Hair Relaxer Kit,C11,SL046,11900,0,2024-12-31
+P00799,Sahel Body Lotion 400ml,Body Lotion 400ml,C11,SL046,2300,0,2023-08-10
+P00800,Brightway Hair Clipper,Hair Clipper,C11,SL046,17350,0,2022-11-18
+P00801,Sahel Face Serum,Face Serum,C11,SL046,6600,0,2023-11-11
+P00802,Tella Face Serum,Face Serum,C11,SL046,5200,0,2022-05-26
+P00803,Halden Double Door Fridge,Double Door Fridge,C05,SL047,109050,1,2024-08-16
+P00804,Ofure Standing Fan 18in,Standing Fan 18in,C05,SL047,144400,0,2025-04-29
+P00805,Verano Microwave Oven 20L,Microwave Oven 20L,C05,SL047,58350,1,2025-06-12
+P00806,Sunpeak Blender 1.5L,Blender 1.5L,C05,SL047,38300,0,2024-08-16
+P00807,Ofure Split Air Conditioner 1.5HP,Split Air Conditioner 1.5HP,C05,SL047,165600,0,2024-08-16
+P00808,Kito Electric Kettle,Electric Kettle,C05,SL047,104150,1,2024-08-16
+P00809,Novaline Electric Kettle,Electric Kettle,C05,SL047,136250,1,2024-08-16
+P00810,Halden Chest Freezer 200L,Chest Freezer 200L,C05,SL047,172650,0,2024-08-16
+P00811,Verano Electric Kettle,Electric Kettle,C05,SL047,145400,1,2024-08-16
+P00812,Verano Game Disc,Game Disc,C04,SL048,312350,0,2024-12-04
+P00813,Bluecrest Wireless Controller,Wireless Controller,C04,SL048,118250,0,2023-10-31
+P00814,Tella Game Console,Game Console,C04,SL048,141750,0,2022-05-01
+P00815,Zenith Home Gaming Headset,Gaming Headset,C04,SL048,568600,0,2024-08-12
+P00816,Novaline Wireless Controller,Wireless Controller,C04,SL048,279900,0,2023-05-30
+P00817,Zuritek Retro Handheld Console,Retro Handheld Console,C04,SL048,116550,0,2024-07-15
+P00818,Verano Game Console,Game Console,C04,SL048,199300,0,2024-05-30
+P00819,Brightway Wireless Controller,Wireless Controller,C04,SL048,103650,0,2024-03-06
+P00820,Oyela Gaming Chair,Gaming Chair,C04,SL048,121850,0,2025-01-25
+P00821,Nala Gaming Headset,Gaming Headset,C04,SL048,236400,0,2025-04-23
+P00822,Kito Wireless Controller,Wireless Controller,C04,SL048,76600,0,2022-06-12
+P00823,Kora Game Disc,Game Disc,C04,SL048,305050,0,2024-03-04
+P00824,Tribe&Co Retro Handheld Console,Retro Handheld Console,C04,SL048,131600,0,2023-06-12
+P00825,Sunpeak Game Console,Game Console,C04,SL048,147250,0,2023-01-17
+P00826,Marlow Gaming Headset,Gaming Headset,C04,SL048,198250,0,2023-05-03
+P00827,Sahel Gaming Headset,Gaming Headset,C04,SL048,210250,0,2025-06-05
+P00828,Bluecrest Gaming Chair,Gaming Chair,C04,SL048,84000,0,2022-11-09
+P00829,Sunpeak Wireless Controller,Wireless Controller,C04,SL048,52950,0,2024-10-02
+P00830,Eko Basics Retro Handheld Console,Retro Handheld Console,C04,SL048,152250,0,2023-04-22
+P00831,Lumora Game Disc,Game Disc,C04,SL048,223650,0,2024-04-16
+P00832,Zenith Home Gaming Chair,Gaming Chair,C04,SL048,213700,0,2022-09-25
+P00833,Ikoro Wireless Controller,Wireless Controller,C04,SL048,115150,0,2023-04-23
+P00834,Halden Retro Handheld Console,Retro Handheld Console,C04,SL048,96350,0,2025-03-31
+P00835,Kora Gaming Headset,Gaming Headset,C04,SL048,265650,0,2022-04-15
+P00836,Novaline Game Disc,Game Disc,C04,SL048,436700,0,2023-10-30
+P00837,Kito Retro Handheld Console,Retro Handheld Console,C04,SL048,52950,0,2022-04-09
+P00838,Marlow Wireless Controller,Wireless Controller,C04,SL048,135900,0,2023-05-08
+P00839,Marlow Gaming Chair,Gaming Chair,C04,SL048,345550,0,2023-03-01
+P00840,Bluecrest Game Console,Game Console,C04,SL048,51000,0,2023-06-25
+P00841,Nala Retro Handheld Console,Retro Handheld Console,C04,SL048,140200,0,2025-01-21
+P00842,Tribe&Co Wireless Controller,Wireless Controller,C04,SL048,163100,0,2025-02-07
+P00843,Halden Retro Handheld Console,Retro Handheld Console,C04,SL048,135800,0,2023-02-07
+P00844,Halden Gaming Headset,Gaming Headset,C04,SL048,195400,0,2022-04-17
+P00845,Daria Gaming Headset,Gaming Headset,C04,SL048,259250,0,2023-12-19
+P00846,Sahel Gaming Headset,Gaming Headset,C04,SL048,482600,0,2023-05-22
+P00847,Tribe&Co Game Disc,Game Disc,C04,SL048,467950,0,2023-11-22
+P00848,Amberly Retro Handheld Console,Retro Handheld Console,C04,SL048,305900,0,2024-01-17
+P00849,Sunpeak Projector,Projector,C03,SL049,105350,0,2024-04-13
+P00850,Lumora Projector,Projector,C03,SL049,94550,0,2023-06-23
+P00851,Nala Home Theatre System,Home Theatre System,C03,SL049,86100,0,2024-01-02
+P00852,Kora Home Theatre System,Home Theatre System,C03,SL049,158500,0,2023-06-23
+P00853,Zuritek Satellite Decoder,Satellite Decoder,C03,SL049,40000,0,2023-06-23
+P00854,Ofure Over-ear Headphones,Over-ear Headphones,C03,SL049,37050,0,2023-10-04
+P00855,Halden Smart TV 43in,Smart TV 43in,C03,SL049,72950,0,2025-03-19
+P00856,Oyela LED TV 32in,LED TV 32in,C03,SL049,115750,0,2025-05-31
+P00857,Eko Basics Bluetooth Speaker,Bluetooth Speaker,C03,SL049,42550,0,2025-03-16
+P00858,Sahel Treadmill,Treadmill,C15,SL050,23250,1,2022-08-20
+P00859,Ikoro Exercise Bike,Exercise Bike,C15,SL050,37200,0,2023-05-07
+P00860,Sunpeak Bicycle,Bicycle,C15,SL050,22200,0,2024-12-03
+P00861,Brightway Dumbbell Set,Dumbbell Set,C15,SL050,32300,0,2023-08-15
+P00862,Verano Treadmill,Treadmill,C15,SL050,34850,1,2025-03-28
+P00863,Tribe&Co Yoga Mat,Yoga Mat,C15,SL050,13150,0,2022-11-25
+P00864,Tribe&Co Exercise Bike,Exercise Bike,C15,SL050,47550,0,2023-06-20
+P00865,Brightway Bicycle,Bicycle,C15,SL050,49800,0,2023-04-11
+P00866,Zuritek Treadmill,Treadmill,C15,SL050,30250,1,2022-11-28
+P00867,Tella Dumbbell Set,Dumbbell Set,C15,SL050,39000,0,2023-11-02
+P00868,Zenith Home Engine Oil 4L,Engine Oil 4L,C18,SL050,14200,0,2023-02-23
+P00869,Novaline Bicycle,Bicycle,C15,SL050,17200,0,2023-01-23
+P00870,Amberly Engine Oil 4L,Engine Oil 4L,C18,SL050,11700,0,2024-11-20
+P00871,Halden Bicycle,Bicycle,C15,SL050,33250,0,2022-08-16
+P00872,Oyela Yoga Mat,Yoga Mat,C15,SL050,18350,0,2024-08-02
+P00873,Amberly Exercise Bike,Exercise Bike,C15,SL050,25900,0,2022-10-16
+P00874,Eko Basics Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL051,162450,0,2024-11-29
+P00875,Kora TV Wall Bracket,TV Wall Bracket,C03,SL051,172900,1,2025-01-17
+P00876,Tribe&Co TV Wall Bracket,TV Wall Bracket,C03,SL051,129100,1,2022-08-13
+P00877,Halden Home Theatre System,Home Theatre System,C03,SL051,171500,0,2023-12-15
+P00878,Tella Bluetooth Speaker,Bluetooth Speaker,C03,SL051,47750,0,2024-11-12
+P00879,Tella Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL051,131400,0,2023-01-02
+P00880,Tribe&Co Smart TV 55in,Smart TV 55in,C03,SL051,51200,1,2025-02-27
+P00881,Oyela Satellite Decoder,Satellite Decoder,C03,SL051,31200,0,2023-01-17
+P00882,Kito Home Theatre System,Home Theatre System,C03,SL051,122200,0,2023-12-26
+P00883,Marlow Chinos,Chinos,C09,SL052,26750,0,2025-04-30
+P00884,Ikoro Shorts,Shorts,C09,SL052,9050,0,2025-04-30
+P00885,Sahel T-shirt Pack of 3,T-shirt Pack of 3,C09,SL052,8750,0,2025-04-30
+P00886,Bluecrest Agbada Set,Agbada Set,C09,SL052,7500,0,2025-05-12
+P00887,Kora Chinos,Chinos,C09,SL052,21050,0,2025-04-30
+P00888,Ikoro Suit 2-piece,Suit 2-piece,C09,SL052,8450,0,2025-04-30
+P00889,Ofure Agbada Set,Agbada Set,C09,SL052,7850,0,2025-04-30
+P00890,Kito T-shirt Pack of 3,T-shirt Pack of 3,C09,SL052,14000,0,2025-04-30
+P00891,Sunpeak Kaftan Set,Kaftan Set,C09,SL052,17600,0,2025-04-30
+P00892,Marlow Kaftan Set,Kaftan Set,C09,SL052,12050,0,2025-04-30
+P00893,Sunpeak Agbada Set,Agbada Set,C09,SL052,6050,0,2025-04-30
+P00894,Tella Polo Shirt,Polo Shirt,C09,SL052,7800,0,2025-04-30
+P00895,Eko Basics Polo Shirt,Polo Shirt,C09,SL052,11150,0,2025-04-30
+P00896,Verano Digital Thermometer,Digital Thermometer,C12,SL053,6100,0,2024-07-05
+P00897,Marlow Face Masks Pack,Face Masks Pack,C12,SL053,16350,0,2023-11-25
+P00898,Sahel Face Masks Pack,Face Masks Pack,C12,SL053,14750,0,2023-08-12
+P00899,Kora First Aid Kit,First Aid Kit,C12,SL053,9200,0,2024-12-09
+P00900,Ikoro Blood Pressure Monitor,Blood Pressure Monitor,C12,SL053,7100,0,2025-03-19
+P00901,Daria Herbal Tea,Herbal Tea,C12,SL053,10050,0,2022-03-25
+P00902,Tribe&Co Face Masks Pack,Face Masks Pack,C12,SL053,7050,0,2025-02-21
+P00903,Zuritek First Aid Kit,First Aid Kit,C12,SL053,6400,0,2022-11-05
+P00904,Tella Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL053,11650,0,2025-02-15
+P00905,Kora Digital Thermometer,Digital Thermometer,C12,SL053,11900,0,2023-10-24
+P00906,Eko Basics Face Masks Pack,Face Masks Pack,C12,SL053,13350,0,2024-08-09
+P00907,Halden Baby Wipes Pack,Baby Wipes Pack,C14,SL054,20900,0,2024-12-12
+P00908,Tella Baby Cot,Baby Cot,C14,SL054,10650,0,2025-03-05
+P00909,Sunpeak Baby Cot,Baby Cot,C14,SL054,7850,0,2023-06-16
+P00910,Marlow Baby Wipes Pack,Baby Wipes Pack,C14,SL054,10800,0,2023-09-07
+P00911,Bluecrest Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL054,17850,0,2022-03-18
+P00912,Brightway Baby Clothing Set,Baby Clothing Set,C14,SL054,15450,0,2024-08-13
+P00913,Tella Baby Bath Set,Baby Bath Set,C14,SL054,13350,0,2024-11-16
+P00914,Amberly Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL054,14350,0,2023-02-04
+P00915,Lumora Baby Wipes Pack,Baby Wipes Pack,C14,SL054,13650,0,2024-05-31
+P00916,Nala Baby Cot,Baby Cot,C14,SL054,6850,0,2025-05-24
+P00917,Novaline Jeans Women,Jeans Women,C08,SL055,17300,0,2024-10-22
+P00918,Kora Lingerie Set,Lingerie Set,C08,SL055,17000,0,2024-10-22
+P00919,Kora Lingerie Set,Lingerie Set,C08,SL055,24100,0,2025-06-29
+P00920,Tella Jeans Women,Jeans Women,C08,SL055,11050,0,2025-05-30
+P00921,Nala Lingerie Set,Lingerie Set,C08,SL055,20900,0,2024-10-22
+P00922,Tribe&Co Maxi Skirt,Maxi Skirt,C08,SL055,21500,0,2025-02-27
+P00923,Sahel Jeans Women,Jeans Women,C08,SL055,19100,0,2024-10-22
+P00924,Verano Blouse,Blouse,C08,SL055,29500,0,2024-10-22
+P00925,Sunpeak Maxi Skirt,Maxi Skirt,C08,SL055,11050,0,2024-10-22
+P00926,Bluecrest Maxi Skirt,Maxi Skirt,C08,SL055,21500,0,2024-10-22
+P00927,Sahel Office Chair,Office Chair,C07,SL056,179800,0,2023-11-07
+P00928,Tella Office Chair,Office Chair,C07,SL056,67450,0,2024-09-27
+P00929,Zenith Home Rechargeable Lamp,Rechargeable Lamp,C06,SL056,15700,0,2023-11-07
+P00930,Ofure 3-Seater Sofa,3-Seater Sofa,C07,SL056,112450,1,2024-05-27
+P00931,Eko Basics Dining Set 4 Chairs,Dining Set 4 Chairs,C07,SL056,87950,0,2023-11-07
+P00932,Tribe&Co Orthopaedic Mattress,Orthopaedic Mattress,C07,SL056,85350,1,2024-07-08
+P00933,Bluecrest Wall Clock,Wall Clock,C06,SL056,27350,1,2024-04-26
+P00934,Oyela TV Stand,TV Stand,C07,SL056,555550,1,2024-07-08
+P00935,Oyela Non-stick Pot Set,Non-stick Pot Set,C06,SL056,15300,0,2024-04-23
+P00936,Zuritek Bed Frame 6x6,Bed Frame 6x6,C07,SL056,192150,1,2023-11-07
+P00937,Tella Game Disc,Game Disc,C04,SL057,168150,0,2022-03-25
+P00938,Daria Wireless Controller,Wireless Controller,C04,SL057,87800,0,2022-09-27
+P00939,Nala Retro Handheld Console,Retro Handheld Console,C04,SL057,158050,0,2024-08-11
+P00940,Kito Retro Handheld Console,Retro Handheld Console,C04,SL057,250350,0,2022-06-13
+P00941,Bluecrest Gaming Headset,Gaming Headset,C04,SL057,258400,0,2023-01-07
+P00942,Amberly Wireless Controller,Wireless Controller,C04,SL057,246100,0,2024-03-16
+P00943,Daria Game Console,Game Console,C04,SL057,168550,0,2022-06-13
+P00944,Daria Gaming Headset,Gaming Headset,C04,SL057,190850,0,2022-10-12
+P00945,Lumora Inverter Generator 2.5kVA,Inverter Generator 2.5kVA,C05,SL058,131400,1,2025-05-04
+P00946,Tribe&Co Split Air Conditioner 1.5HP,Split Air Conditioner 1.5HP,C05,SL058,285650,0,2025-05-04
+P00947,Novaline Microwave Oven 20L,Microwave Oven 20L,C05,SL058,53600,1,2025-05-04
+P00948,Brightway Electric Kettle,Electric Kettle,C05,SL058,234350,1,2025-05-04
+P00949,Marlow Double Door Fridge,Double Door Fridge,C05,SL058,176400,1,2025-05-04
+P00950,Zuritek Inverter Generator 2.5kVA,Inverter Generator 2.5kVA,C05,SL058,86900,1,2025-05-04
+P00951,Nala Inverter Generator 2.5kVA,Inverter Generator 2.5kVA,C05,SL058,120500,1,2025-05-04
+P00952,Daria Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL059,5450,0,2024-10-30
+P00953,Halden Bottled Water Pack,Bottled Water Pack,C13,SL059,6650,0,2022-12-17
+P00954,Eko Basics Beverage Drink 900g,Beverage Drink 900g,C13,SL059,4500,0,2022-12-17
+P00955,Lumora Beverage Drink 900g,Beverage Drink 900g,C13,SL059,3800,0,2024-09-15
+P00956,Oyela Noodles Carton,Noodles Carton,C13,SL059,7850,0,2023-02-07
+P00957,Verano Bottled Water Pack,Bottled Water Pack,C13,SL059,6600,0,2023-02-08
+P00958,Zuritek Noodles Carton,Noodles Carton,C13,SL059,5700,0,2024-05-20
+P00959,Sahel Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL059,7100,0,2024-02-07
+P00960,Marlow Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL059,5950,0,2023-06-29
+P00961,Sahel Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL059,8400,0,2025-02-12
+P00962,Amberly Vegetable Oil 3L,Vegetable Oil 3L,C13,SL059,7850,0,2024-11-15
+P00963,Tribe&Co Soft Drinks Pack,Soft Drinks Pack,C13,SL059,11500,0,2023-08-15
+P00964,Kora Cereal 500g,Cereal 500g,C13,SL059,12350,0,2022-12-17
+P00965,Verano Hair Clipper,Hair Clipper,C11,SL060,14700,0,2025-03-20
+P00966,Tribe&Co Perfume 100ml,Perfume 100ml,C11,SL060,8550,0,2024-01-30
+P00967,Novaline Face Serum,Face Serum,C11,SL060,7350,0,2024-09-18
+P00968,Bluecrest Beard Grooming Kit,Beard Grooming Kit,C11,SL060,17050,0,2024-01-30
+P00969,Sunpeak Deodorant Pack,Deodorant Pack,C11,SL060,12300,0,2025-01-11
+P00970,Tella Deodorant Pack,Deodorant Pack,C11,SL060,7950,0,2024-01-30
+P00971,Bluecrest Body Lotion 400ml,Body Lotion 400ml,C11,SL060,2150,0,2024-07-15
+P00972,Bluecrest Shea Butter 500g,Shea Butter 500g,C11,SL060,10100,0,2024-01-30
+P00973,Zenith Home Makeup Palette,Makeup Palette,C11,SL060,8350,0,2024-01-30
+P00974,Novaline Bodycon Dress,Bodycon Dress,C08,SL061,6700,0,2024-08-05
+P00975,Brightway Two-piece Set,Two-piece Set,C08,SL061,23650,0,2024-08-05
+P00976,Sahel Jumpsuit,Jumpsuit,C08,SL061,17200,0,2024-08-05
+P00977,Novaline Maxi Skirt,Maxi Skirt,C08,SL061,21550,0,2024-08-11
+P00978,Zenith Home Wide-leg Trousers,Wide-leg Trousers,C08,SL061,13250,0,2024-08-05
+P00979,Sunpeak Blouse,Blouse,C08,SL061,15200,0,2024-08-05
+P00980,Amberly Jeans Women,Jeans Women,C08,SL061,36850,0,2024-08-05
+P00981,Sahel Jumpsuit,Jumpsuit,C08,SL061,17400,0,2024-08-05
+P00982,Kito Maxi Skirt,Maxi Skirt,C08,SL061,20950,0,2024-08-05
+P00983,Nala Wide-leg Trousers,Wide-leg Trousers,C08,SL061,24100,0,2024-08-05
+P00984,Ofure Exercise Bike,Exercise Bike,C15,SL062,33100,0,2025-04-04
+P00985,Kito Football,Football,C15,SL062,18750,1,2025-04-04
+P00986,Ikoro Yoga Mat,Yoga Mat,C15,SL062,16050,0,2025-04-04
+P00987,Nala Dumbbell Set,Dumbbell Set,C15,SL062,39650,0,2025-04-04
+P00988,Zuritek Exercise Bike,Exercise Bike,C15,SL062,27850,0,2025-04-04
+P00989,Amberly Treadmill,Treadmill,C15,SL062,16250,1,2025-04-04
+P00990,Kora Jersey,Jersey,C15,SL062,50900,1,2025-04-04
+P00991,Marlow Resistance Bands,Resistance Bands,C15,SL062,27800,0,2025-04-04
+P00992,Verano Resistance Bands,Resistance Bands,C15,SL062,17600,0,2025-04-04
+P00993,Lumora Treadmill,Treadmill,C15,SL062,23350,1,2025-04-04
+P00994,Zuritek Jersey,Jersey,C15,SL062,62450,1,2025-04-04
+P00995,Sunpeak Football,Football,C15,SL062,16700,1,2025-06-16
+P00996,Bluecrest Wall Clock,Wall Clock,C06,SL063,4850,1,2023-03-10
+P00997,Oyela Duvet,Duvet,C06,SL063,18300,0,2025-02-18
+P00998,Marlow Curtain Pair,Curtain Pair,C06,SL063,9100,0,2024-06-23
+P00999,Lumora Non-stick Pot Set,Non-stick Pot Set,C06,SL063,12850,0,2024-12-01
+P01000,Verano Storage Containers Set,Storage Containers Set,C06,SL063,18550,0,2023-07-19
+P01001,Lumora Duvet,Duvet,C06,SL063,10800,0,2023-03-05
+P01002,Tribe&Co Rechargeable Lamp,Rechargeable Lamp,C06,SL063,26150,0,2023-03-05
+P01003,Zuritek Kitchen Knife Set,Kitchen Knife Set,C06,SL063,81850,0,2023-03-05
+P01004,Ikoro Storage Containers Set,Storage Containers Set,C06,SL063,12750,0,2024-08-17
+P01005,Kito Rechargeable Lamp,Rechargeable Lamp,C06,SL063,29550,0,2023-12-01
+P01006,Sunpeak Water Dispenser,Water Dispenser,C06,SL063,12950,0,2024-05-30
+P01007,Amberly Storage Containers Set,Storage Containers Set,C06,SL063,57050,0,2025-03-22
+P01008,Zenith Home Water Dispenser,Water Dispenser,C06,SL063,13850,0,2024-11-28
+P01009,Halden Wall Clock,Wall Clock,C06,SL063,15600,1,2023-11-02
+P01010,Sunpeak Kitchen Knife Set,Kitchen Knife Set,C06,SL063,41450,0,2024-12-17
+P01011,Brightway Rechargeable Lamp,Rechargeable Lamp,C06,SL063,14700,0,2024-12-02
+P01012,Verano Dinner Set 24pcs,Dinner Set 24pcs,C06,SL063,7400,1,2023-03-05
+P01013,Eko Basics Water Dispenser,Water Dispenser,C06,SL063,12850,0,2025-02-20
+P01014,Sunpeak Duvet,Duvet,C06,SL063,7950,0,2023-03-05
+P01015,Oyela Storage Containers Set,Storage Containers Set,C06,SL063,68400,0,2025-03-10
+P01016,Nala Dinner Set 24pcs,Dinner Set 24pcs,C06,SL063,14200,1,2024-01-13
+P01017,Ikoro Microwave Oven 20L,Microwave Oven 20L,C05,SL064,41850,1,2024-11-12
+P01018,Lumora Split Air Conditioner 1.5HP,Split Air Conditioner 1.5HP,C05,SL064,140000,0,2024-05-23
+P01019,Bluecrest Gas Cooker 4 Burner,Gas Cooker 4 Burner,C05,SL064,64350,1,2023-08-17
+P01020,Halden Dinner Set 24pcs,Dinner Set 24pcs,C06,SL064,10200,1,2022-10-15
+P01021,Daria Blender 1.5L,Blender 1.5L,C05,SL064,38800,0,2024-10-07
+P01022,Lumora Washing Machine 7kg,Washing Machine 7kg,C05,SL064,30350,0,2022-10-26
+P01023,Kora Gas Cooker 4 Burner,Gas Cooker 4 Burner,C05,SL064,122650,1,2023-01-24
+P01024,Halden Washing Machine 7kg,Washing Machine 7kg,C05,SL064,25100,0,2024-09-23
+P01025,Nala Water Dispenser,Water Dispenser,C06,SL064,11400,0,2024-06-28
+P01026,Halden Non-stick Pot Set,Non-stick Pot Set,C06,SL064,14200,0,2022-10-15
+P01027,Tella LED TV 32in,LED TV 32in,C03,SL065,95950,0,2025-02-17
+P01028,Daria Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL065,537850,0,2024-10-12
+P01029,Eko Basics Soundbar 2.1,Soundbar 2.1,C03,SL065,78700,1,2024-10-12
+P01030,Marlow Satellite Decoder,Satellite Decoder,C03,SL065,34500,0,2024-10-12
+P01031,Tella Bluetooth Speaker,Bluetooth Speaker,C03,SL065,77550,0,2024-10-12
+P01032,Bluecrest Projector,Projector,C03,SL065,137200,0,2024-10-12
+P01033,Zuritek Projector,Projector,C03,SL065,156350,0,2024-10-12
+P01034,Tella Laptop Bag,Laptop Bag,C02,SL065,259200,0,2024-10-12
+P01035,Sahel Soundbar 2.1,Soundbar 2.1,C03,SL065,44300,1,2024-10-12
+P01036,Tribe&Co Home Theatre System,Home Theatre System,C03,SL065,166850,0,2024-10-12
+P01037,Novaline Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL065,430400,0,2024-11-09
+P01038,Eko Basics USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL065,119500,0,2024-10-12
+P01039,Eko Basics Wi-Fi Router,Wi-Fi Router,C02,SL065,327150,1,2024-10-12
+P01040,Ikoro Over-ear Headphones,Over-ear Headphones,C03,SL065,54450,0,2024-10-12
+P01041,Zenith Home Smart TV 43in,Smart TV 43in,C03,SL065,67850,0,2024-10-12
+P01042,Tribe&Co Bluetooth Speaker,Bluetooth Speaker,C03,SL065,48200,0,2024-10-12
+P01043,Ikoro Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL065,478700,0,2024-10-12
+P01044,Kora TV Wall Bracket,TV Wall Bracket,C03,SL065,270650,1,2024-10-12
+P01045,Ofure Smart TV 55in,Smart TV 55in,C03,SL065,48900,1,2025-03-14
+P01046,Tella Home Theatre System,Home Theatre System,C03,SL065,247800,0,2024-10-12
+P01047,Novaline Satellite Decoder,Satellite Decoder,C03,SL065,26250,0,2024-10-12
+P01048,Verano LED TV 32in,LED TV 32in,C03,SL065,101950,0,2024-10-12
+P01049,Novaline Home Theatre System,Home Theatre System,C03,SL065,175200,0,2025-06-01
+P01050,Amberly Bluetooth Speaker,Bluetooth Speaker,C03,SL065,62350,0,2025-01-09
+P01051,Brightway LED TV 32in,LED TV 32in,C03,SL065,190900,0,2024-10-12
+P01052,Sahel Over-ear Headphones,Over-ear Headphones,C03,SL065,78950,0,2024-11-29
+P01053,Zenith Home Over-ear Headphones,Over-ear Headphones,C03,SL065,53750,0,2024-10-12
+P01054,Zuritek TV Wall Bracket,TV Wall Bracket,C03,SL065,211700,1,2024-10-12
+P01055,Halden Bluetooth Speaker,Bluetooth Speaker,C03,SL065,65600,0,2024-10-12
+P01056,Ofure Smart TV 55in,Smart TV 55in,C03,SL065,46650,1,2024-10-12
+P01057,Sunpeak Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL065,443650,0,2024-10-12
+P01058,Oyela Soundbar 2.1,Soundbar 2.1,C03,SL065,74350,1,2024-10-12
+P01059,Sahel Wi-Fi Router,Wi-Fi Router,C02,SL065,269000,1,2024-10-12
+P01060,Nala Coffee 200g,Coffee 200g,C13,SL066,4750,0,2022-11-30
+P01061,Sunpeak Cereal 500g,Cereal 500g,C13,SL066,8050,0,2024-05-12
+P01062,Brightway Rice 10kg,Rice 10kg,C13,SL066,2650,0,2022-08-15
+P01063,Sahel Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL066,7950,0,2025-03-02
+P01064,Kito Soft Drinks Pack,Soft Drinks Pack,C13,SL066,9100,0,2024-06-08
+P01065,Lumora Bottled Water Pack,Bottled Water Pack,C13,SL066,6000,0,2023-08-09
+P01066,Tribe&Co Noodles Carton,Noodles Carton,C13,SL066,2650,0,2022-12-04
+P01067,Sahel Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL066,5650,0,2023-04-30
+P01068,Amberly Cereal 500g,Cereal 500g,C13,SL066,4850,0,2022-11-15
+P01069,Daria Calculator Scientific,Calculator Scientific,C17,SL067,1900,0,2022-10-31
+P01070,Brightway Diary 2025,Diary 2025,C17,SL067,2750,0,2024-05-07
+P01071,Lumora Textbook,Textbook,C17,SL067,1700,0,2022-02-27
+P01072,Sunpeak School Bag,School Bag,C17,SL067,6200,0,2025-02-21
+P01073,Ofure Pens Pack,Pens Pack,C17,SL067,1850,0,2024-02-20
+P01074,Halden Pens Pack,Pens Pack,C17,SL067,2450,0,2023-10-11
+P01075,Zuritek Exercise Books Pack of 20,Exercise Books Pack of 20,C17,SL067,3650,0,2022-09-26
+P01076,Bluecrest Textbook,Textbook,C17,SL067,6450,0,2023-03-24
+P01077,Tella Exercise Books Pack of 20,Exercise Books Pack of 20,C17,SL067,4600,0,2022-02-22
+P01078,Lumora Soundbar 2.1,Soundbar 2.1,C03,SL068,72450,1,2025-08-19
+P01079,Halden Soundbar 2.1,Soundbar 2.1,C03,SL068,35500,1,2025-08-19
+P01080,Marlow Bluetooth Speaker,Bluetooth Speaker,C03,SL068,123000,0,2025-08-19
+P01081,Lumora LED TV 32in,LED TV 32in,C03,SL068,41700,0,2025-08-19
+P01082,Sunpeak Soundbar 2.1,Soundbar 2.1,C03,SL068,86250,1,2025-08-19
+P01083,Bluecrest Over-ear Headphones,Over-ear Headphones,C03,SL068,25500,0,2025-08-19
+P01084,Zuritek Projector,Projector,C03,SL068,158200,0,2025-08-19
+P01085,Tribe&Co Home Theatre System,Home Theatre System,C03,SL068,105150,0,2025-08-19
+P01086,Zuritek Soundbar 2.1,Soundbar 2.1,C03,SL068,63650,1,2025-08-19
+P01087,Nala Smart TV 43in,Smart TV 43in,C03,SL069,102100,0,2024-11-06
+P01088,Halden Satellite Decoder,Satellite Decoder,C03,SL069,29250,0,2024-11-06
+P01089,Eko Basics Smart TV 43in,Smart TV 43in,C03,SL069,179900,0,2024-11-06
+P01090,Kito Smart TV 43in,Smart TV 43in,C03,SL069,194700,0,2024-11-06
+P01091,Oyela Over-ear Headphones,Over-ear Headphones,C03,SL069,94850,0,2024-11-06
+P01092,Bluecrest Home Theatre System,Home Theatre System,C03,SL069,130550,0,2024-11-06
+P01093,Daria Over-ear Headphones,Over-ear Headphones,C03,SL069,93000,0,2024-12-23
+P01094,Sunpeak Bluetooth Speaker,Bluetooth Speaker,C03,SL069,87750,0,2024-11-06
+P01095,Tella Projector,Projector,C03,SL069,213800,0,2024-11-06
+P01096,Daria Bluetooth Speaker,Bluetooth Speaker,C03,SL069,57250,0,2024-11-06
+P01097,Marlow Smart TV 55in,Smart TV 55in,C03,SL069,36750,1,2024-11-06
+P01098,Sunpeak Smart TV 55in,Smart TV 55in,C03,SL069,48100,1,2024-11-06
+P01099,Amberly Over-ear Headphones,Over-ear Headphones,C03,SL069,27550,0,2024-11-06
+P01100,Novaline TV Wall Bracket,TV Wall Bracket,C03,SL069,119800,1,2024-11-06
+P01101,Marlow LED TV 32in,LED TV 32in,C03,SL069,64700,0,2025-02-14
+P01102,Daria Smart TV 43in,Smart TV 43in,C03,SL069,100550,0,2024-11-06
+P01103,Lumora Projector,Projector,C03,SL069,230850,0,2024-11-06
+P01104,Kito Smart TV 55in,Smart TV 55in,C03,SL069,51500,1,2024-11-06
+P01105,Bluecrest Smart TV 55in,Smart TV 55in,C03,SL069,21650,1,2024-11-06
+P01106,Zenith Home Projector,Projector,C03,SL069,147350,0,2024-11-06
+P01107,Lumora TV Wall Bracket,TV Wall Bracket,C03,SL069,286850,1,2024-11-06
+P01108,Bluecrest Ankara Gown,Ankara Gown,C08,SL070,10950,0,2025-02-18
+P01109,Eko Basics Ankara Gown,Ankara Gown,C08,SL070,11350,0,2025-02-18
+P01110,Zuritek Wide-leg Trousers,Wide-leg Trousers,C08,SL070,27150,0,2025-02-18
+P01111,Lumora Wide-leg Trousers,Wide-leg Trousers,C08,SL070,19300,0,2025-02-18
+P01112,Sahel Jeans Women,Jeans Women,C08,SL070,20800,0,2025-02-18
+P01113,Brightway Maxi Skirt,Maxi Skirt,C08,SL070,19350,0,2025-03-08
+P01114,Halden Two-piece Set,Two-piece Set,C08,SL070,21900,0,2025-02-18
+P01115,Halden Maxi Skirt,Maxi Skirt,C08,SL070,9100,0,2025-02-18
+P01116,Halden Lingerie Set,Lingerie Set,C08,SL070,15100,0,2025-05-11
+P01117,Tribe&Co Jeans Women,Jeans Women,C08,SL070,14900,0,2025-02-18
+P01118,Bluecrest Wallet,Wallet,C10,SL070,36000,0,2025-02-18
+P01119,Novaline Jumpsuit,Jumpsuit,C08,SL070,12900,0,2025-02-18
+P01120,Sunpeak Maxi Skirt,Maxi Skirt,C08,SL070,17850,0,2025-02-18
+P01121,Bluecrest Jeans Women,Jeans Women,C08,SL070,13450,0,2025-02-26
+P01122,Novaline Jumpsuit,Jumpsuit,C08,SL071,18150,0,2024-07-10
+P01123,Kora Ankara Gown,Ankara Gown,C08,SL071,21000,0,2022-08-06
+P01124,Zuritek Wide-leg Trousers,Wide-leg Trousers,C08,SL071,30900,0,2022-09-20
+P01125,Halden Jeans Women,Jeans Women,C08,SL071,13300,0,2022-11-14
+P01126,Brightway Lingerie Set,Lingerie Set,C08,SL071,16350,0,2023-06-23
+P01127,Eko Basics Maxi Skirt,Maxi Skirt,C08,SL071,23350,0,2025-06-08
+P01128,Bluecrest Abaya,Abaya,C08,SL071,7000,0,2022-09-03
+P01129,Kora Maxi Skirt,Maxi Skirt,C08,SL071,13600,0,2025-06-26
+P01130,Kito Bodycon Dress,Bodycon Dress,C08,SL071,13750,0,2022-10-04
+P01131,Sunpeak Lingerie Set,Lingerie Set,C08,SL071,21800,0,2025-03-05
+P01132,Zuritek Maxi Skirt,Maxi Skirt,C08,SL071,20800,0,2024-06-15
+P01133,Kora Blouse,Blouse,C08,SL071,15350,0,2024-11-06
+P01134,Kora Lingerie Set,Lingerie Set,C08,SL071,13250,0,2022-08-06
+P01135,Verano Bodycon Dress,Bodycon Dress,C08,SL071,12300,0,2024-04-04
+P01136,Bluecrest Hair Extensions,Hair Extensions,C11,SL072,15950,0,2025-05-09
+P01137,Brightway Body Lotion 400ml,Body Lotion 400ml,C11,SL072,2850,0,2023-03-31
+P01138,Oyela Deodorant Pack,Deodorant Pack,C11,SL072,11650,0,2023-04-30
+P01139,Sunpeak Hair Clipper,Hair Clipper,C11,SL072,15600,0,2024-08-23
+P01140,Sunpeak Makeup Palette,Makeup Palette,C11,SL072,3400,0,2025-04-23
+P01141,Marlow Digital Thermometer,Digital Thermometer,C12,SL072,9600,0,2024-01-20
+P01142,Amberly Makeup Palette,Makeup Palette,C11,SL072,15850,0,2023-03-24
+P01143,Sahel Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL072,9950,0,2024-10-15
+P01144,Eko Basics Deodorant Pack,Deodorant Pack,C11,SL072,25500,0,2023-06-05
+P01145,Zuritek Deodorant Pack,Deodorant Pack,C11,SL072,15200,0,2023-06-08
+P01146,Tella Herbal Tea,Herbal Tea,C12,SL072,10700,0,2023-12-03
+P01147,Halden Deodorant Pack,Deodorant Pack,C11,SL072,10000,0,2023-01-05
+P01148,Kito Perfume 100ml,Perfume 100ml,C11,SL072,6900,0,2024-04-23
+P01149,Tella Perfume 100ml,Perfume 100ml,C11,SL072,13950,0,2023-01-05
+P01150,Sunpeak Deodorant Pack,Deodorant Pack,C11,SL072,11700,0,2023-01-05
+P01151,Nala Face Serum,Face Serum,C11,SL072,8000,0,2023-01-05
+P01152,Zuritek Body Lotion 400ml,Body Lotion 400ml,C11,SL072,2300,0,2023-01-05
+P01153,Bluecrest Digital Thermometer,Digital Thermometer,C12,SL072,10000,0,2023-01-05
+P01154,Amberly Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL073,432750,0,2024-02-22
+P01155,Eko Basics Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL073,303400,0,2024-02-22
+P01156,Sunpeak Refurbished Laptop 14in,Refurbished Laptop 14in,C02,SL073,190100,0,2025-01-07
+P01157,Halden USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL073,128650,0,2024-09-18
+P01158,Oyela Laptop Bag,Laptop Bag,C02,SL073,327400,0,2024-06-06
+P01159,Daria Wi-Fi Router,Wi-Fi Router,C02,SL073,440500,1,2025-05-02
+P01160,Kito Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL073,367450,0,2024-06-16
+P01161,Daria USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL073,242400,0,2025-04-10
+P01162,Daria External Hard Drive 1TB,External Hard Drive 1TB,C02,SL073,418350,0,2024-02-22
+P01163,Ofure USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL073,204750,0,2024-02-22
+P01164,Halden TV Wall Bracket,TV Wall Bracket,C03,SL074,177500,1,2025-09-18
+P01165,Sunpeak Smart TV 55in,Smart TV 55in,C03,SL074,54250,1,2025-09-18
+P01166,Tella Soundbar 2.1,Soundbar 2.1,C03,SL074,57800,1,2025-09-18
+P01167,Kito Home Theatre System,Home Theatre System,C03,SL074,185200,0,2025-09-18
+P01168,Sunpeak Smart TV 55in,Smart TV 55in,C03,SL074,42250,1,2025-09-18
+P01169,Marlow Projector,Projector,C03,SL074,237350,0,2025-09-18
+P01170,Zenith Home Over-ear Headphones,Over-ear Headphones,C03,SL074,101150,0,2025-09-18
+P01171,Eko Basics Soundbar 2.1,Soundbar 2.1,C03,SL074,61400,1,2025-09-18
+P01172,Ikoro Home Theatre System,Home Theatre System,C03,SL074,88800,0,2025-09-18
+P01173,Kito Jump Starter,Jump Starter,C18,SL075,5650,0,2023-09-07
+P01174,Zuritek Bicycle,Bicycle,C15,SL075,26650,0,2023-09-07
+P01175,Bluecrest Dash Camera,Dash Camera,C18,SL075,32900,0,2024-02-21
+P01176,Kora Jump Starter,Jump Starter,C18,SL075,20300,0,2023-09-07
+P01177,Sahel Tyre 16in,Tyre 16in,C18,SL075,10950,0,2023-09-07
+P01178,Zuritek Tyre 16in,Tyre 16in,C18,SL075,12150,0,2023-09-07
+P01179,Ofure Dash Camera,Dash Camera,C18,SL075,27750,0,2025-02-22
+P01180,Kora Yoga Mat,Yoga Mat,C15,SL075,10250,0,2024-09-21
+P01181,Zenith Home Resistance Bands,Resistance Bands,C15,SL075,23850,0,2023-09-07
+P01182,Tribe&Co Jump Starter,Jump Starter,C18,SL075,17550,0,2025-06-13
+P01183,Daria Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL076,199600,0,2023-07-07
+P01184,Sunpeak Power Bank 20000mAh,Power Bank 20000mAh,C01,SL076,104250,0,2023-07-07
+P01185,Oyela Smartwatch,Smartwatch,C01,SL076,71800,0,2023-07-07
+P01186,Verano Wireless Earbuds,Wireless Earbuds,C01,SL076,143500,0,2024-11-07
+P01187,Ikoro Smartwatch,Smartwatch,C01,SL076,121250,0,2023-07-07
+P01188,Kora Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL076,171000,0,2023-07-07
+P01189,Kito Power Bank 20000mAh,Power Bank 20000mAh,C01,SL076,132100,0,2024-08-15
+P01190,Verano Kids Tablet 7in,Kids Tablet 7in,C01,SL076,307550,0,2023-07-07
+P01191,Oyela Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL076,345900,0,2023-09-06
+P01192,Marlow Wireless Earbuds,Wireless Earbuds,C01,SL076,194350,0,2023-07-07
+P01193,Tella Backpack,Backpack,C10,SL077,11050,0,2024-10-09
+P01194,Verano Backpack,Backpack,C10,SL077,11300,0,2024-10-09
+P01195,Ikoro Slippers,Slippers,C10,SL077,14050,0,2024-10-09
+P01196,Zenith Home Leather Sandals,Leather Sandals,C10,SL077,15100,0,2024-10-09
+P01197,Halden Wallet,Wallet,C10,SL077,31850,0,2024-10-09
+P01198,Halden Travel Bag,Travel Bag,C10,SL077,23850,0,2024-10-09
+P01199,Ikoro Wallet,Wallet,C10,SL077,53000,0,2024-10-09
+P01200,Kito Slippers,Slippers,C10,SL077,15300,0,2024-10-09
+P01201,Novaline Backpack,Backpack,C10,SL077,6650,0,2024-10-09
+P01202,Kito Travel Bag,Travel Bag,C10,SL077,54700,0,2024-10-09
+P01203,Sahel Slippers,Slippers,C10,SL077,15600,0,2024-10-09
+P01204,Lumora Hair Relaxer Kit,Hair Relaxer Kit,C11,SL078,9150,0,2024-10-12
+P01205,Amberly Hair Clipper,Hair Clipper,C11,SL078,22000,0,2024-10-12
+P01206,Oyela Perfume 100ml,Perfume 100ml,C11,SL078,9850,0,2024-10-12
+P01207,Zenith Home Face Serum,Face Serum,C11,SL078,8550,0,2024-10-12
+P01208,Lumora Perfume 100ml,Perfume 100ml,C11,SL078,6300,0,2024-10-12
+P01209,Kito Hair Extensions,Hair Extensions,C11,SL078,33150,0,2024-10-12
+P01210,Lumora Shea Butter 500g,Shea Butter 500g,C11,SL078,8200,0,2024-10-12
+P01211,Daria Perfume 100ml,Perfume 100ml,C11,SL078,5700,0,2024-10-12
+P01212,Kora Body Lotion 400ml,Body Lotion 400ml,C11,SL078,2300,0,2025-01-28
+P01213,Amberly Perfume 100ml,Perfume 100ml,C11,SL078,6100,0,2024-10-12
+P01214,Marlow Perfume 100ml,Perfume 100ml,C11,SL078,5050,0,2024-11-12
+P01215,Tella Hair Relaxer Kit,Hair Relaxer Kit,C11,SL078,11100,0,2024-10-12
+P01216,Ofure Body Lotion 400ml,Body Lotion 400ml,C11,SL078,4200,0,2024-10-12
+P01217,Tribe&Co Hair Extensions,Hair Extensions,C11,SL078,19650,0,2024-10-12
+P01218,Tribe&Co Shea Butter 500g,Shea Butter 500g,C11,SL078,9550,0,2024-10-12
+P01219,Eko Basics Hair Clipper,Hair Clipper,C11,SL078,14150,0,2024-10-12
+P01220,Tribe&Co Deodorant Pack,Deodorant Pack,C11,SL078,8000,0,2024-10-12
+P01221,Ofure Face Serum,Face Serum,C11,SL078,15050,0,2024-10-12
+P01222,Oyela Hair Clipper,Hair Clipper,C11,SL078,11150,0,2024-10-12
+P01223,Novaline Face Serum,Face Serum,C11,SL078,6450,0,2024-12-23
+P01224,Eko Basics Hair Extensions,Hair Extensions,C11,SL078,12800,0,2024-10-12
+P01225,Novaline Hair Clipper,Hair Clipper,C11,SL078,13650,0,2024-10-12
+P01226,Zuritek Shea Butter 500g,Shea Butter 500g,C11,SL078,12300,0,2025-03-14
+P01227,Tribe&Co Perfume 100ml,Perfume 100ml,C11,SL078,7450,0,2025-02-23
+P01228,Zenith Home Shea Butter 500g,Shea Butter 500g,C11,SL078,6200,0,2024-10-12
+P01229,Verano Makeup Palette,Makeup Palette,C11,SL078,16450,0,2025-04-29
+P01230,Kora Perfume 100ml,Perfume 100ml,C11,SL078,5450,0,2024-10-12
+P01231,Ikoro Hair Relaxer Kit,Hair Relaxer Kit,C11,SL078,9150,0,2024-10-12
+P01232,Verano Makeup Palette,Makeup Palette,C11,SL078,5150,0,2024-10-12
+P01233,Eko Basics Deodorant Pack,Deodorant Pack,C11,SL078,14500,0,2024-10-12
+P01234,Sahel Hair Clipper,Hair Clipper,C11,SL078,13000,0,2024-10-12
+P01235,Zenith Home Face Serum,Face Serum,C11,SL078,4500,0,2024-10-12
+P01236,Bluecrest Face Serum,Face Serum,C11,SL078,4400,0,2024-10-12
+P01237,Lumora Face Serum,Face Serum,C11,SL078,9000,0,2025-03-13
+P01238,Brightway Perfume 100ml,Perfume 100ml,C11,SL078,5300,0,2024-10-12
+P01239,Sahel Body Lotion 400ml,Body Lotion 400ml,C11,SL078,2500,0,2024-10-12
+P01240,Kora Makeup Palette,Makeup Palette,C11,SL078,7550,0,2024-10-12
+P01241,Oyela Hair Relaxer Kit,Hair Relaxer Kit,C11,SL078,8400,0,2024-10-12
+P01242,Sunpeak Hair Relaxer Kit,Hair Relaxer Kit,C11,SL078,7000,0,2024-10-12
+P01243,Ofure Deodorant Pack,Deodorant Pack,C11,SL078,13200,0,2024-10-12
+P01244,Nala Perfume 100ml,Perfume 100ml,C11,SL078,7950,0,2025-04-01
+P01245,Oyela Perfume 100ml,Perfume 100ml,C11,SL078,2750,0,2025-01-11
+P01246,Oyela Perfume 100ml,Perfume 100ml,C11,SL078,13150,0,2024-10-12
+P01247,Kito Hair Relaxer Kit,Hair Relaxer Kit,C11,SL078,4950,0,2024-10-12
+P01248,Lumora Hair Extensions,Hair Extensions,C11,SL078,15300,0,2024-10-12
+P01249,Tribe&Co Double Door Fridge,Double Door Fridge,C05,SL079,110950,1,2025-02-23
+P01250,Brightway Electric Kettle,Electric Kettle,C05,SL079,105150,1,2024-07-21
+P01251,Zuritek Standing Fan 18in,Standing Fan 18in,C05,SL079,132750,0,2024-07-21
+P01252,Kito Washing Machine 7kg,Washing Machine 7kg,C05,SL079,43100,0,2025-02-10
+P01253,Zenith Home Chest Freezer 200L,Chest Freezer 200L,C05,SL079,137700,0,2024-07-21
+P01254,Eko Basics Chest Freezer 200L,Chest Freezer 200L,C05,SL079,135100,0,2024-07-21
+P01255,Zenith Home Double Door Fridge,Double Door Fridge,C05,SL079,122300,1,2024-07-21
+P01256,Eko Basics Gas Cooker 4 Burner,Gas Cooker 4 Burner,C05,SL079,84750,1,2024-11-27
+P01257,Brightway Electric Kettle,Electric Kettle,C05,SL079,129850,1,2024-07-21
+P01258,Sahel Gas Cooker 4 Burner,Gas Cooker 4 Burner,C05,SL079,66100,1,2024-11-27
+P01259,Zuritek Tomato Paste Carton,Tomato Paste Carton,C13,SL080,7100,0,2024-12-25
+P01260,Nala Coffee 200g,Coffee 200g,C13,SL080,7250,0,2023-07-18
+P01261,Verano Rice 10kg,Rice 10kg,C13,SL080,3900,0,2025-06-11
+P01262,Verano Soft Drinks Pack,Soft Drinks Pack,C13,SL080,4350,0,2024-04-13
+P01263,Nala Cereal 500g,Cereal 500g,C13,SL080,6450,0,2023-07-31
+P01264,Bluecrest Noodles Carton,Noodles Carton,C13,SL080,9150,0,2022-07-19
+P01265,Oyela Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL080,7150,0,2024-09-15
+P01266,Bluecrest Coffee 200g,Coffee 200g,C13,SL080,3950,0,2025-04-15
+P01267,Ofure Tomato Paste Carton,Tomato Paste Carton,C13,SL080,9550,0,2022-10-19
+P01268,Halden Noodles Carton,Noodles Carton,C13,SL080,10700,0,2025-02-15
+P01269,Marlow Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL080,6450,0,2023-04-23
+P01270,Novaline Beverage Drink 900g,Beverage Drink 900g,C13,SL080,3300,0,2023-06-29
+P01271,Oyela Vegetable Oil 3L,Vegetable Oil 3L,C13,SL080,10550,0,2023-08-02
+P01272,Zuritek Cereal 500g,Cereal 500g,C13,SL080,5900,0,2024-12-12
+P01273,Zenith Home Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL080,7650,0,2023-05-12
+P01274,Brightway Satellite Decoder,Satellite Decoder,C03,SL081,39350,0,2024-11-25
+P01275,Kito TV Wall Bracket,TV Wall Bracket,C03,SL081,201150,1,2024-03-12
+P01276,Zenith Home LED TV 32in,LED TV 32in,C03,SL081,93150,0,2023-10-17
+P01277,Sunpeak TV Wall Bracket,TV Wall Bracket,C03,SL081,252900,1,2022-08-24
+P01278,Sahel Over-ear Headphones,Over-ear Headphones,C03,SL081,30050,0,2024-03-04
+P01279,Eko Basics Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL081,200050,0,2023-07-02
+P01280,Novaline Smart TV 55in,Smart TV 55in,C03,SL081,84900,1,2024-11-11
+P01281,Ofure Satellite Decoder,Satellite Decoder,C03,SL081,60200,0,2025-03-26
+P01282,Kora Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL081,152900,0,2022-08-17
+P01283,Zuritek Soundbar 2.1,Soundbar 2.1,C03,SL081,72300,1,2023-12-19
+P01284,Amberly Bluetooth Speaker,Bluetooth Speaker,C03,SL081,103100,0,2024-08-04
+P01285,Verano Shorts,Shorts,C09,SL082,5550,0,2024-09-14
+P01286,Brightway Jeans Men,Jeans Men,C09,SL082,12850,0,2024-09-14
+P01287,Tribe&Co Underwear Pack,Underwear Pack,C09,SL082,17700,0,2024-09-14
+P01288,Kito Jeans Men,Jeans Men,C09,SL082,14900,0,2024-09-14
+P01289,Sunpeak Shorts,Shorts,C09,SL082,9050,0,2024-09-14
+P01290,Halden Senator Wear,Senator Wear,C09,SL082,14050,0,2024-09-14
+P01291,Novaline Suit 2-piece,Suit 2-piece,C09,SL082,7850,0,2024-09-14
+P01292,Bluecrest Polo Shirt,Polo Shirt,C09,SL082,5300,0,2024-09-14
+P01293,Eko Basics Chinos,Chinos,C09,SL082,15700,0,2024-09-14
+P01294,Amberly Jeans Men,Jeans Men,C09,SL082,27000,0,2024-09-14
+P01295,Sunpeak Hair Clipper,Hair Clipper,C11,SL083,21100,0,2024-11-22
+P01296,Novaline Face Serum,Face Serum,C11,SL083,13150,0,2024-12-07
+P01297,Marlow Makeup Palette,Makeup Palette,C11,SL083,12100,0,2022-03-21
+P01298,Verano Shea Butter 500g,Shea Butter 500g,C11,SL083,6700,0,2024-04-03
+P01299,Zuritek Perfume 100ml,Perfume 100ml,C11,SL083,6600,0,2022-01-19
+P01300,Tella Deodorant Pack,Deodorant Pack,C11,SL083,15750,0,2023-12-06
+P01301,Daria Shea Butter 500g,Shea Butter 500g,C11,SL083,12800,0,2023-10-27
+P01302,Nala Beard Grooming Kit,Beard Grooming Kit,C11,SL083,8600,0,2022-02-27
+P01303,Marlow Shea Butter 500g,Shea Butter 500g,C11,SL083,8550,0,2024-12-30
+P01304,Zuritek Exercise Bike,Exercise Bike,C15,SL084,41100,0,2024-02-23
+P01305,Verano Bicycle,Bicycle,C15,SL084,15400,0,2024-01-04
+P01306,Kito Resistance Bands,Resistance Bands,C15,SL084,27750,0,2023-02-01
+P01307,Ikoro Jersey,Jersey,C15,SL084,54550,1,2022-03-11
+P01308,Nala Dumbbell Set,Dumbbell Set,C15,SL084,37600,0,2024-12-29
+P01309,Marlow Bicycle,Bicycle,C15,SL084,22400,0,2024-07-12
+P01310,Tella Resistance Bands,Resistance Bands,C15,SL084,14050,0,2025-04-06
+P01311,Amberly Dumbbell Set,Dumbbell Set,C15,SL084,29750,0,2022-07-17
+P01312,Amberly Exercise Bike,Exercise Bike,C15,SL084,40600,0,2022-03-27
+P01313,Bluecrest Exercise Bike,Exercise Bike,C15,SL084,40200,0,2022-03-04
+P01314,Novaline Shea Butter 500g,Shea Butter 500g,C11,SL085,7300,0,2024-02-08
+P01315,Kito Body Lotion 400ml,Body Lotion 400ml,C11,SL085,1700,0,2024-02-08
+P01316,Oyela Deodorant Pack,Deodorant Pack,C11,SL085,15200,0,2024-06-06
+P01317,Kora Body Lotion 400ml,Body Lotion 400ml,C11,SL085,2800,0,2024-02-08
+P01318,Lumora Face Serum,Face Serum,C11,SL085,14800,0,2024-11-10
+P01319,Nala Perfume 100ml,Perfume 100ml,C11,SL085,13950,0,2024-02-08
+P01320,Novaline Makeup Palette,Makeup Palette,C11,SL085,5800,0,2024-10-28
+P01321,Verano Deodorant Pack,Deodorant Pack,C11,SL085,13050,0,2024-09-04
+P01322,Marlow Body Lotion 400ml,Body Lotion 400ml,C11,SL085,2600,0,2024-02-08
+P01323,Oyela Perfume 100ml,Perfume 100ml,C11,SL085,7700,0,2024-02-08
+P01324,Ikoro Hair Extensions,Hair Extensions,C11,SL085,19450,0,2024-02-08
+P01325,Lumora Beard Grooming Kit,Beard Grooming Kit,C11,SL085,10900,0,2024-02-08
+P01326,Halden Deodorant Pack,Deodorant Pack,C11,SL085,6950,0,2024-02-08
+P01327,Eko Basics Perfume 100ml,Perfume 100ml,C11,SL085,5600,0,2024-02-08
+P01328,Bluecrest Kaftan Set,Kaftan Set,C09,SL086,16700,0,2025-07-22
+P01329,Brightway Shorts,Shorts,C09,SL086,5000,0,2025-07-22
+P01330,Novaline Two-piece Set,Two-piece Set,C08,SL086,28850,0,2025-07-22
+P01331,Nala Jeans Men,Jeans Men,C09,SL086,11600,0,2025-07-22
+P01332,Sahel Two-piece Set,Two-piece Set,C08,SL086,8650,0,2025-07-22
+P01333,Tribe&Co Jeans Women,Jeans Women,C08,SL086,12450,0,2025-07-22
+P01334,Bluecrest Two-piece Set,Two-piece Set,C08,SL086,17550,0,2025-07-22
+P01335,Eko Basics Abaya,Abaya,C08,SL086,8650,0,2025-07-22
+P01336,Marlow Blouse,Blouse,C08,SL086,29800,0,2025-07-22
+P01337,Marlow Shorts,Shorts,C09,SL086,6400,0,2025-07-22
+P01338,Bluecrest Retro Handheld Console,Retro Handheld Console,C04,SL087,176250,0,2022-08-20
+P01339,Ikoro Game Disc,Game Disc,C04,SL087,403950,0,2023-03-03
+P01340,Oyela Gaming Headset,Gaming Headset,C04,SL087,273450,0,2024-11-23
+P01341,Brightway Gaming Headset,Gaming Headset,C04,SL087,1032650,0,2025-02-06
+P01342,Bluecrest Retro Handheld Console,Retro Handheld Console,C04,SL087,180250,0,2022-10-06
+P01343,Halden Game Disc,Game Disc,C04,SL087,229350,0,2022-05-22
+P01344,Eko Basics Wireless Controller,Wireless Controller,C04,SL087,120400,0,2023-01-28
+P01345,Marlow Retro Handheld Console,Retro Handheld Console,C04,SL087,82800,0,2024-01-03
+P01346,Kora Gaming Headset,Gaming Headset,C04,SL087,317850,0,2024-11-23
+P01347,Verano Game Disc,Game Disc,C04,SL087,192850,0,2023-03-03
+P01348,Tella Gaming Headset,Gaming Headset,C04,SL087,230400,0,2022-11-03
+P01349,Kito Gaming Chair,Gaming Chair,C04,SL087,178250,0,2022-06-11
+P01350,Kora Gaming Chair,Gaming Chair,C04,SL087,254150,0,2022-07-01
+P01351,Bluecrest Game Console,Game Console,C04,SL087,272900,0,2023-06-01
+P01352,Oyela Retro Handheld Console,Retro Handheld Console,C04,SL087,57350,0,2024-01-21
+P01353,Sahel Gaming Headset,Gaming Headset,C04,SL087,1217450,0,2025-06-03
+P01354,Kito Gaming Chair,Gaming Chair,C04,SL087,355400,0,2022-05-30
+P01355,Amberly Wireless Controller,Wireless Controller,C04,SL087,143800,0,2022-08-05
+P01356,Tella Gaming Headset,Gaming Headset,C04,SL087,695250,0,2023-12-16
+P01357,Tella Gaming Chair,Gaming Chair,C04,SL087,202850,0,2022-11-18
+P01358,Brightway Gaming Chair,Gaming Chair,C04,SL087,109300,0,2024-07-30
+P01359,Ikoro Game Console,Game Console,C04,SL087,197800,0,2024-08-21
+P01360,Marlow Gaming Chair,Gaming Chair,C04,SL087,122650,0,2024-10-19
+P01361,Kito Gaming Chair,Gaming Chair,C04,SL087,159650,0,2022-12-03
+P01362,Oyela Gaming Chair,Gaming Chair,C04,SL087,280250,0,2024-01-05
+P01363,Eko Basics Game Console,Game Console,C04,SL087,182900,0,2024-06-01
+P01364,Zenith Home Gaming Chair,Gaming Chair,C04,SL087,119900,0,2022-10-01
+P01365,Tella Wireless Controller,Wireless Controller,C04,SL087,136200,0,2023-10-30
+P01366,Amberly Storage Containers Set,Storage Containers Set,C06,SL088,27000,0,2024-06-29
+P01367,Ikoro Non-stick Pot Set,Non-stick Pot Set,C06,SL088,9400,0,2024-03-14
+P01368,Zuritek Bath Towel Set,Bath Towel Set,C06,SL088,6050,0,2022-12-22
+P01369,Daria Dinner Set 24pcs,Dinner Set 24pcs,C06,SL088,11700,1,2025-02-15
+P01370,Sunpeak Bath Towel Set,Bath Towel Set,C06,SL088,11100,0,2024-05-26
+P01371,Kora Kitchen Knife Set,Kitchen Knife Set,C06,SL088,24000,0,2025-06-23
+P01372,Kora Water Dispenser,Water Dispenser,C06,SL088,18100,0,2024-07-20
+P01373,Eko Basics Storage Containers Set,Storage Containers Set,C06,SL088,22000,0,2025-06-13
+P01374,Tella Bath Towel Set,Bath Towel Set,C06,SL088,34750,0,2022-12-31
+P01375,Zuritek Wall Clock,Wall Clock,C06,SL088,22350,1,2025-06-12
+P01376,Zuritek Glucose Meter,Glucose Meter,C12,SL089,8700,0,2025-09-14
+P01377,Tella Herbal Tea,Herbal Tea,C12,SL089,15300,0,2025-09-14
+P01378,Marlow Face Masks Pack,Face Masks Pack,C12,SL089,6200,0,2025-09-14
+P01379,Tribe&Co Protein Powder,Protein Powder,C12,SL089,4850,0,2025-09-14
+P01380,Sahel Herbal Tea,Herbal Tea,C12,SL089,17200,0,2025-09-14
+P01381,Ofure Digital Thermometer,Digital Thermometer,C12,SL089,4150,0,2025-09-14
+P01382,Tella Glucose Meter,Glucose Meter,C12,SL089,7750,0,2025-09-14
+P01383,Ikoro Face Masks Pack,Face Masks Pack,C12,SL089,25850,0,2025-09-14
+P01384,Novaline First Aid Kit,First Aid Kit,C12,SL089,13600,0,2025-09-14
+P01385,Nala Glucose Meter,Glucose Meter,C12,SL089,5500,0,2025-09-14
+P01386,Novaline Bluetooth Speaker,Bluetooth Speaker,C03,SL090,51950,0,2022-06-25
+P01387,Lumora Projector,Projector,C03,SL090,169850,0,2024-11-22
+P01388,Brightway Smart TV 55in,Smart TV 55in,C03,SL090,60000,1,2022-07-27
+P01389,Bluecrest Bluetooth Speaker,Bluetooth Speaker,C03,SL090,79100,0,2022-02-24
+P01390,Zuritek Smart TV 43in,Smart TV 43in,C03,SL090,115850,0,2022-12-06
+P01391,Kito TV Wall Bracket,TV Wall Bracket,C03,SL090,129250,1,2023-01-02
+P01392,Nala Projector,Projector,C03,SL090,108150,0,2023-12-23
+P01393,Halden Satellite Decoder,Satellite Decoder,C03,SL090,42250,0,2023-12-02
+P01394,Tella Projector,Projector,C03,SL090,73200,0,2022-12-08
+P01395,Zenith Home Soundbar 2.1,Soundbar 2.1,C03,SL090,114750,1,2022-03-02
+P01396,Brightway TV Wall Bracket,TV Wall Bracket,C03,SL090,88300,1,2024-07-18
+P01397,Marlow LED TV 32in,LED TV 32in,C03,SL090,50800,0,2024-03-11
+P01398,Oyela Smart TV 43in,Smart TV 43in,C03,SL090,85200,0,2024-03-09
+P01399,Tribe&Co Bluetooth Speaker,Bluetooth Speaker,C03,SL090,88000,0,2023-11-09
+P01400,Lumora Projector,Projector,C03,SL090,226250,0,2023-12-12
+P01401,Sahel Home Theatre System,Home Theatre System,C03,SL090,164100,0,2023-12-17
+P01402,Kora LED TV 32in,LED TV 32in,C03,SL090,57900,0,2024-01-28
+P01403,Marlow Smart TV 43in,Smart TV 43in,C03,SL090,121650,0,2024-08-16
+P01404,Marlow Satellite Decoder,Satellite Decoder,C03,SL090,42100,0,2022-02-06
+P01405,Kito Home Theatre System,Home Theatre System,C03,SL090,76600,0,2023-03-12
+P01406,Tella LED TV 32in,LED TV 32in,C03,SL090,70050,0,2022-07-20
+P01407,Novaline Projector,Projector,C03,SL090,110550,0,2024-06-24
+P01408,Daria Non-stick Pot Set,Non-stick Pot Set,C06,SL091,14100,0,2023-10-13
+P01409,Nala Curtain Pair,Curtain Pair,C06,SL091,9150,0,2023-09-16
+P01410,Brightway Bedsheet Set,Bedsheet Set,C06,SL091,23250,0,2022-12-08
+P01411,Novaline Duvet,Duvet,C06,SL091,7450,0,2023-05-30
+P01412,Sunpeak Bath Towel Set,Bath Towel Set,C06,SL091,26700,0,2022-12-08
+P01413,Lumora Duvet,Duvet,C06,SL091,21350,0,2024-03-09
+P01414,Ikoro Storage Containers Set,Storage Containers Set,C06,SL091,33300,0,2023-02-15
+P01415,Eko Basics Rechargeable Lamp,Rechargeable Lamp,C06,SL091,24100,0,2024-03-31
+P01416,Brightway Kitchen Knife Set,Kitchen Knife Set,C06,SL091,23400,0,2023-09-14
+P01417,Zenith Home Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL092,11850,0,2024-06-09
+P01418,Kito Coffee 200g,Coffee 200g,C13,SL092,6250,0,2024-06-09
+P01419,Tribe&Co Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL092,6800,0,2023-06-15
+P01420,Halden Noodles Carton,Noodles Carton,C13,SL092,7450,0,2022-01-29
+P01421,Sahel Tomato Paste Carton,Tomato Paste Carton,C13,SL092,4000,0,2023-07-28
+P01422,Brightway Soft Drinks Pack,Soft Drinks Pack,C13,SL092,6550,0,2023-01-23
+P01423,Zuritek Beverage Drink 900g,Beverage Drink 900g,C13,SL092,2100,0,2023-07-23
+P01424,Sahel Cereal 500g,Cereal 500g,C13,SL092,4300,0,2024-10-16
+P01425,Eko Basics Rice 10kg,Rice 10kg,C13,SL092,2650,0,2024-11-03
+P01426,Zuritek Beverage Drink 900g,Beverage Drink 900g,C13,SL092,2750,0,2022-11-25
+P01427,Bluecrest Tomato Paste Carton,Tomato Paste Carton,C13,SL092,13350,0,2023-01-08
+P01428,Amberly Senator Wear,Senator Wear,C09,SL093,19100,0,2023-01-25
+P01429,Kora Kaftan Set,Kaftan Set,C09,SL093,25100,0,2023-03-25
+P01430,Novaline Chinos,Chinos,C09,SL093,17350,0,2023-12-12
+P01431,Novaline Travel Bag,Travel Bag,C10,SL093,40650,0,2022-10-07
+P01432,Sunpeak Suit 2-piece,Suit 2-piece,C09,SL093,6900,0,2023-01-01
+P01433,Bluecrest T-shirt Pack of 3,T-shirt Pack of 3,C09,SL093,12100,0,2025-04-10
+P01434,Marlow Suit 2-piece,Suit 2-piece,C09,SL093,8250,0,2025-04-12
+P01435,Nala Jeans Men,Jeans Men,C09,SL093,13550,0,2024-04-06
+P01436,Verano Shorts,Shorts,C09,SL093,6450,0,2022-11-13
+P01437,Ofure Shorts,Shorts,C09,SL093,10450,0,2024-04-29
+P01438,Amberly Underwear Pack,Underwear Pack,C09,SL093,20500,0,2024-11-11
+P01439,Halden T-shirt Pack of 3,T-shirt Pack of 3,C09,SL093,16900,0,2024-06-28
+P01440,Zenith Home Shorts,Shorts,C09,SL093,5200,0,2022-11-09
+P01441,Kora Kaftan Set,Kaftan Set,C09,SL093,18350,0,2024-07-13
+P01442,Kora Suit 2-piece,Suit 2-piece,C09,SL093,6250,0,2023-12-02
+P01443,Halden Backpack,Backpack,C10,SL093,8500,0,2024-08-09
+P01444,Ikoro Agbada Set,Agbada Set,C09,SL094,6850,0,2023-02-08
+P01445,Ofure T-shirt Pack of 3,T-shirt Pack of 3,C09,SL094,19750,0,2024-10-29
+P01446,Oyela Agbada Set,Agbada Set,C09,SL094,6700,0,2023-01-06
+P01447,Daria Kaftan Set,Kaftan Set,C09,SL094,19450,0,2025-05-12
+P01448,Halden Shorts,Shorts,C09,SL094,8800,0,2024-04-21
+P01449,Verano Senator Wear,Senator Wear,C09,SL094,8000,0,2023-03-29
+P01450,Tribe&Co Agbada Set,Agbada Set,C09,SL094,16150,0,2022-12-31
+P01451,Tella Underwear Pack,Underwear Pack,C09,SL094,19100,0,2024-09-24
+P01452,Kito Suit 2-piece,Suit 2-piece,C09,SL094,10250,0,2025-01-26
+P01453,Verano Shorts,Shorts,C09,SL094,6850,0,2024-12-25
+P01454,Oyela Suit 2-piece,Suit 2-piece,C09,SL094,6650,0,2024-08-28
+P01455,Daria Underwear Pack,Underwear Pack,C09,SL094,17850,0,2024-05-03
+P01456,Amberly 3-Seater Sofa,3-Seater Sofa,C07,SL095,104600,1,2024-11-02
+P01457,Tribe&Co Office Chair,Office Chair,C07,SL095,40900,0,2023-03-13
+P01458,Kora Non-stick Pot Set,Non-stick Pot Set,C06,SL095,33150,0,2023-03-13
+P01459,Amberly Kitchen Knife Set,Kitchen Knife Set,C06,SL095,35300,0,2024-03-08
+P01460,Ofure Wall Clock,Wall Clock,C06,SL095,21500,1,2023-03-13
+P01461,Kito Bed Frame 6x6,Bed Frame 6x6,C07,SL095,161900,1,2024-11-30
+P01462,Tella Bedsheet Set,Bedsheet Set,C06,SL095,29850,0,2023-06-20
+P01463,Marlow Dining Set 4 Chairs,Dining Set 4 Chairs,C07,SL095,152800,0,2024-10-08
+P01464,Brightway Wall Clock,Wall Clock,C06,SL095,10550,1,2024-12-30
+P01465,Zuritek Storage Containers Set,Storage Containers Set,C06,SL095,19600,0,2023-03-13
+P01466,Zenith Home Non-stick Pot Set,Non-stick Pot Set,C06,SL095,18350,0,2023-08-25
+P01467,Sahel Bath Towel Set,Bath Towel Set,C06,SL095,11150,0,2024-01-01
+P01468,Daria Wardrobe 3 Door,Wardrobe 3 Door,C07,SL095,499150,1,2024-04-11
+P01469,Brightway Bookshelf,Bookshelf,C07,SL095,154850,1,2024-10-13
+P01470,Brightway Bookshelf,Bookshelf,C07,SL095,279800,1,2023-03-13
+P01471,Lumora Bookshelf,Bookshelf,C07,SL095,171700,1,2023-11-05
+P01472,Halden 3-Seater Sofa,3-Seater Sofa,C07,SL095,44350,1,2023-03-13
+P01473,Sunpeak Wall Clock,Wall Clock,C06,SL095,18350,1,2023-10-11
+P01474,Sunpeak Wall Clock,Wall Clock,C06,SL095,7900,1,2023-03-13
+P01475,Daria Kitchen Knife Set,Kitchen Knife Set,C06,SL095,38850,0,2024-05-02
+P01476,Tribe&Co Kitchen Knife Set,Kitchen Knife Set,C06,SL095,44150,0,2024-09-09
+P01477,Ikoro Dinner Set 24pcs,Dinner Set 24pcs,C06,SL095,11200,1,2025-03-14
+P01478,Sahel Duvet,Duvet,C06,SL095,14650,0,2023-03-31
+P01479,Lumora Dinner Set 24pcs,Dinner Set 24pcs,C06,SL095,6000,1,2025-04-08
+P01480,Brightway Dinner Set 24pcs,Dinner Set 24pcs,C06,SL095,4650,1,2025-05-15
+P01481,Ofure Bath Towel Set,Bath Towel Set,C06,SL095,13800,0,2025-02-24
+P01482,Lumora Dinner Set 24pcs,Dinner Set 24pcs,C06,SL095,18050,1,2025-01-22
+P01483,Kora Duvet,Duvet,C06,SL095,13950,0,2023-12-18
+P01484,Halden Storage Containers Set,Storage Containers Set,C06,SL095,52750,0,2023-03-13
+P01485,Sahel Bedsheet Set,Bedsheet Set,C06,SL095,18000,0,2025-04-05
+P01486,Zenith Home Rechargeable Lamp,Rechargeable Lamp,C06,SL095,28500,0,2023-06-08
+P01487,Oyela TV Stand,TV Stand,C07,SL095,243550,1,2023-03-13
+P01488,Verano Bath Towel Set,Bath Towel Set,C06,SL095,22400,0,2023-03-13
+P01489,Novaline USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL096,110450,0,2023-01-20
+P01490,Zenith Home Inkjet Printer,Inkjet Printer,C02,SL096,621800,0,2025-01-06
+P01491,Novaline External Hard Drive 1TB,External Hard Drive 1TB,C02,SL096,337500,0,2025-02-15
+P01492,Ikoro Laptop Bag,Laptop Bag,C02,SL096,380550,0,2024-12-05
+P01493,Novaline USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL096,195900,0,2022-08-03
+P01494,Eko Basics Inkjet Printer,Inkjet Printer,C02,SL096,237400,0,2025-05-23
+P01495,Sahel Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL096,454350,0,2022-11-09
+P01496,Zuritek Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL097,15150,0,2025-03-23
+P01497,Amberly Herbal Tea,Herbal Tea,C12,SL097,10100,0,2025-04-17
+P01498,Marlow Glucose Meter,Glucose Meter,C12,SL097,6050,0,2025-02-04
+P01499,Sunpeak Glucose Meter,Glucose Meter,C12,SL097,13350,0,2025-03-14
+P01500,Zenith Home Face Masks Pack,Face Masks Pack,C12,SL097,11200,0,2022-10-22
+P01501,Ofure Glucose Meter,Glucose Meter,C12,SL097,5900,0,2022-04-14
+P01502,Verano Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL097,16800,0,2022-12-11
+P01503,Verano Herbal Tea,Herbal Tea,C12,SL097,8500,0,2024-08-02
+P01504,Tribe&Co Digital Thermometer,Digital Thermometer,C12,SL097,6700,0,2024-12-21
+P01505,Halden Herbal Tea,Herbal Tea,C12,SL097,8650,0,2024-03-21
+P01506,Oyela Digital Thermometer,Digital Thermometer,C12,SL097,7050,0,2022-09-18
+P01507,Lumora Protein Powder,Protein Powder,C12,SL097,17550,0,2023-05-13
+P01508,Zuritek Bottled Water Pack,Bottled Water Pack,C13,SL098,6600,0,2024-08-28
+P01509,Tella Tomato Paste Carton,Tomato Paste Carton,C13,SL098,6900,0,2025-04-25
+P01510,Daria Noodles Carton,Noodles Carton,C13,SL098,6250,0,2023-10-13
+P01511,Zuritek Tomato Paste Carton,Tomato Paste Carton,C13,SL098,9100,0,2024-12-15
+P01512,Brightway Vegetable Oil 3L,Vegetable Oil 3L,C13,SL098,6200,0,2024-04-29
+P01513,Marlow Tomato Paste Carton,Tomato Paste Carton,C13,SL098,16300,0,2023-10-13
+P01514,Sahel Tomato Paste Carton,Tomato Paste Carton,C13,SL098,19300,0,2025-02-20
+P01515,Novaline Rice 10kg,Rice 10kg,C13,SL098,3050,0,2024-03-26
+P01516,Lumora Coffee 200g,Coffee 200g,C13,SL098,6800,0,2024-08-07
+P01517,Halden Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL098,7600,0,2025-05-07
+P01518,Tribe&Co Beverage Drink 900g,Beverage Drink 900g,C13,SL098,3100,0,2023-10-13
+P01519,Sunpeak Beverage Drink 900g,Beverage Drink 900g,C13,SL098,4050,0,2025-05-07
+P01520,Sunpeak Noodles Carton,Noodles Carton,C13,SL098,4750,0,2023-10-13
+P01521,Amberly Hair Relaxer Kit,Hair Relaxer Kit,C11,SL099,3300,0,2022-12-28
+P01522,Zuritek Body Lotion 400ml,Body Lotion 400ml,C11,SL099,2450,0,2024-12-24
+P01523,Eko Basics Body Lotion 400ml,Body Lotion 400ml,C11,SL099,2150,0,2024-11-14
+P01524,Amberly Hair Extensions,Hair Extensions,C11,SL099,18050,0,2023-08-28
+P01525,Tribe&Co Beard Grooming Kit,Beard Grooming Kit,C11,SL099,11500,0,2023-01-25
+P01526,Lumora Hair Relaxer Kit,Hair Relaxer Kit,C11,SL099,12000,0,2025-04-18
+P01527,Zuritek Makeup Palette,Makeup Palette,C11,SL099,5950,0,2022-11-02
+P01528,Lumora Body Lotion 400ml,Body Lotion 400ml,C11,SL099,4450,0,2024-11-22
+P01529,Ikoro Perfume 100ml,Perfume 100ml,C11,SL099,5850,0,2022-11-01
+P01530,Halden Face Serum,Face Serum,C11,SL099,5400,0,2022-01-17
+P01531,Bluecrest Face Serum,Face Serum,C11,SL099,10300,0,2024-08-21
+P01532,Eko Basics Kitchen Knife Set,Kitchen Knife Set,C06,SL100,62250,0,2024-09-13
+P01533,Brightway Wall Clock,Wall Clock,C06,SL100,19200,1,2024-06-13
+P01534,Marlow Dinner Set 24pcs,Dinner Set 24pcs,C06,SL100,7000,1,2024-06-21
+P01535,Zenith Home Storage Containers Set,Storage Containers Set,C06,SL100,14850,0,2025-05-30
+P01536,Brightway Bath Towel Set,Bath Towel Set,C06,SL100,13000,0,2024-06-13
+P01537,Ofure Bath Towel Set,Bath Towel Set,C06,SL100,9300,0,2024-07-23
+P01538,Amberly Rechargeable Lamp,Rechargeable Lamp,C06,SL100,16450,0,2024-06-13
+P01539,Ikoro Dinner Set 24pcs,Dinner Set 24pcs,C06,SL100,4550,1,2024-06-13
+P01540,Novaline Non-stick Pot Set,Non-stick Pot Set,C06,SL100,10450,0,2024-06-13
+P01541,Ofure Duvet,Duvet,C06,SL100,7950,0,2024-06-13
+P01542,Kito Kitchen Knife Set,Kitchen Knife Set,C06,SL100,86250,0,2025-04-27
+P01543,Tella Chinos,Chinos,C09,SL101,21600,0,2023-09-19
+P01544,Kito Jeans Men,Jeans Men,C09,SL101,14800,0,2025-04-15
+P01545,Tella T-shirt Pack of 3,T-shirt Pack of 3,C09,SL101,15050,0,2022-03-21
+P01546,Kora Underwear Pack,Underwear Pack,C09,SL101,22250,0,2024-04-29
+P01547,Brightway Kaftan Set,Kaftan Set,C09,SL101,12650,0,2022-07-29
+P01548,Lumora Agbada Set,Agbada Set,C09,SL101,12200,0,2024-10-03
+P01549,Kora Jeans Men,Jeans Men,C09,SL101,11650,0,2025-05-10
+P01550,Halden Chinos,Chinos,C09,SL101,15100,0,2024-06-11
+P01551,Sahel Senator Wear,Senator Wear,C09,SL101,23100,0,2024-11-25
+P01552,Nala Polo Shirt,Polo Shirt,C09,SL101,7600,0,2025-03-13
+P01553,Kito Suit 2-piece,Suit 2-piece,C09,SL101,7550,0,2024-07-19
+P01554,Tella Agbada Set,Agbada Set,C09,SL101,9400,0,2023-08-17
+P01555,Novaline Senator Wear,Senator Wear,C09,SL101,13600,0,2022-02-15
+P01556,Marlow Women's Heels,Women's Heels,C10,SL102,13900,0,2022-09-13
+P01557,Kito Handbag,Handbag,C10,SL102,28500,0,2022-08-20
+P01558,Sahel Wallet,Wallet,C10,SL102,22000,0,2024-01-30
+P01559,Verano Backpack,Backpack,C10,SL102,7450,0,2023-03-01
+P01560,Kora Leather Sandals,Leather Sandals,C10,SL102,16000,0,2025-01-07
+P01561,Daria Wallet,Wallet,C10,SL102,19550,0,2024-05-05
+P01562,Verano Backpack,Backpack,C10,SL102,16150,0,2024-01-23
+P01563,Tella Sneakers,Sneakers,C10,SL102,86800,0,2025-01-03
+P01564,Marlow Handbag,Handbag,C10,SL102,23350,0,2023-05-10
+P01565,Ikoro Non-stick Pot Set,Non-stick Pot Set,C06,SL103,18300,0,2024-12-12
+P01566,Amberly Wall Clock,Wall Clock,C06,SL103,9050,1,2024-12-12
+P01567,Brightway Water Dispenser,Water Dispenser,C06,SL103,16750,0,2024-12-12
+P01568,Halden Dinner Set 24pcs,Dinner Set 24pcs,C06,SL103,10700,1,2024-12-12
+P01569,Novaline Duvet,Duvet,C06,SL103,14050,0,2024-12-12
+P01570,Amberly Curtain Pair,Curtain Pair,C06,SL103,9700,0,2024-12-12
+P01571,Nala Duvet,Duvet,C06,SL103,17750,0,2024-12-12
+P01572,Tella Kitchen Knife Set,Kitchen Knife Set,C06,SL103,37400,0,2024-12-12
+P01573,Eko Basics Kitchen Knife Set,Kitchen Knife Set,C06,SL103,37550,0,2024-12-12
+P01574,Ofure Storage Containers Set,Storage Containers Set,C06,SL103,27550,0,2024-12-12
+P01575,Novaline Bath Towel Set,Bath Towel Set,C06,SL103,11350,0,2024-12-12
+P01576,Ofure Water Dispenser,Water Dispenser,C06,SL103,7700,0,2024-12-12
+P01577,Novaline Bath Towel Set,Bath Towel Set,C06,SL103,11050,0,2024-12-12
+P01578,Eko Basics Water Dispenser,Water Dispenser,C06,SL103,13500,0,2024-12-12
+P01579,Bluecrest Storage Containers Set,Storage Containers Set,C06,SL103,23850,0,2024-12-12
+P01580,Verano Non-stick Pot Set,Non-stick Pot Set,C06,SL103,18100,0,2024-12-12
+P01581,Lumora Wall Clock,Wall Clock,C06,SL103,12550,1,2024-12-12
+P01582,Zenith Home Dinner Set 24pcs,Dinner Set 24pcs,C06,SL103,6450,1,2024-12-12
+P01583,Halden Kitchen Knife Set,Kitchen Knife Set,C06,SL103,56450,0,2024-12-12
+P01584,Ofure Storage Containers Set,Storage Containers Set,C06,SL103,21750,0,2024-12-12
+P01585,Kito Kitchen Knife Set,Kitchen Knife Set,C06,SL103,30850,0,2024-12-12
+P01586,Eko Basics Kitchen Knife Set,Kitchen Knife Set,C06,SL103,64350,0,2025-04-30
+P01587,Novaline Curtain Pair,Curtain Pair,C06,SL103,11650,0,2024-12-12
+P01588,Zenith Home Water Dispenser,Water Dispenser,C06,SL103,12650,0,2024-12-12
+P01589,Ofure Rechargeable Lamp,Rechargeable Lamp,C06,SL103,27200,0,2024-12-12
+P01590,Ofure Dinner Set 24pcs,Dinner Set 24pcs,C06,SL103,15200,1,2024-12-12
+P01591,Lumora Water Dispenser,Water Dispenser,C06,SL103,15950,0,2024-12-12
+P01592,Zuritek Duvet,Duvet,C06,SL103,12350,0,2024-12-12
+P01593,Nala Kitchen Knife Set,Kitchen Knife Set,C06,SL103,30750,0,2024-12-12
+P01594,Tella Non-stick Pot Set,Non-stick Pot Set,C06,SL103,23250,0,2024-12-12
+P01595,Tella Kitchen Knife Set,Kitchen Knife Set,C06,SL103,38800,0,2024-12-12
+P01596,Novaline Wall Clock,Wall Clock,C06,SL103,8450,1,2024-12-12
+P01597,Bluecrest Curtain Pair,Curtain Pair,C06,SL103,6150,0,2024-12-12
+P01598,Zuritek Wall Clock,Wall Clock,C06,SL103,10500,1,2024-12-12
+P01599,Amberly Curtain Pair,Curtain Pair,C06,SL103,9250,0,2025-02-27
+P01600,Nala Dinner Set 24pcs,Dinner Set 24pcs,C06,SL103,5750,1,2024-12-12
+P01601,Tribe&Co Dinner Set 24pcs,Dinner Set 24pcs,C06,SL103,10950,1,2024-12-12
+P01602,Amberly Duvet,Duvet,C06,SL103,17150,0,2024-12-12
+P01603,Nala Rechargeable Lamp,Rechargeable Lamp,C06,SL103,14350,0,2024-12-12
+P01604,Amberly Water Dispenser,Water Dispenser,C06,SL103,19900,0,2024-12-12
+P01605,Nala Curtain Pair,Curtain Pair,C06,SL103,19150,0,2024-12-12
+P01606,Oyela Wall Clock,Wall Clock,C06,SL103,12200,1,2024-12-12
+P01607,Marlow Water Dispenser,Water Dispenser,C06,SL103,8200,0,2025-06-17
+P01608,Oyela Rechargeable Lamp,Rechargeable Lamp,C06,SL103,22100,0,2024-12-12
+P01609,Ofure Water Dispenser,Water Dispenser,C06,SL103,18950,0,2024-12-12
+P01610,Zuritek Educational Toy,Educational Toy,C16,SL104,34250,0,2025-05-28
+P01611,Kito Building Blocks Set,Building Blocks Set,C16,SL104,6450,1,2024-10-25
+P01612,Ikoro Board Game,Board Game,C16,SL104,8900,0,2024-12-14
+P01613,Amberly Remote Control Car,Remote Control Car,C16,SL104,8550,0,2024-10-26
+P01614,Amberly Puzzle 500pcs,Puzzle 500pcs,C16,SL104,5500,0,2025-04-13
+P01615,Zuritek Board Game,Board Game,C16,SL104,17200,0,2023-06-22
+P01616,Tribe&Co Building Blocks Set,Building Blocks Set,C16,SL104,5250,1,2024-12-02
+P01617,Daria Educational Toy,Educational Toy,C16,SL104,33050,0,2025-03-03
+P01618,Halden Kids Scooter,Kids Scooter,C16,SL104,18750,0,2023-06-22
+P01619,Brightway Remote Control Car,Remote Control Car,C16,SL104,6100,0,2023-06-22
+P01620,Sunpeak Educational Toy,Educational Toy,C16,SL104,24900,0,2023-06-22
+P01621,Nala Building Blocks Set,Building Blocks Set,C16,SL104,7250,1,2023-06-22
+P01622,Sahel Beverage Drink 900g,Beverage Drink 900g,C13,SL105,2550,0,2022-09-16
+P01623,Halden Soft Drinks Pack,Soft Drinks Pack,C13,SL105,6150,0,2023-11-24
+P01624,Sunpeak Bottled Water Pack,Bottled Water Pack,C13,SL105,7750,0,2024-03-19
+P01625,Tribe&Co Coffee 200g,Coffee 200g,C13,SL105,3650,0,2025-06-02
+P01626,Kora Rice 10kg,Rice 10kg,C13,SL105,1650,0,2024-12-08
+P01627,Ofure Noodles Carton,Noodles Carton,C13,SL105,7500,0,2023-01-21
+P01628,Halden Bottled Water Pack,Bottled Water Pack,C13,SL105,4050,0,2022-12-25
+P01629,Sahel Noodles Carton,Noodles Carton,C13,SL105,5700,0,2022-10-09
+P01630,Lumora Vegetable Oil 3L,Vegetable Oil 3L,C13,SL105,8450,0,2023-07-20
+P01631,Ikoro Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL105,8850,0,2022-05-12
+P01632,Sahel Rice 10kg,Rice 10kg,C13,SL105,4200,0,2022-11-14
+P01633,Tella Soft Drinks Pack,Soft Drinks Pack,C13,SL105,8400,0,2023-11-17
+P01634,Zenith Home Beverage Drink 900g,Beverage Drink 900g,C13,SL105,6600,0,2024-10-23
+P01635,Ikoro Tomato Paste Carton,Tomato Paste Carton,C13,SL105,5350,0,2025-05-25
+P01636,Tribe&Co Noodles Carton,Noodles Carton,C13,SL105,4900,0,2024-02-15
+P01637,Nala Baby Wipes Pack,Baby Wipes Pack,C14,SL106,8400,0,2025-05-15
+P01638,Zuritek Baby Wipes Pack,Baby Wipes Pack,C14,SL106,9050,0,2025-05-15
+P01639,Lumora Infant Formula 400g,Infant Formula 400g,C14,SL106,11350,0,2025-05-15
+P01640,Tribe&Co Noodles Carton,Noodles Carton,C13,SL106,6950,0,2025-05-29
+P01641,Sahel Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL106,13350,0,2025-05-15
+P01642,Kora Feeding Bottle Set,Feeding Bottle Set,C14,SL106,5300,0,2025-05-15
+P01643,Bluecrest Feeding Bottle Set,Feeding Bottle Set,C14,SL106,13000,0,2025-05-15
+P01644,Bluecrest Baby Wipes Pack,Baby Wipes Pack,C14,SL106,15700,0,2025-05-15
+P01645,Amberly Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL106,14400,0,2025-05-15
+P01646,Ikoro Cereal 500g,Cereal 500g,C13,SL106,9200,0,2025-05-15
+P01647,Verano Infant Formula 400g,Infant Formula 400g,C14,SL106,11050,0,2025-05-15
+P01648,Marlow Soft Drinks Pack,Soft Drinks Pack,C13,SL106,5350,0,2025-05-15
+P01649,Eko Basics Bodycon Dress,Bodycon Dress,C08,SL107,8950,0,2023-12-12
+P01650,Kito Jumpsuit,Jumpsuit,C08,SL107,25000,0,2022-11-08
+P01651,Tribe&Co Lingerie Set,Lingerie Set,C08,SL107,11550,0,2023-02-01
+P01652,Novaline Wide-leg Trousers,Wide-leg Trousers,C08,SL107,26900,0,2024-10-27
+P01653,Lumora Bodycon Dress,Bodycon Dress,C08,SL107,8150,0,2024-09-07
+P01654,Brightway Abaya,Abaya,C08,SL107,8300,0,2025-05-25
+P01655,Halden Blouse,Blouse,C08,SL107,21250,0,2025-02-15
+P01656,Tribe&Co Jumpsuit,Jumpsuit,C08,SL107,14050,0,2022-10-01
+P01657,Lumora Jeans Women,Jeans Women,C08,SL107,23050,0,2025-06-03
+P01658,Kora Wide-leg Trousers,Wide-leg Trousers,C08,SL107,29950,0,2025-03-08
+P01659,Ofure Bodycon Dress,Bodycon Dress,C08,SL107,6900,0,2022-05-23
+P01660,Oyela Lingerie Set,Lingerie Set,C08,SL107,20800,0,2025-02-11
+P01661,Daria Maxi Skirt,Maxi Skirt,C08,SL107,13150,0,2022-12-26
+P01662,Zenith Home Bodycon Dress,Bodycon Dress,C08,SL107,9100,0,2023-07-08
+P01663,Zuritek Maxi Skirt,Maxi Skirt,C08,SL107,12800,0,2024-05-07
+P01664,Eko Basics Digital Thermometer,Digital Thermometer,C12,SL108,3500,0,2024-10-01
+P01665,Ikoro Face Masks Pack,Face Masks Pack,C12,SL108,8400,0,2023-10-20
+P01666,Sunpeak Digital Thermometer,Digital Thermometer,C12,SL108,9650,0,2024-10-09
+P01667,Oyela First Aid Kit,First Aid Kit,C12,SL108,7850,0,2023-08-19
+P01668,Daria Digital Thermometer,Digital Thermometer,C12,SL108,8950,0,2025-02-16
+P01669,Daria Face Masks Pack,Face Masks Pack,C12,SL108,11650,0,2023-08-19
+P01670,Verano Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL108,7450,0,2023-08-19
+P01671,Zuritek First Aid Kit,First Aid Kit,C12,SL108,19350,0,2023-10-07
+P01672,Ofure Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL108,21150,0,2024-01-17
+P01673,Sahel Face Masks Pack,Face Masks Pack,C12,SL108,27750,0,2024-09-29
+P01674,Eko Basics Kitchen Knife Set,Kitchen Knife Set,C06,SL109,117700,0,2023-08-27
+P01675,Nala Water Dispenser,Water Dispenser,C06,SL109,11000,0,2023-08-27
+P01676,Brightway Water Dispenser,Water Dispenser,C06,SL109,9200,0,2023-08-27
+P01677,Zenith Home Non-stick Pot Set,Non-stick Pot Set,C06,SL109,23300,0,2024-10-25
+P01678,Zenith Home Bedsheet Set,Bedsheet Set,C06,SL109,17350,0,2023-08-27
+P01679,Halden Bedsheet Set,Bedsheet Set,C06,SL109,35300,0,2025-05-07
+P01680,Novaline Wall Clock,Wall Clock,C06,SL109,8550,1,2024-11-27
+P01681,Zuritek Duvet,Duvet,C06,SL109,29150,0,2023-08-27
+P01682,Lumora Non-stick Pot Set,Non-stick Pot Set,C06,SL109,26250,0,2023-08-27
+P01683,Brightway Dinner Set 24pcs,Dinner Set 24pcs,C06,SL109,6350,1,2023-09-10
+P01684,Eko Basics Senator Wear,Senator Wear,C09,SL110,33950,0,2025-05-20
+P01685,Nala Polo Shirt,Polo Shirt,C09,SL110,6150,0,2025-04-22
+P01686,Eko Basics Jeans Men,Jeans Men,C09,SL110,9550,0,2025-04-22
+P01687,Ikoro Underwear Pack,Underwear Pack,C09,SL110,12200,0,2025-04-22
+P01688,Marlow T-shirt Pack of 3,T-shirt Pack of 3,C09,SL110,13100,0,2025-04-22
+P01689,Lumora Agbada Set,Agbada Set,C09,SL110,7050,0,2025-04-22
+P01690,Marlow Shorts,Shorts,C09,SL110,11050,0,2025-04-22
+P01691,Halden Agbada Set,Agbada Set,C09,SL110,14800,0,2025-04-22
+P01692,Ofure T-shirt Pack of 3,T-shirt Pack of 3,C09,SL110,18900,0,2025-04-22
+P01693,Amberly Shorts,Shorts,C09,SL110,7450,0,2025-04-22
+P01694,Halden T-shirt Pack of 3,T-shirt Pack of 3,C09,SL110,13950,0,2025-04-22
+P01695,Marlow Android Tablet 10in,Android Tablet 10in,C01,SL111,144250,0,2024-09-05
+P01696,Sunpeak Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL111,124550,0,2024-11-29
+P01697,Bluecrest Kids Tablet 7in,Kids Tablet 7in,C01,SL111,214550,0,2024-09-05
+P01698,Tella Android Tablet 10in,Android Tablet 10in,C01,SL111,109150,0,2025-03-30
+P01699,Marlow Wireless Earbuds,Wireless Earbuds,C01,SL111,88950,0,2024-09-05
+P01700,Zuritek Android Tablet 10in,Android Tablet 10in,C01,SL111,186400,0,2024-09-05
+P01701,Marlow Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL111,167050,0,2024-09-05
+P01702,Brightway Power Bank 20000mAh,Power Bank 20000mAh,C01,SL111,138500,0,2025-02-15
+P01703,Nala Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL111,293750,0,2025-02-21
+P01704,Kito Android Tablet 10in,Android Tablet 10in,C01,SL111,113300,0,2024-09-05
+P01705,Zenith Home Baby Cot,Baby Cot,C14,SL112,5850,0,2024-03-25
+P01706,Amberly Baby Carrier,Baby Carrier,C14,SL112,12750,0,2024-03-04
+P01707,Verano Feeding Bottle Set,Feeding Bottle Set,C14,SL112,5700,0,2024-12-18
+P01708,Bluecrest Baby Cot,Baby Cot,C14,SL112,6400,0,2024-03-04
+P01709,Eko Basics Feeding Bottle Set,Feeding Bottle Set,C14,SL112,7450,0,2024-03-04
+P01710,Marlow Baby Wipes Pack,Baby Wipes Pack,C14,SL112,18750,0,2024-03-04
+P01711,Eko Basics Infant Formula 400g,Infant Formula 400g,C14,SL112,10900,0,2024-03-04
+P01712,Lumora Baby Clothing Set,Baby Clothing Set,C14,SL112,11100,0,2025-06-10
+P01713,Tribe&Co Baby Wipes Pack,Baby Wipes Pack,C14,SL112,11300,0,2024-03-04
+P01714,Brightway Baby Bath Set,Baby Bath Set,C14,SL112,6300,0,2024-03-04
+P01715,Tribe&Co Baby Clothing Set,Baby Clothing Set,C14,SL112,22200,0,2024-04-27
+P01716,Kito Noodles Carton,Noodles Carton,C13,SL113,5700,0,2024-12-22
+P01717,Novaline Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL113,5200,0,2024-10-28
+P01718,Kito Bottled Water Pack,Bottled Water Pack,C13,SL113,6800,0,2024-10-28
+P01719,Novaline Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL113,5950,0,2024-10-28
+P01720,Tribe&Co Soft Drinks Pack,Soft Drinks Pack,C13,SL113,2950,0,2024-10-28
+P01721,Tribe&Co Cereal 500g,Cereal 500g,C13,SL113,10700,0,2024-10-28
+P01722,Oyela Beverage Drink 900g,Beverage Drink 900g,C13,SL113,3000,0,2024-10-28
+P01723,Sahel Rice 10kg,Rice 10kg,C13,SL113,2150,0,2024-10-28
+P01724,Brightway Soft Drinks Pack,Soft Drinks Pack,C13,SL113,6500,0,2024-10-28
+P01725,Zenith Home Tomato Paste Carton,Tomato Paste Carton,C13,SL113,7400,0,2025-01-13
+P01726,Eko Basics Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL113,3750,0,2024-10-28
+P01727,Kora Noodles Carton,Noodles Carton,C13,SL113,5900,0,2024-10-28
+P01728,Halden Tomato Paste Carton,Tomato Paste Carton,C13,SL113,11350,0,2024-11-09
+P01729,Zuritek Face Serum,Face Serum,C11,SL114,9200,0,2023-10-16
+P01730,Bluecrest Makeup Palette,Makeup Palette,C11,SL114,3750,0,2024-06-02
+P01731,Ikoro Hair Clipper,Hair Clipper,C11,SL114,9600,0,2024-05-01
+P01732,Lumora Makeup Palette,Makeup Palette,C11,SL114,2600,0,2024-12-24
+P01733,Lumora Hair Extensions,Hair Extensions,C11,SL114,17250,0,2024-06-24
+P01734,Tella Hair Clipper,Hair Clipper,C11,SL114,21800,0,2024-09-18
+P01735,Kora Deodorant Pack,Deodorant Pack,C11,SL114,6400,0,2024-03-05
+P01736,Bluecrest Shea Butter 500g,Shea Butter 500g,C11,SL114,7000,0,2024-12-11
+P01737,Oyela Hair Relaxer Kit,Hair Relaxer Kit,C11,SL114,10500,0,2025-01-09
+P01738,Tella Beard Grooming Kit,Beard Grooming Kit,C11,SL114,10900,0,2022-10-23
+P01739,Ikoro Exercise Books Pack of 20,Exercise Books Pack of 20,C17,SL115,5600,0,2023-08-10
+P01740,Eko Basics Calculator Scientific,Calculator Scientific,C17,SL115,900,0,2023-10-07
+P01741,Nala Pens Pack,Pens Pack,C17,SL115,2800,0,2022-03-31
+P01742,Amberly Textbook,Textbook,C17,SL115,4350,0,2023-05-07
+P01743,Zenith Home Art Supplies Set,Art Supplies Set,C17,SL115,2950,0,2024-06-09
+P01744,Kora Diary 2025,Diary 2025,C17,SL115,4850,0,2025-02-02
+P01745,Zenith Home Exercise Books Pack of 20,Exercise Books Pack of 20,C17,SL115,6500,0,2024-07-01
+P01746,Zenith Home Diary 2025,Diary 2025,C17,SL115,3300,0,2023-12-16
+P01747,Kora Dash Camera,Dash Camera,C18,SL115,14050,0,2023-04-24
+P01748,Lumora Pens Pack,Pens Pack,C17,SL115,1950,0,2023-06-07
+P01749,Oyela Art Supplies Set,Art Supplies Set,C17,SL115,11250,0,2023-06-20
+P01750,Marlow Perfume 100ml,Perfume 100ml,C11,SL116,5400,0,2024-10-29
+P01751,Tella Hair Clipper,Hair Clipper,C11,SL116,10600,0,2024-10-29
+P01752,Novaline Perfume 100ml,Perfume 100ml,C11,SL116,4850,0,2024-10-29
+P01753,Bluecrest Shea Butter 500g,Shea Butter 500g,C11,SL116,15750,0,2024-10-29
+P01754,Nala Face Serum,Face Serum,C11,SL116,8100,0,2024-10-29
+P01755,Sunpeak Hair Extensions,Hair Extensions,C11,SL116,14900,0,2025-04-30
+P01756,Kora Hair Relaxer Kit,Hair Relaxer Kit,C11,SL116,6250,0,2024-10-29
+P01757,Halden Face Serum,Face Serum,C11,SL116,15800,0,2024-10-29
+P01758,Amberly Beard Grooming Kit,Beard Grooming Kit,C11,SL116,14750,0,2024-10-29
+P01759,Oyela Hair Extensions,Hair Extensions,C11,SL116,14950,0,2025-04-02
+P01760,Sunpeak Body Lotion 400ml,Body Lotion 400ml,C11,SL116,2850,0,2024-10-29
+P01761,Eko Basics Hair Extensions,Hair Extensions,C11,SL116,27800,0,2024-10-29
+P01762,Zenith Home Beard Grooming Kit,Beard Grooming Kit,C11,SL116,15000,0,2025-02-13
+P01763,Kito Face Serum,Face Serum,C11,SL116,5950,0,2024-10-29
+P01764,Tella Perfume 100ml,Perfume 100ml,C11,SL116,6600,0,2024-10-29
+P01765,Brightway Perfume 100ml,Perfume 100ml,C11,SL116,5800,0,2024-10-29
+P01766,Kora Beard Grooming Kit,Beard Grooming Kit,C11,SL116,6650,0,2025-01-21
+P01767,Eko Basics Kitchen Knife Set,Kitchen Knife Set,C06,SL117,35300,0,2024-11-02
+P01768,Zenith Home Wall Clock,Wall Clock,C06,SL117,23100,1,2024-04-27
+P01769,Marlow Wall Clock,Wall Clock,C06,SL117,13200,1,2024-04-27
+P01770,Kito Storage Containers Set,Storage Containers Set,C06,SL117,48250,0,2024-04-27
+P01771,Sahel Non-stick Pot Set,Non-stick Pot Set,C06,SL117,17000,0,2024-04-27
+P01772,Tribe&Co Bedsheet Set,Bedsheet Set,C06,SL117,32700,0,2024-04-27
+P01773,Novaline Wall Clock,Wall Clock,C06,SL117,11300,1,2025-04-27
+P01774,Daria Kitchen Knife Set,Kitchen Knife Set,C06,SL117,67150,0,2024-04-27
+P01775,Novaline Wall Clock,Wall Clock,C06,SL117,9650,1,2024-04-27
+P01776,Marlow Curtain Pair,Curtain Pair,C06,SL117,14300,0,2024-04-27
+P01777,Sunpeak Curtain Pair,Curtain Pair,C06,SL117,4850,0,2024-04-27
+P01778,Halden Storage Containers Set,Storage Containers Set,C06,SL117,26550,0,2024-04-27
+P01779,Kora Dinner Set 24pcs,Dinner Set 24pcs,C06,SL117,4850,1,2024-10-02
+P01780,Sunpeak Kitchen Knife Set,Kitchen Knife Set,C06,SL117,24950,0,2024-04-27
+P01781,Zuritek Water Dispenser,Water Dispenser,C06,SL117,14650,0,2024-04-27
+P01782,Halden Wall Clock,Wall Clock,C06,SL117,10350,1,2024-04-27
+P01783,Verano Kitchen Knife Set,Kitchen Knife Set,C06,SL117,22300,0,2024-08-23
+P01784,Marlow Duvet,Duvet,C06,SL117,16500,0,2024-05-20
+P01785,Marlow Dinner Set 24pcs,Dinner Set 24pcs,C06,SL117,14400,1,2024-07-25
+P01786,Zuritek Bath Towel Set,Bath Towel Set,C06,SL117,15750,0,2024-04-27
+P01787,Kora Jeans Women,Jeans Women,C08,SL118,14850,0,2023-03-09
+P01788,Brightway Two-piece Set,Two-piece Set,C08,SL118,12950,0,2024-06-02
+P01789,Oyela Abaya,Abaya,C08,SL118,6300,0,2025-04-18
+P01790,Lumora Two-piece Set,Two-piece Set,C08,SL118,19350,0,2025-04-21
+P01791,Daria Abaya,Abaya,C08,SL118,5300,0,2024-08-24
+P01792,Zuritek Lingerie Set,Lingerie Set,C08,SL118,15750,0,2024-11-27
+P01793,Daria Two-piece Set,Two-piece Set,C08,SL118,21550,0,2024-07-12
+P01794,Daria Suit 2-piece,Suit 2-piece,C09,SL118,7200,0,2023-05-13
+P01795,Verano Jumpsuit,Jumpsuit,C08,SL118,10650,0,2023-10-22
+P01796,Zenith Home Maxi Skirt,Maxi Skirt,C08,SL118,26900,0,2024-10-08
+P01797,Amberly Kaftan Set,Kaftan Set,C09,SL118,22500,0,2022-11-06
+P01798,Ikoro Bluetooth Speaker,Bluetooth Speaker,C03,SL119,51050,0,2024-09-27
+P01799,Nala Home Theatre System,Home Theatre System,C03,SL119,64600,0,2024-09-27
+P01800,Daria Bluetooth Speaker,Bluetooth Speaker,C03,SL119,41800,0,2024-09-27
+P01801,Halden Over-ear Headphones,Over-ear Headphones,C03,SL119,39850,0,2024-10-23
+P01802,Brightway LED TV 32in,LED TV 32in,C03,SL119,98950,0,2024-09-27
+P01803,Halden Soundbar 2.1,Soundbar 2.1,C03,SL119,61950,1,2024-09-27
+P01804,Amberly Satellite Decoder,Satellite Decoder,C03,SL119,62650,0,2025-05-04
+P01805,Kito Home Theatre System,Home Theatre System,C03,SL119,139650,0,2024-09-27
+P01806,Sahel TV Wall Bracket,TV Wall Bracket,C03,SL119,207850,1,2025-01-26
+P01807,Verano Home Theatre System,Home Theatre System,C03,SL119,138650,0,2024-09-27
+P01808,Halden Over-ear Headphones,Over-ear Headphones,C03,SL119,90250,0,2024-09-27
+P01809,Ikoro Satellite Decoder,Satellite Decoder,C03,SL119,33850,0,2024-09-27
+P01810,Daria Projector,Projector,C03,SL119,179150,0,2025-02-12
+P01811,Tribe&Co Over-ear Headphones,Over-ear Headphones,C03,SL119,47550,0,2024-09-27
+P01812,Halden Projector,Projector,C03,SL119,114450,0,2025-03-20
+P01813,Tella Lingerie Set,Lingerie Set,C08,SL120,38200,0,2025-02-11
+P01814,Tella Jumpsuit,Jumpsuit,C08,SL120,18350,0,2023-10-12
+P01815,Ofure Jeans Women,Jeans Women,C08,SL120,12450,0,2025-01-04
+P01816,Ikoro Maxi Skirt,Maxi Skirt,C08,SL120,12250,0,2024-11-18
+P01817,Novaline Jeans Women,Jeans Women,C08,SL120,11600,0,2024-12-30
+P01818,Kito Two-piece Set,Two-piece Set,C08,SL120,10000,0,2023-10-12
+P01819,Sunpeak Abaya,Abaya,C08,SL120,5800,0,2023-10-12
+P01820,Brightway Wide-leg Trousers,Wide-leg Trousers,C08,SL120,32450,0,2023-10-12
+P01821,Ikoro Two-piece Set,Two-piece Set,C08,SL120,17050,0,2024-03-17
+P01822,Kora Bedsheet Set,Bedsheet Set,C06,SL121,7650,0,2025-01-18
+P01823,Amberly Wall Clock,Wall Clock,C06,SL121,13200,1,2024-03-03
+P01824,Tribe&Co Rechargeable Lamp,Rechargeable Lamp,C06,SL121,21500,0,2024-05-23
+P01825,Lumora Duvet,Duvet,C06,SL121,17550,0,2024-03-03
+P01826,Tribe&Co Bedsheet Set,Bedsheet Set,C06,SL121,16800,0,2025-01-21
+P01827,Daria Duvet,Duvet,C06,SL121,12600,0,2024-03-03
+P01828,Novaline Dinner Set 24pcs,Dinner Set 24pcs,C06,SL121,18050,1,2024-03-03
+P01829,Verano Storage Containers Set,Storage Containers Set,C06,SL121,36100,0,2024-03-03
+P01830,Ikoro Dinner Set 24pcs,Dinner Set 24pcs,C06,SL121,5650,1,2024-08-13
+P01831,Ofure Water Dispenser,Water Dispenser,C06,SL121,8750,0,2024-03-03
+P01832,Novaline Water Dispenser,Water Dispenser,C06,SL121,9950,0,2024-03-03
+P01833,Tribe&Co Bedsheet Set,Bedsheet Set,C06,SL121,34750,0,2024-08-03
+P01834,Amberly Maxi Skirt,Maxi Skirt,C08,SL122,13200,0,2023-11-18
+P01835,Zenith Home Bodycon Dress,Bodycon Dress,C08,SL122,7100,0,2024-06-19
+P01836,Halden Wide-leg Trousers,Wide-leg Trousers,C08,SL122,19750,0,2025-06-22
+P01837,Daria Ankara Gown,Ankara Gown,C08,SL122,12850,0,2023-03-24
+P01838,Bluecrest Lingerie Set,Lingerie Set,C08,SL122,24250,0,2024-09-22
+P01839,Nala Bodycon Dress,Bodycon Dress,C08,SL122,10950,0,2022-12-02
+P01840,Amberly Jeans Women,Jeans Women,C08,SL122,22850,0,2023-05-31
+P01841,Nala Bodycon Dress,Bodycon Dress,C08,SL122,9800,0,2025-06-13
+P01842,Amberly Bodycon Dress,Bodycon Dress,C08,SL122,9550,0,2023-07-05
+P01843,Tribe&Co Ankara Gown,Ankara Gown,C08,SL122,12700,0,2024-05-23
+P01844,Kora Lingerie Set,Lingerie Set,C08,SL122,16200,0,2024-02-23
+P01845,Zuritek Bookshelf,Bookshelf,C07,SL123,198150,1,2023-09-19
+P01846,Daria Dining Set 4 Chairs,Dining Set 4 Chairs,C07,SL123,315800,0,2022-06-29
+P01847,Lumora Dining Set 4 Chairs,Dining Set 4 Chairs,C07,SL123,105750,0,2023-04-28
+P01848,Nala Dining Set 4 Chairs,Dining Set 4 Chairs,C07,SL123,120400,0,2022-09-13
+P01849,Bluecrest Bed Frame 6x6,Bed Frame 6x6,C07,SL123,156250,1,2025-04-16
+P01850,Sunpeak Study Table,Study Table,C07,SL123,156750,1,2024-05-13
+P01851,Brightway Bed Frame 6x6,Bed Frame 6x6,C07,SL123,115300,1,2022-07-28
+P01852,Tribe&Co 3-Seater Sofa,3-Seater Sofa,C07,SL123,162600,1,2022-11-15
+P01853,Oyela Study Table,Study Table,C07,SL123,221550,1,2023-07-15
+P01854,Sunpeak Perfume 100ml,Perfume 100ml,C11,SL124,6050,0,2025-09-09
+P01855,Eko Basics Body Lotion 400ml,Body Lotion 400ml,C11,SL124,1650,0,2025-09-09
+P01856,Sahel Hair Clipper,Hair Clipper,C11,SL124,7750,0,2025-09-09
+P01857,Ikoro Perfume 100ml,Perfume 100ml,C11,SL124,4150,0,2025-09-09
+P01858,Tella Makeup Palette,Makeup Palette,C11,SL124,8100,0,2025-09-09
+P01859,Nala Perfume 100ml,Perfume 100ml,C11,SL124,4250,0,2025-09-09
+P01860,Zenith Home Hair Relaxer Kit,Hair Relaxer Kit,C11,SL124,5000,0,2025-09-09
+P01861,Ofure Shea Butter 500g,Shea Butter 500g,C11,SL124,7800,0,2025-09-09
+P01862,Verano Hair Relaxer Kit,Hair Relaxer Kit,C11,SL124,4200,0,2025-09-09
+P01863,Kito Exercise Bike,Exercise Bike,C15,SL125,18550,0,2023-09-04
+P01864,Tella Exercise Bike,Exercise Bike,C15,SL125,28250,0,2023-09-04
+P01865,Ikoro Dumbbell Set,Dumbbell Set,C15,SL125,29600,0,2024-12-30
+P01866,Nala Yoga Mat,Yoga Mat,C15,SL125,26350,0,2024-05-02
+P01867,Marlow Football,Football,C15,SL125,14200,1,2023-09-04
+P01868,Ikoro Yoga Mat,Yoga Mat,C15,SL125,28750,0,2024-01-27
+P01869,Halden Jersey,Jersey,C15,SL125,84700,1,2023-09-04
+P01870,Novaline Treadmill,Treadmill,C15,SL125,22450,1,2023-09-04
+P01871,Sahel Bicycle,Bicycle,C15,SL125,8400,0,2024-06-23
+P01872,Halden Treadmill,Treadmill,C15,SL125,25550,1,2025-03-14
+P01873,Sahel Exercise Bike,Exercise Bike,C15,SL125,29050,0,2024-03-27
+P01874,Tella Jersey,Jersey,C15,SL125,69850,1,2023-09-04
+P01875,Daria Bicycle,Bicycle,C15,SL125,14150,0,2024-01-03
+P01876,Daria Jump Starter,Jump Starter,C18,SL126,12050,0,2025-01-21
+P01877,Nala Car Vacuum Cleaner,Car Vacuum Cleaner,C18,SL126,24450,0,2025-01-21
+P01878,Ofure Tyre 16in,Tyre 16in,C18,SL126,14250,0,2025-01-21
+P01879,Novaline Engine Oil 4L,Engine Oil 4L,C18,SL126,18050,0,2025-01-21
+P01880,Amberly Car Phone Holder,Car Phone Holder,C18,SL126,44100,0,2025-04-01
+P01881,Amberly Car Phone Holder,Car Phone Holder,C18,SL126,17600,0,2025-01-21
+P01882,Daria Jump Starter,Jump Starter,C18,SL126,28700,0,2025-01-21
+P01883,Tribe&Co Car Battery,Car Battery,C18,SL126,28500,0,2025-01-21
+P01884,Marlow Jump Starter,Jump Starter,C18,SL126,21250,0,2025-01-21
+P01885,Eko Basics Tyre 16in,Tyre 16in,C18,SL126,10450,0,2025-02-14
+P01886,Lumora Car Battery,Car Battery,C18,SL126,11300,0,2025-01-21
+P01887,Nala Car Phone Holder,Car Phone Holder,C18,SL126,22650,0,2025-01-21
+P01888,Novaline Car Seat Covers,Car Seat Covers,C18,SL126,33000,0,2025-01-21
+P01889,Kora Engine Oil 4L,Engine Oil 4L,C18,SL126,18800,0,2025-01-21
+P01890,Amberly Baby Wipes Pack,Baby Wipes Pack,C14,SL127,15350,0,2023-03-12
+P01891,Halden Baby Clothing Set,Baby Clothing Set,C14,SL127,24650,0,2023-12-15
+P01892,Marlow Baby Cot,Baby Cot,C14,SL127,13950,0,2024-09-11
+P01893,Kito Baby Cot,Baby Cot,C14,SL127,9600,0,2023-12-12
+P01894,Oyela Baby Carrier,Baby Carrier,C14,SL127,7850,0,2023-03-31
+P01895,Lumora Infant Formula 400g,Infant Formula 400g,C14,SL127,11500,0,2025-01-24
+P01896,Ikoro Baby Bath Set,Baby Bath Set,C14,SL127,11600,0,2023-09-02
+P01897,Ikoro Baby Wipes Pack,Baby Wipes Pack,C14,SL127,16100,0,2025-04-25
+P01898,Lumora Baby Carrier,Baby Carrier,C14,SL127,7800,0,2023-05-09
+P01899,Zenith Home Feeding Bottle Set,Feeding Bottle Set,C14,SL127,7500,0,2025-01-20
+P01900,Lumora Infant Formula 400g,Infant Formula 400g,C14,SL127,18200,0,2023-01-20
+P01901,Sahel Baby Clothing Set,Baby Clothing Set,C14,SL127,17550,0,2023-05-03
+P01902,Kito Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL127,12250,0,2024-12-29
+P01903,Sunpeak Duvet,Duvet,C06,SL128,24100,0,2023-10-26
+P01904,Lumora Duvet,Duvet,C06,SL128,7950,0,2024-06-21
+P01905,Lumora Curtain Pair,Curtain Pair,C06,SL128,8600,0,2024-01-29
+P01906,Daria Dinner Set 24pcs,Dinner Set 24pcs,C06,SL128,17400,1,2024-08-19
+P01907,Eko Basics Bed Frame 6x6,Bed Frame 6x6,C07,SL128,154800,1,2023-11-13
+P01908,Kito Rechargeable Lamp,Rechargeable Lamp,C06,SL128,15100,0,2023-10-26
+P01909,Tribe&Co 3-Seater Sofa,3-Seater Sofa,C07,SL128,121500,1,2023-10-26
+P01910,Eko Basics Non-stick Pot Set,Non-stick Pot Set,C06,SL128,14450,0,2023-10-26
+P01911,Brightway Wardrobe 3 Door,Wardrobe 3 Door,C07,SL128,209700,1,2023-10-26
+P01912,Tella Orthopaedic Mattress,Orthopaedic Mattress,C07,SL128,135450,1,2024-09-07
+P01913,Brightway Chinos,Chinos,C09,SL129,35150,0,2023-07-16
+P01914,Bluecrest Kaftan Set,Kaftan Set,C09,SL129,9000,0,2024-07-29
+P01915,Nala Agbada Set,Agbada Set,C09,SL129,10400,0,2023-11-28
+P01916,Brightway Jeans Men,Jeans Men,C09,SL129,12350,0,2024-11-25
+P01917,Halden Suit 2-piece,Suit 2-piece,C09,SL129,6450,0,2023-03-31
+P01918,Kito Suit 2-piece,Suit 2-piece,C09,SL129,6150,0,2022-07-18
+P01919,Halden Chinos,Chinos,C09,SL129,22650,0,2023-07-12
+P01920,Bluecrest Polo Shirt,Polo Shirt,C09,SL129,8950,0,2024-05-17
+P01921,Ofure Senator Wear,Senator Wear,C09,SL129,16450,0,2022-08-18
+P01922,Brightway Kaftan Set,Kaftan Set,C09,SL129,11050,0,2022-03-08
+P01923,Tribe&Co Polo Shirt,Polo Shirt,C09,SL129,5550,0,2024-10-09
+P01924,Zenith Home Chinos,Chinos,C09,SL129,16050,0,2024-09-24
+P01925,Oyela Shorts,Shorts,C09,SL129,9550,0,2023-01-04
+P01926,Eko Basics Agbada Set,Agbada Set,C09,SL129,11350,0,2023-12-07
+P01927,Nala Chinos,Chinos,C09,SL129,10250,0,2023-12-02
+P01928,Tribe&Co Underwear Pack,Underwear Pack,C09,SL129,12550,0,2024-12-31
+P01929,Tella Jeans Men,Jeans Men,C09,SL129,16600,0,2024-08-20
+P01930,Novaline Agbada Set,Agbada Set,C09,SL129,19100,0,2024-12-26
+P01931,Ofure Chinos,Chinos,C09,SL129,12450,0,2025-06-22
+P01932,Ofure Agbada Set,Agbada Set,C09,SL129,8600,0,2022-06-20
+P01933,Amberly Shorts,Shorts,C09,SL129,10050,0,2023-02-22
+P01934,Ikoro Senator Wear,Senator Wear,C09,SL129,21000,0,2022-06-17
+P01935,Ikoro Shorts,Shorts,C09,SL129,10650,0,2023-10-06
+P01936,Kora Chinos,Chinos,C09,SL129,18450,0,2025-01-05
+P01937,Kora Agbada Set,Agbada Set,C09,SL129,9300,0,2025-05-06
+P01938,Kora Polo Shirt,Polo Shirt,C09,SL129,14450,0,2024-03-06
+P01939,Bluecrest Kaftan Set,Kaftan Set,C09,SL129,9000,0,2025-03-14
+P01940,Tribe&Co Underwear Pack,Underwear Pack,C09,SL129,23700,0,2025-06-26
+P01941,Marlow Jeans Men,Jeans Men,C09,SL129,10450,0,2023-01-20
+P01942,Zenith Home Underwear Pack,Underwear Pack,C09,SL129,25200,0,2025-01-20
+P01943,Marlow Chinos,Chinos,C09,SL129,18000,0,2024-08-30
+P01944,Bluecrest Beverage Drink 900g,Beverage Drink 900g,C13,SL130,5000,0,2025-07-01
+P01945,Ikoro Coffee 200g,Coffee 200g,C13,SL130,3650,0,2025-07-01
+P01946,Tella Tomato Paste Carton,Tomato Paste Carton,C13,SL130,10600,0,2025-07-01
+P01947,Kora Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL130,6850,0,2025-07-01
+P01948,Oyela Soft Drinks Pack,Soft Drinks Pack,C13,SL130,4650,0,2025-07-01
+P01949,Brightway Beverage Drink 900g,Beverage Drink 900g,C13,SL130,6950,0,2025-07-01
+P01950,Marlow Noodles Carton,Noodles Carton,C13,SL130,11600,0,2025-07-01
+P01951,Zenith Home Bottled Water Pack,Bottled Water Pack,C13,SL130,7200,0,2025-07-01
+P01952,Oyela Noodles Carton,Noodles Carton,C13,SL130,6900,0,2025-07-01
+P01953,Daria Cereal 500g,Cereal 500g,C13,SL130,12100,0,2025-07-01
+P01954,Ofure Face Serum,Face Serum,C11,SL131,7650,0,2025-06-11
+P01955,Kito Body Lotion 400ml,Body Lotion 400ml,C11,SL131,3200,0,2023-08-23
+P01956,Daria Deodorant Pack,Deodorant Pack,C11,SL131,8950,0,2023-07-15
+P01957,Tella Hair Relaxer Kit,Hair Relaxer Kit,C11,SL131,15750,0,2023-07-15
+P01958,Brightway Deodorant Pack,Deodorant Pack,C11,SL131,9200,0,2023-07-15
+P01959,Sunpeak Beard Grooming Kit,Beard Grooming Kit,C11,SL131,7050,0,2023-11-07
+P01960,Tribe&Co Makeup Palette,Makeup Palette,C11,SL131,9150,0,2024-09-10
+P01961,Zenith Home Makeup Palette,Makeup Palette,C11,SL131,8050,0,2023-07-15
+P01962,Tribe&Co Cereal 500g,Cereal 500g,C13,SL132,7900,0,2022-04-27
+P01963,Ofure Beverage Drink 900g,Beverage Drink 900g,C13,SL132,3250,0,2023-01-19
+P01964,Tribe&Co Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL132,7750,0,2025-05-27
+P01965,Lumora Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL132,7850,0,2025-01-14
+P01966,Ofure Bottled Water Pack,Bottled Water Pack,C13,SL132,5850,0,2023-10-17
+P01967,Verano Beverage Drink 900g,Beverage Drink 900g,C13,SL132,3300,0,2022-09-07
+P01968,Kora Tomato Paste Carton,Tomato Paste Carton,C13,SL132,5950,0,2022-03-19
+P01969,Marlow Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL132,16250,0,2023-01-01
+P01970,Verano Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL132,7250,0,2022-07-28
+P01971,Ikoro Cereal 500g,Cereal 500g,C13,SL132,7750,0,2022-03-11
+P01972,Tella Beverage Drink 900g,Beverage Drink 900g,C13,SL132,4400,0,2023-02-16
+P01973,Zenith Home Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL132,14800,0,2024-09-02
+P01974,Novaline Beverage Drink 900g,Beverage Drink 900g,C13,SL132,1500,0,2024-01-13
+P01975,Marlow Tomato Paste Carton,Tomato Paste Carton,C13,SL132,9500,0,2024-04-13
+P01976,Zenith Home Jersey,Jersey,C15,SL133,83050,1,2024-10-29
+P01977,Tella Resistance Bands,Resistance Bands,C15,SL133,30400,0,2023-08-18
+P01978,Lumora Football,Football,C15,SL133,37500,1,2023-08-18
+P01979,Oyela Football,Football,C15,SL133,18150,1,2023-08-18
+P01980,Marlow Treadmill,Treadmill,C15,SL133,12400,1,2023-08-18
+P01981,Ikoro Resistance Bands,Resistance Bands,C15,SL133,14550,0,2024-05-14
+P01982,Tella Resistance Bands,Resistance Bands,C15,SL133,41150,0,2023-08-18
+P01983,Bluecrest Jersey,Jersey,C15,SL133,72650,1,2023-08-18
+P01984,Verano Treadmill,Treadmill,C15,SL133,11950,1,2023-08-31
+P01985,Nala Jersey,Jersey,C15,SL133,53900,1,2023-12-09
+P01986,Sunpeak Kitchen Knife Set,Kitchen Knife Set,C06,SL134,40450,0,2025-05-08
+P01987,Eko Basics Kitchen Knife Set,Kitchen Knife Set,C06,SL134,63800,0,2025-05-08
+P01988,Zuritek Water Dispenser,Water Dispenser,C06,SL134,5500,0,2025-05-08
+P01989,Kito Electric Kettle,Electric Kettle,C05,SL134,149250,1,2025-05-08
+P01990,Ikoro Duvet,Duvet,C06,SL134,10350,0,2025-05-08
+P01991,Zenith Home Dinner Set 24pcs,Dinner Set 24pcs,C06,SL134,6150,1,2025-05-08
+P01992,Tella Kitchen Knife Set,Kitchen Knife Set,C06,SL134,62700,0,2025-05-08
+P01993,Lumora Duvet,Duvet,C06,SL134,8000,0,2025-05-08
+P01994,Kora Dinner Set 24pcs,Dinner Set 24pcs,C06,SL134,11300,1,2025-05-08
+P01995,Sahel Gas Cooker 4 Burner,Gas Cooker 4 Burner,C05,SL135,48800,1,2022-11-08
+P01996,Brightway Double Door Fridge,Double Door Fridge,C05,SL135,50200,1,2025-03-30
+P01997,Bluecrest Standing Fan 18in,Standing Fan 18in,C05,SL135,137250,0,2024-04-24
+P01998,Tribe&Co Electric Kettle,Electric Kettle,C05,SL135,174000,1,2023-03-02
+P01999,Marlow Double Door Fridge,Double Door Fridge,C05,SL135,74700,1,2022-10-22
+P02000,Brightway Inverter Generator 2.5kVA,Inverter Generator 2.5kVA,C05,SL135,101200,1,2025-03-25
+P02001,Oyela Split Air Conditioner 1.5HP,Split Air Conditioner 1.5HP,C05,SL135,157900,0,2022-06-29
+P02002,Brightway Blender 1.5L,Blender 1.5L,C05,SL135,42100,0,2024-08-03
+P02003,Ikoro Blender 1.5L,Blender 1.5L,C05,SL135,46350,0,2025-04-22
+P02004,Novaline Inverter Generator 2.5kVA,Inverter Generator 2.5kVA,C05,SL135,91200,1,2022-12-05
+P02005,Tella Perfume 100ml,Perfume 100ml,C11,SL136,5150,0,2025-05-19
+P02006,Novaline Hair Extensions,Hair Extensions,C11,SL136,42550,0,2025-05-19
+P02007,Zenith Home Beard Grooming Kit,Beard Grooming Kit,C11,SL136,8400,0,2025-05-19
+P02008,Zuritek Shea Butter 500g,Shea Butter 500g,C11,SL136,4500,0,2025-05-19
+P02009,Tella Body Lotion 400ml,Body Lotion 400ml,C11,SL136,1900,0,2025-05-19
+P02010,Zuritek Hair Extensions,Hair Extensions,C11,SL136,29550,0,2025-06-17
+P02011,Sahel Hair Relaxer Kit,Hair Relaxer Kit,C11,SL136,9750,0,2025-05-19
+P02012,Eko Basics Hair Extensions,Hair Extensions,C11,SL136,22950,0,2025-05-19
+P02013,Ofure Body Lotion 400ml,Body Lotion 400ml,C11,SL136,1700,0,2025-05-19
+P02014,Ikoro Perfume 100ml,Perfume 100ml,C11,SL136,4150,0,2025-05-19
+P02015,Nala Deodorant Pack,Deodorant Pack,C11,SL136,6650,0,2025-05-19
+P02016,Lumora Hair Clipper,Hair Clipper,C11,SL136,14350,0,2025-05-19
+P02017,Zenith Home Shea Butter 500g,Shea Butter 500g,C11,SL137,12150,0,2025-03-24
+P02018,Zuritek Shea Butter 500g,Shea Butter 500g,C11,SL137,4200,0,2025-03-24
+P02019,Ikoro Hair Extensions,Hair Extensions,C11,SL137,14950,0,2025-03-24
+P02020,Sunpeak Body Lotion 400ml,Body Lotion 400ml,C11,SL137,1850,0,2025-03-24
+P02021,Brightway Hair Clipper,Hair Clipper,C11,SL137,11100,0,2025-03-24
+P02022,Marlow Hair Clipper,Hair Clipper,C11,SL137,8600,0,2025-03-24
+P02023,Nala Perfume 100ml,Perfume 100ml,C11,SL137,8450,0,2025-03-24
+P02024,Marlow Face Serum,Face Serum,C11,SL137,5400,0,2025-03-24
+P02025,Amberly Shea Butter 500g,Shea Butter 500g,C11,SL137,8850,0,2025-03-24
+P02026,Sunpeak Hair Clipper,Hair Clipper,C11,SL137,15250,0,2025-03-24
+P02027,Oyela Face Serum,Face Serum,C11,SL137,8350,0,2025-03-24
+P02028,Zenith Home Hair Clipper,Hair Clipper,C11,SL137,6950,0,2025-03-24
+P02029,Marlow Hair Clipper,Hair Clipper,C11,SL137,14350,0,2025-03-24
+P02030,Brightway Body Lotion 400ml,Body Lotion 400ml,C11,SL137,2050,0,2025-03-24
+P02031,Oyela Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL138,420750,0,2023-01-27
+P02032,Daria Refurbished Laptop 14in,Refurbished Laptop 14in,C02,SL138,102950,0,2025-01-27
+P02033,Kora External Hard Drive 1TB,External Hard Drive 1TB,C02,SL138,492750,0,2025-04-11
+P02034,Amberly Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL138,394200,0,2025-04-27
+P02035,Oyela Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL138,477050,0,2024-10-31
+P02036,Nala Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL138,496350,0,2023-05-19
+P02037,Tella Inkjet Printer,Inkjet Printer,C02,SL138,658000,0,2024-09-15
+P02038,Oyela Inkjet Printer,Inkjet Printer,C02,SL138,314300,0,2023-03-22
+P02039,Novaline Inkjet Printer,Inkjet Printer,C02,SL138,356450,0,2024-10-02
+P02040,Kora Wi-Fi Router,Wi-Fi Router,C02,SL138,236050,1,2023-01-27
+P02041,Zuritek Refurbished Laptop 14in,Refurbished Laptop 14in,C02,SL138,203000,0,2025-05-06
+P02042,Halden Wi-Fi Router,Wi-Fi Router,C02,SL138,218950,1,2023-10-11
+P02043,Ikoro Soft Drinks Pack,Soft Drinks Pack,C13,SL139,7350,0,2022-03-16
+P02044,Tribe&Co Noodles Carton,Noodles Carton,C13,SL139,11350,0,2025-06-03
+P02045,Sunpeak Bottled Water Pack,Bottled Water Pack,C13,SL139,8850,0,2024-08-15
+P02046,Brightway Cereal 500g,Cereal 500g,C13,SL139,8050,0,2023-01-23
+P02047,Eko Basics Beverage Drink 900g,Beverage Drink 900g,C13,SL139,4300,0,2024-02-19
+P02048,Brightway Rice 10kg,Rice 10kg,C13,SL139,2400,0,2024-12-27
+P02049,Marlow Tomato Paste Carton,Tomato Paste Carton,C13,SL139,12400,0,2024-08-15
+P02050,Ofure Beverage Drink 900g,Beverage Drink 900g,C13,SL139,3100,0,2024-02-08
+P02051,Zuritek Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL139,4000,0,2022-08-28
+P02052,Amberly Tomato Paste Carton,Tomato Paste Carton,C13,SL139,14700,0,2024-12-04
+P02053,Nala Shorts,Shorts,C09,SL140,9000,0,2024-08-11
+P02054,Kito Polo Shirt,Polo Shirt,C09,SL140,18550,0,2022-10-07
+P02055,Tribe&Co Shorts,Shorts,C09,SL140,10850,0,2024-12-19
+P02056,Daria Jeans Men,Jeans Men,C09,SL140,16200,0,2023-12-16
+P02057,Nala Shorts,Shorts,C09,SL140,9800,0,2022-10-04
+P02058,Bluecrest Senator Wear,Senator Wear,C09,SL140,10050,0,2024-04-17
+P02059,Zuritek Agbada Set,Agbada Set,C09,SL140,11750,0,2022-10-09
+P02060,Kito Agbada Set,Agbada Set,C09,SL140,14350,0,2025-03-23
+P02061,Zuritek Jeans Men,Jeans Men,C09,SL140,11300,0,2022-12-13
+P02062,Sunpeak Suit 2-piece,Suit 2-piece,C09,SL140,6050,0,2023-05-21
+P02063,Nala Agbada Set,Agbada Set,C09,SL140,10900,0,2023-01-10
+P02064,Zuritek Noodles Carton,Noodles Carton,C13,SL141,6700,0,2024-02-14
+P02065,Sunpeak Noodles Carton,Noodles Carton,C13,SL141,17300,0,2023-11-16
+P02066,Eko Basics Tomato Paste Carton,Tomato Paste Carton,C13,SL141,7800,0,2024-05-07
+P02067,Brightway Vegetable Oil 3L,Vegetable Oil 3L,C13,SL141,5600,0,2024-03-08
+P02068,Tella Beverage Drink 900g,Beverage Drink 900g,C13,SL141,2450,0,2022-11-20
+P02069,Ikoro Cereal 500g,Cereal 500g,C13,SL141,7700,0,2022-11-20
+P02070,Eko Basics Soft Drinks Pack,Soft Drinks Pack,C13,SL141,6400,0,2023-07-29
+P02071,Bluecrest Soft Drinks Pack,Soft Drinks Pack,C13,SL141,6450,0,2024-03-31
+P02072,Eko Basics Soft Drinks Pack,Soft Drinks Pack,C13,SL141,6100,0,2023-06-20
+P02073,Marlow Soft Drinks Pack,Soft Drinks Pack,C13,SL141,5700,0,2022-12-02
+P02074,Kito Vegetable Oil 3L,Vegetable Oil 3L,C13,SL141,16350,0,2024-01-24
+P02075,Eko Basics Rice 10kg,Rice 10kg,C13,SL141,1100,0,2024-08-22
+P02076,Sahel Beverage Drink 900g,Beverage Drink 900g,C13,SL141,2500,0,2024-10-15
+P02077,Daria Maxi Skirt,Maxi Skirt,C08,SL142,18100,0,2022-11-08
+P02078,Ofure Maxi Skirt,Maxi Skirt,C08,SL142,19450,0,2022-05-22
+P02079,Ikoro Jumpsuit,Jumpsuit,C08,SL142,12600,0,2023-11-27
+P02080,Lumora Jeans Women,Jeans Women,C08,SL142,36900,0,2025-03-06
+P02081,Nala Wide-leg Trousers,Wide-leg Trousers,C08,SL142,59700,0,2025-04-01
+P02082,Sahel Jumpsuit,Jumpsuit,C08,SL142,23950,0,2025-02-21
+P02083,Amberly Jumpsuit,Jumpsuit,C08,SL142,12750,0,2024-02-27
+P02084,Daria Jeans Women,Jeans Women,C08,SL142,16000,0,2023-12-02
+P02085,Sunpeak Maxi Skirt,Maxi Skirt,C08,SL142,13550,0,2024-11-30
+P02086,Sunpeak Ankara Gown,Ankara Gown,C08,SL143,8650,0,2024-07-18
+P02087,Marlow Jumpsuit,Jumpsuit,C08,SL143,25350,0,2023-05-29
+P02088,Ofure Lingerie Set,Lingerie Set,C08,SL143,19100,0,2023-10-29
+P02089,Zuritek Wide-leg Trousers,Wide-leg Trousers,C08,SL143,29600,0,2023-12-05
+P02090,Sunpeak Bodycon Dress,Bodycon Dress,C08,SL143,10350,0,2025-06-16
+P02091,Ikoro Bodycon Dress,Bodycon Dress,C08,SL143,7250,0,2024-01-17
+P02092,Zenith Home Maxi Skirt,Maxi Skirt,C08,SL143,22750,0,2024-09-10
+P02093,Tella Jeans Women,Jeans Women,C08,SL143,18250,0,2024-02-17
+P02094,Nala Jeans Women,Jeans Women,C08,SL143,21350,0,2024-10-23
+P02095,Ikoro Smart TV 55in,Smart TV 55in,C03,SL144,28700,1,2023-04-02
+P02096,Bluecrest Soundbar 2.1,Soundbar 2.1,C03,SL144,92850,1,2023-12-21
+P02097,Daria Satellite Decoder,Satellite Decoder,C03,SL144,37600,0,2025-06-08
+P02098,Kito Gaming Headset,Gaming Headset,C04,SL144,227300,0,2023-10-22
+P02099,Lumora TV Wall Bracket,TV Wall Bracket,C03,SL144,75600,1,2022-10-06
+P02100,Nala Smart TV 43in,Smart TV 43in,C03,SL144,76800,0,2025-05-16
+P02101,Brightway Gaming Headset,Gaming Headset,C04,SL144,371750,0,2023-03-27
+P02102,Halden Bluetooth Speaker,Bluetooth Speaker,C03,SL144,99400,0,2022-08-04
+P02103,Sunpeak TV Wall Bracket,TV Wall Bracket,C03,SL144,156350,1,2022-07-16
+P02104,Novaline Bluetooth Speaker,Bluetooth Speaker,C03,SL144,89850,0,2025-01-31
+P02105,Sunpeak Projector,Projector,C03,SL144,183900,0,2022-10-15
+P02106,Bluecrest LED TV 32in,LED TV 32in,C03,SL144,136100,0,2024-03-08
+P02107,Amberly Chest Freezer 200L,Chest Freezer 200L,C05,SL145,97100,0,2024-03-23
+P02108,Nala Double Door Fridge,Double Door Fridge,C05,SL145,87550,1,2024-03-23
+P02109,Daria Electric Kettle,Electric Kettle,C05,SL145,141450,1,2024-08-25
+P02110,Tribe&Co Blender 1.5L,Blender 1.5L,C05,SL145,33100,0,2024-03-23
+P02111,Lumora Double Door Fridge,Double Door Fridge,C05,SL145,98350,1,2024-06-19
+P02112,Daria Microwave Oven 20L,Microwave Oven 20L,C05,SL145,66650,1,2024-03-23
+P02113,Tella Rechargeable Lamp,Rechargeable Lamp,C06,SL145,31650,0,2024-03-23
+P02114,Lumora Dinner Set 24pcs,Dinner Set 24pcs,C06,SL145,9800,1,2024-05-16
+P02115,Sahel Washing Machine 7kg,Washing Machine 7kg,C05,SL145,30600,0,2024-03-23
+P02116,Novaline Gas Cooker 4 Burner,Gas Cooker 4 Burner,C05,SL145,48700,1,2025-01-27
+P02117,Novaline Non-stick Pot Set,Non-stick Pot Set,C06,SL145,13000,0,2024-09-11
+P02118,Bluecrest Duvet,Duvet,C06,SL145,16500,0,2024-03-23
+P02119,Oyela Chest Freezer 200L,Chest Freezer 200L,C05,SL145,168950,0,2024-03-23
+P02120,Zenith Home Gas Cooker 4 Burner,Gas Cooker 4 Burner,C05,SL145,55700,1,2024-03-23
+P02121,Daria Double Door Fridge,Double Door Fridge,C05,SL145,163700,1,2024-03-23
+P02122,Eko Basics Inverter Generator 2.5kVA,Inverter Generator 2.5kVA,C05,SL145,169950,1,2024-03-23
+P02123,Bluecrest Game Disc,Game Disc,C04,SL146,227450,0,2023-08-12
+P02124,Halden Wireless Controller,Wireless Controller,C04,SL146,89500,0,2023-07-08
+P02125,Halden Android Tablet 10in,Android Tablet 10in,C01,SL146,233800,0,2023-12-06
+P02126,Kora Wireless Controller,Wireless Controller,C04,SL146,81150,0,2024-04-30
+P02127,Zuritek Game Disc,Game Disc,C04,SL146,299100,0,2023-07-08
+P02128,Zenith Home Gaming Chair,Gaming Chair,C04,SL146,75900,0,2023-09-11
+P02129,Zuritek Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL146,138300,0,2023-08-04
+P02130,Sahel Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL146,228150,0,2023-07-08
+P02131,Verano Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL146,153950,0,2023-07-25
+P02132,Daria Game Console,Game Console,C04,SL146,198500,0,2024-01-18
+P02133,Brightway Game Console,Game Console,C04,SL146,150000,0,2025-06-18
+P02134,Sahel Noodles Carton,Noodles Carton,C13,SL147,9350,0,2023-02-19
+P02135,Sahel Bottled Water Pack,Bottled Water Pack,C13,SL147,4250,0,2022-11-17
+P02136,Verano Tomato Paste Carton,Tomato Paste Carton,C13,SL147,8350,0,2024-12-15
+P02137,Halden Tomato Paste Carton,Tomato Paste Carton,C13,SL147,9200,0,2024-12-11
+P02138,Sahel Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL147,8700,0,2023-08-18
+P02139,Zenith Home Beverage Drink 900g,Beverage Drink 900g,C13,SL147,6000,0,2022-10-23
+P02140,Lumora Bottled Water Pack,Bottled Water Pack,C13,SL147,6900,0,2023-12-12
+P02141,Kito Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL147,8850,0,2023-12-19
+P02142,Eko Basics Herbal Tea,Herbal Tea,C12,SL148,19750,0,2024-06-13
+P02143,Nala Protein Powder,Protein Powder,C12,SL148,12850,0,2024-01-19
+P02144,Eko Basics Glucose Meter,Glucose Meter,C12,SL148,7650,0,2023-04-02
+P02145,Halden First Aid Kit,First Aid Kit,C12,SL148,7300,0,2023-02-24
+P02146,Brightway First Aid Kit,First Aid Kit,C12,SL148,7050,0,2025-03-06
+P02147,Halden Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL148,14150,0,2024-08-11
+P02148,Ikoro Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL148,23100,0,2023-02-15
+P02149,Halden Face Masks Pack,Face Masks Pack,C12,SL148,16650,0,2022-11-29
+P02150,Oyela First Aid Kit,First Aid Kit,C12,SL148,10400,0,2024-01-01
+P02151,Nala Protein Powder,Protein Powder,C12,SL148,5250,0,2022-11-17
+P02152,Ikoro Blood Pressure Monitor,Blood Pressure Monitor,C12,SL148,31450,0,2023-08-09
+P02153,Verano First Aid Kit,First Aid Kit,C12,SL148,17950,0,2023-01-14
+P02154,Ikoro Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL148,16050,0,2023-11-01
+P02155,Zenith Home Face Masks Pack,Face Masks Pack,C12,SL148,12950,0,2023-02-26
+P02156,Kora Bottled Water Pack,Bottled Water Pack,C13,SL149,6500,0,2025-02-12
+P02157,Tella Noodles Carton,Noodles Carton,C13,SL149,5700,0,2022-08-18
+P02158,Verano Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL149,8650,0,2024-02-15
+P02159,Oyela Coffee 200g,Coffee 200g,C13,SL149,5200,0,2024-12-18
+P02160,Novaline Tomato Paste Carton,Tomato Paste Carton,C13,SL149,14450,0,2022-05-13
+P02161,Nala Bottled Water Pack,Bottled Water Pack,C13,SL149,7500,0,2024-01-22
+P02162,Zuritek Bottled Water Pack,Bottled Water Pack,C13,SL149,9050,0,2024-05-12
+P02163,Verano Coffee 200g,Coffee 200g,C13,SL149,5950,0,2025-06-03
+P02164,Bluecrest Coffee 200g,Coffee 200g,C13,SL149,5850,0,2025-06-10
+P02165,Ikoro Tomato Paste Carton,Tomato Paste Carton,C13,SL149,9000,0,2024-11-22
+P02166,Eko Basics Cereal 500g,Cereal 500g,C13,SL149,7950,0,2023-05-11
+P02167,Zenith Home Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL149,9300,0,2023-08-31
+P02168,Verano Rice 10kg,Rice 10kg,C13,SL149,2700,0,2022-12-13
+P02169,Kito Vegetable Oil 3L,Vegetable Oil 3L,C13,SL149,6800,0,2022-09-01
+P02170,Tella Coffee 200g,Coffee 200g,C13,SL149,5750,0,2023-06-13
+P02171,Marlow Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL149,13800,0,2024-07-03
+P02172,Daria Beverage Drink 900g,Beverage Drink 900g,C13,SL149,3550,0,2022-10-24
+P02173,Halden Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL149,4950,0,2024-01-25
+P02174,Sahel Cereal 500g,Cereal 500g,C13,SL149,8250,0,2022-04-06
+P02175,Daria Cereal 500g,Cereal 500g,C13,SL149,8950,0,2025-04-11
+P02176,Ofure Bottled Water Pack,Bottled Water Pack,C13,SL149,8250,0,2023-05-20
+P02177,Eko Basics Bottled Water Pack,Bottled Water Pack,C13,SL149,3900,0,2023-08-19
+P02178,Kora Coffee 200g,Coffee 200g,C13,SL149,5600,0,2022-09-07
+P02179,Zuritek Abaya,Abaya,C08,SL150,5350,0,2023-02-18
+P02180,Zuritek Lingerie Set,Lingerie Set,C08,SL150,17050,0,2024-02-10
+P02181,Sunpeak Suit 2-piece,Suit 2-piece,C09,SL150,7000,0,2024-12-23
+P02182,Verano Jeans Women,Jeans Women,C08,SL150,11850,0,2023-01-14
+P02183,Oyela Lingerie Set,Lingerie Set,C08,SL150,12050,0,2024-12-24
+P02184,Ofure Jumpsuit,Jumpsuit,C08,SL150,22900,0,2024-06-02
+P02185,Zenith Home Maxi Skirt,Maxi Skirt,C08,SL150,5950,0,2023-04-29
+P02186,Zuritek Two-piece Set,Two-piece Set,C08,SL151,11350,0,2025-09-20
+P02187,Brightway Ankara Gown,Ankara Gown,C08,SL151,13500,0,2025-09-20
+P02188,Tella Maxi Skirt,Maxi Skirt,C08,SL151,13400,0,2025-09-20
+P02189,Oyela Abaya,Abaya,C08,SL151,4400,0,2025-09-20
+P02190,Tribe&Co Blouse,Blouse,C08,SL151,33800,0,2025-09-20
+P02191,Sahel Jeans Women,Jeans Women,C08,SL151,15150,0,2025-09-20
+P02192,Tella Two-piece Set,Two-piece Set,C08,SL151,11000,0,2025-09-20
+P02193,Kito Jumpsuit,Jumpsuit,C08,SL151,12750,0,2025-09-20
+P02194,Lumora Bodycon Dress,Bodycon Dress,C08,SL151,7700,0,2025-09-20
+P02195,Ofure Maxi Skirt,Maxi Skirt,C08,SL151,34150,0,2025-09-20
+P02196,Novaline Blouse,Blouse,C08,SL151,34400,0,2025-09-20
+P02197,Novaline Gaming Headset,Gaming Headset,C04,SL152,436500,0,2025-05-12
+P02198,Zuritek Gaming Chair,Gaming Chair,C04,SL152,125250,0,2025-05-13
+P02199,Marlow Retro Handheld Console,Retro Handheld Console,C04,SL152,205850,0,2025-05-12
+P02200,Nala Game Disc,Game Disc,C04,SL152,305150,0,2025-05-12
+P02201,Bluecrest Game Disc,Game Disc,C04,SL152,473100,0,2025-05-19
+P02202,Marlow Gaming Chair,Gaming Chair,C04,SL152,128550,0,2025-05-12
+P02203,Amberly Gaming Chair,Gaming Chair,C04,SL152,163150,0,2025-05-12
+P02204,Zenith Home Game Console,Game Console,C04,SL152,156950,0,2025-05-22
+P02205,Kito Gaming Headset,Gaming Headset,C04,SL152,430900,0,2025-05-12
+P02206,Kito Infant Formula 400g,Infant Formula 400g,C14,SL153,10250,0,2024-08-07
+P02207,Lumora Infant Formula 400g,Infant Formula 400g,C14,SL153,9600,0,2024-08-07
+P02208,Daria Diapers Size 4 Jumbo,Diapers Size 4 Jumbo,C14,SL153,14750,0,2025-02-28
+P02209,Tella Baby Bath Set,Baby Bath Set,C14,SL153,6400,0,2024-08-07
+P02210,Lumora Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL153,4100,0,2024-08-07
+P02211,Zenith Home Baby Clothing Set,Baby Clothing Set,C14,SL153,16950,0,2024-08-07
+P02212,Lumora Baby Bath Set,Baby Bath Set,C14,SL153,7700,0,2024-10-28
+P02213,Novaline Baby Carrier,Baby Carrier,C14,SL153,9900,0,2025-06-28
+P02214,Nala Baby Clothing Set,Baby Clothing Set,C14,SL153,16150,0,2024-08-07
+P02215,Zenith Home Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL153,9550,0,2024-08-09
+P02216,Halden Multivitamin 60 Tablets,Multivitamin 60 Tablets,C12,SL154,19050,0,2023-07-17
+P02217,Daria Makeup Palette,Makeup Palette,C11,SL154,10300,0,2024-11-28
+P02218,Eko Basics Body Lotion 400ml,Body Lotion 400ml,C11,SL154,2850,0,2022-11-14
+P02219,Zuritek Perfume 100ml,Perfume 100ml,C11,SL154,5700,0,2024-05-18
+P02220,Ofure First Aid Kit,First Aid Kit,C12,SL154,12750,0,2024-09-01
+P02221,Kito Makeup Palette,Makeup Palette,C11,SL154,4950,0,2022-11-17
+P02222,Ofure Herbal Tea,Herbal Tea,C12,SL154,5850,0,2024-04-10
+P02223,Amberly Face Serum,Face Serum,C11,SL154,8550,0,2025-04-17
+P02224,Brightway Beard Grooming Kit,Beard Grooming Kit,C11,SL154,7600,0,2024-06-27
+P02225,Verano Face Serum,Face Serum,C11,SL154,9400,0,2024-02-03
+P02226,Halden Hair Relaxer Kit,Hair Relaxer Kit,C11,SL154,6850,0,2024-09-26
+P02227,Tribe&Co Makeup Palette,Makeup Palette,C11,SL154,17700,0,2023-09-05
+P02228,Brightway Body Lotion 400ml,Body Lotion 400ml,C11,SL154,3850,0,2023-01-04
+P02229,Ikoro Protein Powder,Protein Powder,C12,SL154,20250,0,2023-11-20
+P02230,Oyela Hair Relaxer Kit,Hair Relaxer Kit,C11,SL154,5100,0,2023-01-24
+P02231,Bluecrest Body Lotion 400ml,Body Lotion 400ml,C11,SL154,2600,0,2024-04-09
+P02232,Verano Perfume 100ml,Perfume 100ml,C11,SL154,5750,0,2022-12-09
+P02233,Brightway Inverter Generator 2.5kVA,Inverter Generator 2.5kVA,C05,SL155,113200,1,2024-01-21
+P02234,Tella Rechargeable Fan,Rechargeable Fan,C05,SL155,151200,1,2025-03-18
+P02235,Zuritek Rechargeable Fan,Rechargeable Fan,C05,SL155,157400,1,2022-11-12
+P02236,Novaline Washing Machine 7kg,Washing Machine 7kg,C05,SL155,33850,0,2025-01-25
+P02237,Marlow Inverter Generator 2.5kVA,Inverter Generator 2.5kVA,C05,SL155,198850,1,2023-01-18
+P02238,Halden Rechargeable Fan,Rechargeable Fan,C05,SL155,127450,1,2025-02-05
+P02239,Zuritek Blender 1.5L,Blender 1.5L,C05,SL155,43750,0,2025-02-28
+P02240,Kito Standing Fan 18in,Standing Fan 18in,C05,SL155,236300,0,2024-01-08
+P02241,Amberly Underwear Pack,Underwear Pack,C09,SL156,16900,0,2022-10-02
+P02242,Amberly Suit 2-piece,Suit 2-piece,C09,SL156,6950,0,2024-09-17
+P02243,Oyela Underwear Pack,Underwear Pack,C09,SL156,12650,0,2023-11-30
+P02244,Kito Suit 2-piece,Suit 2-piece,C09,SL156,7800,0,2024-05-14
+P02245,Zuritek Chinos,Chinos,C09,SL156,20150,0,2023-08-07
+P02246,Halden Jeans Men,Jeans Men,C09,SL156,15250,0,2024-05-02
+P02247,Ikoro T-shirt Pack of 3,T-shirt Pack of 3,C09,SL156,13550,0,2024-11-30
+P02248,Sunpeak Underwear Pack,Underwear Pack,C09,SL156,18500,0,2023-10-02
+P02249,Verano Senator Wear,Senator Wear,C09,SL156,18900,0,2024-10-11
+P02250,Verano Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL157,5700,0,2024-11-17
+P02251,Oyela Bottled Water Pack,Bottled Water Pack,C13,SL157,6600,0,2023-07-05
+P02252,Ofure Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL157,12950,0,2025-06-07
+P02253,Kito Coffee 200g,Coffee 200g,C13,SL157,6250,0,2023-08-15
+P02254,Amberly Cereal 500g,Cereal 500g,C13,SL157,7350,0,2023-01-04
+P02255,Sunpeak Cereal 500g,Cereal 500g,C13,SL157,7900,0,2025-04-21
+P02256,Amberly Cereal 500g,Cereal 500g,C13,SL157,13050,0,2024-02-13
+P02257,Eko Basics Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL157,10650,0,2024-10-01
+P02258,Lumora Tomato Paste Carton,Tomato Paste Carton,C13,SL157,7350,0,2025-03-19
+P02259,Bluecrest Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL157,7900,0,2025-05-13
+P02260,Sahel Beverage Drink 900g,Beverage Drink 900g,C13,SL157,2900,0,2025-04-03
+P02261,Zenith Home Tomato Paste Carton,Tomato Paste Carton,C13,SL157,7200,0,2024-12-06
+P02262,Sahel Bottled Water Pack,Bottled Water Pack,C13,SL157,5650,0,2024-11-23
+P02263,Eko Basics LED TV 32in,LED TV 32in,C03,SL158,51650,0,2024-08-01
+P02264,Nala Gaming Chair,Gaming Chair,C04,SL158,132350,0,2023-09-13
+P02265,Eko Basics Bluetooth Speaker,Bluetooth Speaker,C03,SL158,49050,0,2025-02-20
+P02266,Novaline Home Theatre System,Home Theatre System,C03,SL158,102500,0,2025-03-24
+P02267,Verano Over-ear Headphones,Over-ear Headphones,C03,SL158,67100,0,2023-09-13
+P02268,Amberly Home Theatre System,Home Theatre System,C03,SL158,300100,0,2023-09-13
+P02269,Tribe&Co Home Theatre System,Home Theatre System,C03,SL158,140300,0,2023-09-13
+P02270,Amberly Home Theatre System,Home Theatre System,C03,SL158,137800,0,2024-08-25
+P02271,Novaline Game Console,Game Console,C04,SL158,598950,0,2024-12-04
+P02272,Daria Soundbar 2.1,Soundbar 2.1,C03,SL158,31500,1,2023-09-13
+P02273,Zenith Home Home Theatre System,Home Theatre System,C03,SL158,101400,0,2025-04-24
+P02274,Tribe&Co Over-ear Headphones,Over-ear Headphones,C03,SL159,87100,0,2025-05-24
+P02275,Tribe&Co Smart TV 55in,Smart TV 55in,C03,SL159,31500,1,2025-05-24
+P02276,Zuritek Soundbar 2.1,Soundbar 2.1,C03,SL159,75600,1,2025-05-24
+P02277,Daria Bluetooth Speaker,Bluetooth Speaker,C03,SL159,146750,0,2025-05-24
+P02278,Amberly Bluetooth Speaker,Bluetooth Speaker,C03,SL159,32100,0,2025-05-24
+P02279,Lumora Soundbar 2.1,Soundbar 2.1,C03,SL159,21900,1,2025-05-24
+P02280,Zenith Home Home Theatre System,Home Theatre System,C03,SL159,158700,0,2025-05-24
+P02281,Ikoro Smart TV 43in,Smart TV 43in,C03,SL159,169000,0,2025-05-24
+P02282,Lumora Wide-leg Trousers,Wide-leg Trousers,C08,SL160,15400,0,2025-02-11
+P02283,Verano Senator Wear,Senator Wear,C09,SL160,23000,0,2022-07-26
+P02284,Novaline Kaftan Set,Kaftan Set,C09,SL160,17000,0,2024-08-01
+P02285,Tribe&Co Agbada Set,Agbada Set,C09,SL160,11850,0,2023-07-18
+P02286,Lumora Lingerie Set,Lingerie Set,C08,SL160,8100,0,2022-04-28
+P02287,Verano Senator Wear,Senator Wear,C09,SL160,19100,0,2022-08-01
+P02288,Sahel Jeans Men,Jeans Men,C09,SL160,12800,0,2024-09-25
+P02289,Lumora Wide-leg Trousers,Wide-leg Trousers,C08,SL160,25000,0,2023-12-31
+P02290,Tella Bodycon Dress,Bodycon Dress,C08,SL160,16600,0,2023-05-06
+P02291,Brightway T-shirt Pack of 3,T-shirt Pack of 3,C09,SL160,18550,0,2022-07-15
+P02292,Eko Basics Kaftan Set,Kaftan Set,C09,SL160,10650,0,2022-08-23
+P02293,Daria Polo Shirt,Polo Shirt,C09,SL160,11250,0,2023-04-25
+P02294,Sunpeak T-shirt Pack of 3,T-shirt Pack of 3,C09,SL160,9200,0,2024-09-12
+P02295,Bluecrest Underwear Pack,Underwear Pack,C09,SL160,14000,0,2024-04-26
+P02296,Lumora Polo Shirt,Polo Shirt,C09,SL160,10700,0,2024-08-14
+P02297,Amberly Jeans Women,Jeans Women,C08,SL161,18900,0,2023-11-29
+P02298,Sahel Abaya,Abaya,C08,SL161,8050,0,2023-05-11
+P02299,Sunpeak Jeans Women,Jeans Women,C08,SL161,7550,0,2024-02-07
+P02300,Ikoro Blouse,Blouse,C08,SL161,17650,0,2022-03-26
+P02301,Kora Maxi Skirt,Maxi Skirt,C08,SL161,14650,0,2024-05-14
+P02302,Halden Bodycon Dress,Bodycon Dress,C08,SL161,6200,0,2024-06-05
+P02303,Oyela Bodycon Dress,Bodycon Dress,C08,SL161,4150,0,2025-02-14
+P02304,Nala Wallet,Wallet,C10,SL162,45650,0,2025-03-21
+P02305,Oyela Men's Loafers,Men's Loafers,C10,SL162,10250,0,2024-02-04
+P02306,Daria Men's Loafers,Men's Loafers,C10,SL162,15000,0,2022-12-09
+P02307,Ofure Men's Loafers,Men's Loafers,C10,SL162,19800,0,2023-05-27
+P02308,Lumora Sneakers,Sneakers,C10,SL162,56850,0,2024-07-16
+P02309,Tribe&Co Travel Bag,Travel Bag,C10,SL162,18650,0,2023-05-11
+P02310,Amberly Backpack,Backpack,C10,SL162,18750,0,2022-12-10
+P02311,Ofure Sneakers,Sneakers,C10,SL162,81800,0,2022-09-18
+P02312,Nala Backpack,Backpack,C10,SL162,6850,0,2024-08-04
+P02313,Eko Basics Leather Sandals,Leather Sandals,C10,SL162,21350,0,2022-03-18
+P02314,Novaline Men's Loafers,Men's Loafers,C10,SL162,8950,0,2022-12-19
+P02315,Tribe&Co Handbag,Handbag,C10,SL162,22150,0,2023-01-07
+P02316,Verano Leather Sandals,Leather Sandals,C10,SL162,12100,0,2024-02-09
+P02317,Oyela Handbag,Handbag,C10,SL162,19100,0,2024-09-22
+P02318,Eko Basics Handbag,Handbag,C10,SL162,16850,0,2025-01-26
+P02319,Novaline Handbag,Handbag,C10,SL162,34800,0,2024-06-09
+P02320,Eko Basics Handbag,Handbag,C10,SL162,24050,0,2023-03-20
+P02321,Tella Backpack,Backpack,C10,SL162,12250,0,2024-12-11
+P02322,Kora Women's Heels,Women's Heels,C10,SL162,11250,0,2023-02-16
+P02323,Sunpeak Rechargeable Lamp,Rechargeable Lamp,C06,SL163,21300,0,2025-04-25
+P02324,Daria Non-stick Pot Set,Non-stick Pot Set,C06,SL163,22250,0,2025-04-25
+P02325,Lumora Bedsheet Set,Bedsheet Set,C06,SL163,21100,0,2025-04-25
+P02326,Novaline Wall Clock,Wall Clock,C06,SL163,14200,1,2025-04-25
+P02327,Marlow Bath Towel Set,Bath Towel Set,C06,SL163,12450,0,2025-04-25
+P02328,Kora Duvet,Duvet,C06,SL163,9100,0,2025-04-25
+P02329,Eko Basics Duvet,Duvet,C06,SL163,9600,0,2025-04-25
+P02330,Sunpeak Non-stick Pot Set,Non-stick Pot Set,C06,SL163,13800,0,2025-04-25
+P02331,Amberly Storage Containers Set,Storage Containers Set,C06,SL163,35800,0,2025-04-25
+P02332,Marlow Treadmill,Treadmill,C15,SL164,46900,1,2023-06-28
+P02333,Sunpeak Exercise Bike,Exercise Bike,C15,SL164,22350,0,2022-09-28
+P02334,Tribe&Co Bicycle,Bicycle,C15,SL164,16050,0,2024-08-02
+P02335,Bluecrest Resistance Bands,Resistance Bands,C15,SL164,10800,0,2025-05-18
+P02336,Novaline Jersey,Jersey,C15,SL164,48300,1,2024-10-20
+P02337,Ikoro Bicycle,Bicycle,C15,SL164,15050,0,2022-08-15
+P02338,Sunpeak Resistance Bands,Resistance Bands,C15,SL164,12800,0,2024-07-14
+P02339,Marlow Yoga Mat,Yoga Mat,C15,SL164,30400,0,2024-10-11
+P02340,Sahel Treadmill,Treadmill,C15,SL164,26850,1,2023-07-08
+P02341,Kito Resistance Bands,Resistance Bands,C15,SL164,15700,0,2022-12-11
+P02342,Lumora Resistance Bands,Resistance Bands,C15,SL164,11650,0,2025-04-21
+P02343,Kito Exercise Bike,Exercise Bike,C15,SL164,29750,0,2024-09-17
+P02344,Novaline Jersey,Jersey,C15,SL164,24850,1,2024-10-19
+P02345,Sahel Backpack,Backpack,C10,SL165,9800,0,2022-01-23
+P02346,Eko Basics Travel Bag,Travel Bag,C10,SL165,39250,0,2022-06-13
+P02347,Verano Men's Loafers,Men's Loafers,C10,SL165,14950,0,2025-03-16
+P02348,Tella Wallet,Wallet,C10,SL165,29650,0,2024-05-08
+P02349,Marlow Backpack,Backpack,C10,SL165,10600,0,2022-03-08
+P02350,Nala Wallet,Wallet,C10,SL165,58400,0,2024-11-21
+P02351,Kora Sneakers,Sneakers,C10,SL165,50500,0,2025-05-21
+P02352,Daria Leather Sandals,Leather Sandals,C10,SL165,16750,0,2022-07-12
+P02353,Halden Leather Sandals,Leather Sandals,C10,SL165,13050,0,2023-12-23
+P02354,Ikoro Travel Bag,Travel Bag,C10,SL165,37450,0,2023-02-24
+P02355,Halden Handbag,Handbag,C10,SL165,13950,0,2024-04-03
+P02356,Nala Handbag,Handbag,C10,SL165,22150,0,2024-01-09
+P02357,Kito Slippers,Slippers,C10,SL165,9500,0,2023-09-30
+P02358,Ikoro Smartwatch,Smartwatch,C01,SL166,161800,0,2024-12-08
+P02359,Ofure Wireless Earbuds,Wireless Earbuds,C01,SL166,192050,0,2025-04-24
+P02360,Kora Wireless Earbuds,Wireless Earbuds,C01,SL166,124350,0,2024-12-08
+P02361,Oyela Wireless Earbuds,Wireless Earbuds,C01,SL166,115150,0,2024-12-08
+P02362,Kora Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL166,111200,0,2025-04-06
+P02363,Novaline Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL166,183950,0,2025-06-02
+P02364,Eko Basics Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL166,176700,0,2024-12-08
+P02365,Sunpeak Smartwatch,Smartwatch,C01,SL166,114850,0,2024-12-08
+P02366,Novaline Smartwatch,Smartwatch,C01,SL166,97250,0,2024-12-08
+P02367,Sahel Android Tablet 10in,Android Tablet 10in,C01,SL166,218450,0,2025-05-21
+P02368,Lumora Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL166,158700,0,2024-12-08
+P02369,Kora Smartwatch,Smartwatch,C01,SL166,114550,0,2024-12-08
+P02370,Ofure Smartwatch,Smartwatch,C01,SL166,131150,0,2024-12-08
+P02371,Sunpeak Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL166,198450,0,2024-12-08
+P02372,Verano Android Tablet 10in,Android Tablet 10in,C01,SL166,126900,0,2024-12-08
+P02373,Kora Monitor 24in,Monitor 24in,C02,SL167,213950,0,2023-06-29
+P02374,Tribe&Co Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL167,411850,0,2023-06-29
+P02375,Zenith Home Laptop Bag,Laptop Bag,C02,SL167,216450,0,2023-06-29
+P02376,Ofure Refurbished Laptop 14in,Refurbished Laptop 14in,C02,SL167,145200,0,2024-03-19
+P02377,Amberly Inkjet Printer,Inkjet Printer,C02,SL167,304100,0,2023-06-29
+P02378,Brightway Monitor 24in,Monitor 24in,C02,SL167,303100,0,2023-06-29
+P02379,Zuritek Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL167,525700,0,2024-03-15
+P02380,Ofure Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL167,564100,0,2024-11-09
+P02381,Sahel USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL167,97600,0,2023-10-27
+P02382,Nala Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL167,667650,0,2025-04-01
+P02383,Kora Refurbished Laptop 14in,Refurbished Laptop 14in,C02,SL167,144250,0,2023-06-29
+P02384,Amberly Monitor 24in,Monitor 24in,C02,SL167,290550,0,2023-06-29
+P02385,Sunpeak Refurbished Laptop 14in,Refurbished Laptop 14in,C02,SL167,173650,0,2025-01-18
+P02386,Zenith Home Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL167,251300,0,2023-06-29
+P02387,Halden Wi-Fi Router,Wi-Fi Router,C02,SL167,195050,1,2025-04-20
+P02388,Verano Refurbished Laptop 14in,Refurbished Laptop 14in,C02,SL167,168000,0,2023-08-04
+P02389,Brightway External Hard Drive 1TB,External Hard Drive 1TB,C02,SL167,237600,0,2024-01-06
+P02390,Zenith Home Laptop Bag,Laptop Bag,C02,SL167,286650,0,2024-10-02
+P02391,Bluecrest Laptop Bag,Laptop Bag,C02,SL167,308250,0,2023-06-29
+P02392,Sahel Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL167,409950,0,2024-12-27
+P02393,Marlow Wireless Mouse and Keyboard,Wireless Mouse and Keyboard,C02,SL167,513750,0,2024-03-18
+P02394,Kito Laptop Bag,Laptop Bag,C02,SL167,538350,0,2023-06-29
+P02395,Lumora Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL167,466350,0,2023-11-07
+P02396,Lumora Laptop Bag,Laptop Bag,C02,SL167,349900,0,2023-06-29
+P02397,Sahel Laptop 14in 8GB RAM,Laptop 14in 8GB RAM,C02,SL167,191500,0,2023-06-29
+P02398,Zenith Home Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL167,401100,0,2024-09-07
+P02399,Sahel External Hard Drive 1TB,External Hard Drive 1TB,C02,SL167,337700,0,2023-06-29
+P02400,Halden Laptop 15.6in 16GB RAM,Laptop 15.6in 16GB RAM,C02,SL168,461200,0,2023-12-28
+P02401,Novaline Smart TV 43in,Smart TV 43in,C03,SL168,139650,0,2024-12-19
+P02402,Eko Basics LED TV 32in,LED TV 32in,C03,SL168,52900,0,2023-12-28
+P02403,Tella Wi-Fi Router,Wi-Fi Router,C02,SL168,257700,1,2024-12-09
+P02404,Tribe&Co Soundbar 2.1,Soundbar 2.1,C03,SL168,36750,1,2023-12-28
+P02405,Ofure USB Flash Drive 64GB,USB Flash Drive 64GB,C02,SL168,159050,0,2025-04-27
+P02406,Verano External Hard Drive 1TB,External Hard Drive 1TB,C02,SL168,345150,0,2023-12-28
+P02407,Brightway Bluetooth Speaker,Bluetooth Speaker,C03,SL168,68500,0,2024-10-16
+P02408,Halden Satellite Decoder,Satellite Decoder,C03,SL168,33150,0,2023-12-28
+P02409,Eko Basics Projector,Projector,C03,SL168,155400,0,2023-12-28
+P02410,Nala Satellite Decoder,Satellite Decoder,C03,SL168,71700,0,2023-12-28
+P02411,Bluecrest Kitchen Knife Set,Kitchen Knife Set,C06,SL169,31850,0,2024-10-20
+P02412,Novaline Curtain Pair,Curtain Pair,C06,SL169,20200,0,2024-01-10
+P02413,Zenith Home Water Dispenser,Water Dispenser,C06,SL169,10550,0,2022-07-15
+P02414,Verano Water Dispenser,Water Dispenser,C06,SL169,13500,0,2024-02-23
+P02415,Sahel Rechargeable Lamp,Rechargeable Lamp,C06,SL169,24750,0,2024-12-18
+P02416,Kora Water Dispenser,Water Dispenser,C06,SL169,11950,0,2024-12-27
+P02417,Lumora Bedsheet Set,Bedsheet Set,C06,SL169,30000,0,2025-02-20
+P02418,Kora Rechargeable Lamp,Rechargeable Lamp,C06,SL169,30500,0,2023-04-07
+P02419,Kito Rechargeable Lamp,Rechargeable Lamp,C06,SL169,30950,0,2022-04-18
+P02420,Nala Dinner Set 24pcs,Dinner Set 24pcs,C06,SL169,7100,1,2024-06-28
+P02421,Kito Water Dispenser,Water Dispenser,C06,SL169,12600,0,2022-12-30
+P02422,Kora Kitchen Knife Set,Kitchen Knife Set,C06,SL169,39100,0,2023-08-26
+P02423,Sahel Hair Clipper,Hair Clipper,C11,SL170,10100,0,2024-01-10
+P02424,Eko Basics Perfume 100ml,Perfume 100ml,C11,SL170,9650,0,2023-03-21
+P02425,Lumora Body Lotion 400ml,Body Lotion 400ml,C11,SL170,6650,0,2024-11-08
+P02426,Verano Shea Butter 500g,Shea Butter 500g,C11,SL170,7000,0,2023-07-01
+P02427,Sunpeak Body Lotion 400ml,Body Lotion 400ml,C11,SL170,2500,0,2023-01-30
+P02428,Kora Perfume 100ml,Perfume 100ml,C11,SL170,6000,0,2023-01-30
+P02429,Brightway Beard Grooming Kit,Beard Grooming Kit,C11,SL170,18600,0,2024-09-04
+P02430,Bluecrest Hair Extensions,Hair Extensions,C11,SL170,19550,0,2023-01-30
+P02431,Halden Beard Grooming Kit,Beard Grooming Kit,C11,SL170,24950,0,2023-01-30
+P02432,Bluecrest Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL171,155600,0,2023-04-01
+P02433,Kora Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL171,176150,0,2022-12-04
+P02434,Tribe&Co Smartwatch,Smartwatch,C01,SL171,126250,0,2025-05-25
+P02435,Amberly Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL171,500900,0,2022-06-27
+P02436,Ikoro Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL171,140200,0,2022-08-16
+P02437,Kito Smartwatch,Smartwatch,C01,SL171,153100,0,2022-08-29
+P02438,Lumora Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL171,256300,0,2022-08-16
+P02439,Ofure Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL171,108750,0,2022-11-16
+P02440,Zuritek Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL171,230050,0,2022-06-11
+P02441,Novaline Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL171,224050,0,2025-04-18
+P02442,Sunpeak Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL171,290550,0,2025-01-24
+P02443,Zenith Home Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL171,174300,0,2025-02-01
+P02444,Verano Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL171,201400,0,2025-01-28
+P02445,Zuritek Smartwatch,Smartwatch,C01,SL171,99650,0,2023-05-23
+P02446,Novaline Power Bank 20000mAh,Power Bank 20000mAh,C01,SL171,121500,0,2023-03-01
+P02447,Eko Basics Handbag,Handbag,C10,SL172,22250,0,2025-05-12
+P02448,Zenith Home Slippers,Slippers,C10,SL172,8800,0,2025-05-12
+P02449,Zenith Home Men's Loafers,Men's Loafers,C10,SL172,12700,0,2025-05-12
+P02450,Brightway Leather Sandals,Leather Sandals,C10,SL172,25150,0,2025-05-12
+P02451,Lumora Backpack,Backpack,C10,SL172,15100,0,2025-05-12
+P02452,Daria Slippers,Slippers,C10,SL172,14700,0,2025-05-28
+P02453,Eko Basics Leather Sandals,Leather Sandals,C10,SL172,9400,0,2025-05-12
+P02454,Nala Slippers,Slippers,C10,SL172,6800,0,2025-05-12
+P02455,Amberly Leather Sandals,Leather Sandals,C10,SL172,11100,0,2025-05-12
+P02456,Marlow Leather Sandals,Leather Sandals,C10,SL172,23050,0,2025-05-12
+P02457,Sunpeak Slippers,Slippers,C10,SL172,8450,0,2025-05-12
+P02458,Zenith Home Jumpsuit,Jumpsuit,C08,SL173,10050,0,2023-09-24
+P02459,Marlow Leather Sandals,Leather Sandals,C10,SL173,16300,0,2022-10-28
+P02460,Sunpeak Two-piece Set,Two-piece Set,C08,SL173,24600,0,2024-12-07
+P02461,Halden Wallet,Wallet,C10,SL173,17350,0,2022-09-22
+P02462,Zuritek Travel Bag,Travel Bag,C10,SL173,33900,0,2023-04-14
+P02463,Sunpeak Sneakers,Sneakers,C10,SL173,52650,0,2023-01-21
+P02464,Daria Handbag,Handbag,C10,SL173,19850,0,2023-12-06
+P02465,Brightway Travel Bag,Travel Bag,C10,SL173,33800,0,2023-05-27
+P02466,Kito Leather Sandals,Leather Sandals,C10,SL173,20250,0,2022-12-08
+P02467,Kora Men's Loafers,Men's Loafers,C10,SL173,16400,0,2023-01-02
+P02468,Daria Wallet,Wallet,C10,SL173,34500,0,2023-10-26
+P02469,Zenith Home Travel Bag,Travel Bag,C10,SL173,32400,0,2023-12-12
+P02470,Daria Suit 2-piece,Suit 2-piece,C09,SL174,7150,0,2022-09-03
+P02471,Bluecrest Underwear Pack,Underwear Pack,C09,SL174,11650,0,2024-06-06
+P02472,Sahel Senator Wear,Senator Wear,C09,SL174,14250,0,2024-10-02
+P02473,Verano Underwear Pack,Underwear Pack,C09,SL174,8750,0,2023-06-18
+P02474,Verano Suit 2-piece,Suit 2-piece,C09,SL174,4850,0,2023-02-05
+P02475,Kito Agbada Set,Agbada Set,C09,SL174,15000,0,2022-02-23
+P02476,Marlow Chinos,Chinos,C09,SL174,30150,0,2022-07-13
+P02477,Ofure Underwear Pack,Underwear Pack,C09,SL174,12400,0,2024-05-10
+P02478,Nala Shorts,Shorts,C09,SL174,6600,0,2024-09-11
+P02479,Novaline Rice 10kg,Rice 10kg,C13,SL175,5100,0,2022-11-16
+P02480,Tella Tomato Paste Carton,Tomato Paste Carton,C13,SL175,9550,0,2022-12-31
+P02481,Zuritek Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL175,6500,0,2025-01-30
+P02482,Marlow Cereal 500g,Cereal 500g,C13,SL175,4750,0,2025-03-13
+P02483,Ikoro Soft Drinks Pack,Soft Drinks Pack,C13,SL175,3400,0,2025-05-18
+P02484,Kito Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL175,11300,0,2022-09-30
+P02485,Eko Basics Rice 10kg,Rice 10kg,C13,SL175,1850,0,2023-12-14
+P02486,Oyela Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL175,9950,0,2023-12-07
+P02487,Bluecrest Bottled Water Pack,Bottled Water Pack,C13,SL175,3950,0,2025-03-05
+P02488,Oyela Noodles Carton,Noodles Carton,C13,SL175,6200,0,2023-06-13
+P02489,Oyela Vegetable Oil 3L,Vegetable Oil 3L,C13,SL175,10800,0,2024-03-18
+P02490,Bluecrest Vegetable Oil 3L,Vegetable Oil 3L,C13,SL175,9350,0,2023-08-20
+P02491,Tribe&Co Coffee 200g,Coffee 200g,C13,SL175,8300,0,2025-03-05
+P02492,Kito Spaghetti Pack of 10,Spaghetti Pack of 10,C13,SL175,6700,0,2025-02-11
+P02493,Zuritek Beverage Drink 900g,Beverage Drink 900g,C13,SL175,5300,0,2023-02-10
+P02494,Verano Coffee 200g,Coffee 200g,C13,SL175,7200,0,2022-06-27
+P02495,Zuritek Seasoning Cubes Pack,Seasoning Cubes Pack,C13,SL175,6100,0,2024-07-30
+P02496,Marlow Wide-leg Trousers,Wide-leg Trousers,C08,SL176,13000,0,2024-12-03
+P02497,Verano Maxi Skirt,Maxi Skirt,C08,SL176,33600,0,2025-01-27
+P02498,Amberly Ankara Gown,Ankara Gown,C08,SL176,18450,0,2024-06-02
+P02499,Sunpeak Wide-leg Trousers,Wide-leg Trousers,C08,SL176,20250,0,2023-09-04
+P02500,Brightway Two-piece Set,Two-piece Set,C08,SL176,17400,0,2022-08-06
+P02501,Amberly Bodycon Dress,Bodycon Dress,C08,SL176,5100,0,2022-07-07
+P02502,Zuritek Jeans Women,Jeans Women,C08,SL176,11950,0,2024-04-12
+P02503,Marlow Ankara Gown,Ankara Gown,C08,SL176,7500,0,2023-12-03
+P02504,Zenith Home Blouse,Blouse,C08,SL176,18700,0,2023-11-27
+P02505,Daria Wide-leg Trousers,Wide-leg Trousers,C08,SL176,19750,0,2023-05-23
+P02506,Kora Jeans Women,Jeans Women,C08,SL176,14200,0,2024-12-25
+P02507,Verano Wide-leg Trousers,Wide-leg Trousers,C08,SL177,18700,0,2025-05-23
+P02508,Ikoro Jumpsuit,Jumpsuit,C08,SL177,20450,0,2024-10-31
+P02509,Tribe&Co Lingerie Set,Lingerie Set,C08,SL177,11050,0,2023-11-17
+P02510,Brightway Abaya,Abaya,C08,SL177,7550,0,2024-06-16
+P02511,Novaline Lingerie Set,Lingerie Set,C08,SL177,12950,0,2024-02-13
+P02512,Novaline Underwear Pack,Underwear Pack,C09,SL177,15750,0,2023-11-17
+P02513,Marlow Abaya,Abaya,C08,SL177,5400,0,2023-11-17
+P02514,Tribe&Co Jumpsuit,Jumpsuit,C08,SL177,14600,0,2023-11-17
+P02515,Nala Senator Wear,Senator Wear,C09,SL177,24150,0,2023-11-17
+P02516,Amberly Wide-leg Trousers,Wide-leg Trousers,C08,SL177,13850,0,2023-11-17
+P02517,Ikoro Abaya,Abaya,C08,SL177,8750,0,2023-11-17
+P02518,Amberly Jeans Women,Jeans Women,C08,SL177,9550,0,2023-11-17
+P02519,Bluecrest Wide-leg Trousers,Wide-leg Trousers,C08,SL177,13300,0,2023-11-17
+P02520,Daria Bodycon Dress,Bodycon Dress,C08,SL177,13350,0,2023-11-17
+P02521,Bluecrest Two-piece Set,Two-piece Set,C08,SL177,15800,0,2023-11-18
+P02522,Marlow Blouse,Blouse,C08,SL177,17950,0,2023-11-17
+P02523,Tella Maxi Skirt,Maxi Skirt,C08,SL177,9550,0,2024-06-12
+P02524,Tribe&Co Wide-leg Trousers,Wide-leg Trousers,C08,SL177,27550,0,2023-11-17
+P02525,Nala Two-piece Set,Two-piece Set,C08,SL177,15200,0,2023-11-17
+P02526,Marlow Lingerie Set,Lingerie Set,C08,SL177,16200,0,2023-11-17
+P02527,Kora LED TV 32in,LED TV 32in,C03,SL178,105950,0,2024-01-04
+P02528,Tribe&Co LED TV 32in,LED TV 32in,C03,SL178,51850,0,2022-09-23
+P02529,Zenith Home Game Console,Game Console,C04,SL178,79800,0,2023-09-15
+P02530,Halden Smart TV 55in,Smart TV 55in,C03,SL178,35750,1,2022-12-27
+P02531,Oyela Soundbar 2.1,Soundbar 2.1,C03,SL178,76750,1,2023-02-17
+P02532,Ofure Smart TV 43in,Smart TV 43in,C03,SL178,94800,0,2024-08-28
+P02533,Brightway LED TV 32in,LED TV 32in,C03,SL178,49550,0,2024-03-06
+P02534,Novaline Gaming Chair,Gaming Chair,C04,SL178,137300,0,2024-12-22
+P02535,Sunpeak Game Console,Game Console,C04,SL178,299150,0,2024-10-09
+P02536,Daria Bluetooth Speaker,Bluetooth Speaker,C03,SL178,80400,0,2024-12-17
+P02537,Zenith Home Home Theatre System,Home Theatre System,C03,SL178,113550,0,2023-02-11
+P02538,Daria Satellite Decoder,Satellite Decoder,C03,SL178,61800,0,2022-04-15
+P02539,Kito Hair Relaxer Kit,Hair Relaxer Kit,C11,SL179,6150,0,2022-06-16
+P02540,Sahel Hair Relaxer Kit,Hair Relaxer Kit,C11,SL179,11800,0,2022-11-16
+P02541,Ofure Hair Relaxer Kit,Hair Relaxer Kit,C11,SL179,8700,0,2023-08-31
+P02542,Tribe&Co Hair Relaxer Kit,Hair Relaxer Kit,C11,SL179,6750,0,2022-11-12
+P02543,Zenith Home Beard Grooming Kit,Beard Grooming Kit,C11,SL179,10250,0,2024-10-22
+P02544,Zuritek Makeup Palette,Makeup Palette,C11,SL179,5050,0,2022-12-29
+P02545,Brightway Hair Clipper,Hair Clipper,C11,SL179,8850,0,2024-03-26
+P02546,Tribe&Co Beard Grooming Kit,Beard Grooming Kit,C11,SL179,6400,0,2024-08-20
+P02547,Amberly Face Serum,Face Serum,C11,SL179,7300,0,2022-05-05
+P02548,Nala Body Lotion 400ml,Body Lotion 400ml,C11,SL179,1250,0,2022-12-07
+P02549,Ikoro Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL180,168150,0,2024-07-30
+P02550,Novaline Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL180,278100,0,2024-11-05
+P02551,Daria Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL180,117400,0,2022-12-17
+P02552,Zuritek Wireless Earbuds,Wireless Earbuds,C01,SL180,90900,0,2025-01-13
+P02553,Verano Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL180,140000,0,2023-11-12
+P02554,Brightway Power Bank 20000mAh,Power Bank 20000mAh,C01,SL180,98850,0,2023-05-16
+P02555,Kora Power Bank 20000mAh,Power Bank 20000mAh,C01,SL180,85650,0,2023-09-27
+P02556,Halden Smartwatch,Smartwatch,C01,SL180,110900,0,2023-02-13
+P02557,Lumora Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL180,116000,0,2022-12-17
+P02558,Oyela Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL180,161000,0,2023-02-07
+P02559,Zuritek Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL180,175300,0,2025-05-16
+P02560,Lumora Smartwatch,Smartwatch,C01,SL180,180150,0,2024-06-23
+P02561,Amberly Power Bank 20000mAh,Power Bank 20000mAh,C01,SL180,72600,0,2024-09-17
+P02562,Ofure Wireless Earbuds,Wireless Earbuds,C01,SL180,146350,0,2025-02-24
+P02563,Lumora Kids Tablet 7in,Kids Tablet 7in,C01,SL180,140500,0,2023-07-20
+P02564,Ofure Wireless Earbuds,Wireless Earbuds,C01,SL180,185750,0,2024-01-28
+P02565,Zenith Home Android Tablet 10in,Android Tablet 10in,C01,SL180,136150,0,2024-02-01
+P02566,Sunpeak Kids Tablet 7in,Kids Tablet 7in,C01,SL180,97400,0,2023-08-06
+P02567,Halden Kids Tablet 7in,Kids Tablet 7in,C01,SL180,113600,0,2023-02-12
+P02568,Zenith Home Smartphone 6.5in 128GB,Smartphone 6.5in 128GB,C01,SL180,299500,0,2023-11-28
+P02569,Kito Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL180,93700,0,2025-03-13
+P02570,Novaline Kids Tablet 7in,Kids Tablet 7in,C01,SL180,203800,0,2022-12-17
+P02571,Bluecrest Power Bank 20000mAh,Power Bank 20000mAh,C01,SL180,124250,0,2023-11-10
+P02572,Lumora Android Tablet 10in,Android Tablet 10in,C01,SL180,152850,0,2022-12-17
+P02573,Zuritek Wireless Earbuds,Wireless Earbuds,C01,SL180,161850,0,2024-06-14
+P02574,Sahel Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL180,189850,0,2022-12-17
+P02575,Eko Basics Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL180,136550,0,2024-06-26
+P02576,Ofure Kids Tablet 7in,Kids Tablet 7in,C01,SL180,246700,0,2022-12-17
+P02577,Lumora Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL180,139800,0,2022-12-17
+P02578,Halden Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL180,224650,0,2022-12-17
+P02579,Ikoro Kids Tablet 7in,Kids Tablet 7in,C01,SL180,347500,0,2024-03-27
+P02580,Bluecrest Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL180,178000,0,2023-03-19
+P02581,Amberly Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL180,132800,0,2023-01-15
+P02582,Ofure Smartwatch,Smartwatch,C01,SL180,181400,0,2023-12-05
+P02583,Tella Smartwatch,Smartwatch,C01,SL180,120850,0,2023-07-21
+P02584,Zuritek Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL180,108450,0,2023-11-12
+P02585,Daria Power Bank 20000mAh,Power Bank 20000mAh,C01,SL180,168950,0,2024-09-01
+P02586,Sahel Power Bank 20000mAh,Power Bank 20000mAh,C01,SL180,100750,0,2022-12-17
+P02587,Brightway Feature Phone Dual SIM,Feature Phone Dual SIM,C01,SL180,128000,0,2022-12-17
+P02588,Halden Android Tablet 10in,Android Tablet 10in,C01,SL180,118900,0,2024-01-25
+P02589,Verano Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL180,234650,0,2023-09-30
+P02590,Oyela Phone Case and Screen Guard Set,Phone Case and Screen Guard Set,C01,SL180,232500,0,2024-11-29
+P02591,Tribe&Co Smartphone 6.7in 256GB,Smartphone 6.7in 256GB,C01,SL180,109850,0,2022-12-27
+P02592,Ofure Smartphone 6.1in 64GB,Smartphone 6.1in 64GB,C01,SL180,120600,0,2022-12-17
+P02593,Novaline Kids Tablet 7in,Kids Tablet 7in,C01,SL180,257200,0,2023-05-27

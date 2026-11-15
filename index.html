@@ -1,0 +1,419 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Marketvale Marketplace Performance</title>
+  <meta name="description" content="Interactive analysis of category sales, customer purchasing, delivery performance and reviews for the Marketvale online marketplace (synthetic data), with data upload, PDF report and data export.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%233b2a6b'/%3E%3Cpath d='M9 12h14l-1.5 10h-11z M12 12a4 4 0 0 1 8 0' fill='none' stroke='%23fff' stroke-width='2.2' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="app-header">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 32 32"><rect width="32" height="32" rx="7"/><path d="M9 12h14l-1.5 10h-11z M12 12a4 4 0 0 1 8 0"/></svg>
+      </div>
+      <div>
+        <h1>Marketvale Marketplace Performance</h1>
+        <p class="subtitle">Categories, customers, delivery and reviews · synthetic data · NGN</p>
+      </div>
+    </div>
+    <div class="header-meta" aria-live="polite">
+      <span class="pill" id="datasetStatus">Loading data...</span>
+      <span class="meta" id="datasetScope"></span>
+      <span class="meta" id="lastUpdated"></span>
+    </div>
+    <div class="header-actions">
+      <button class="btn btn-primary" id="btnReport" type="button">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M6 2h9l5 5v15H6z"/><path d="M14 2v6h6M9 13h6M9 17h6"/></svg>
+        Generate Analysis Report
+      </button>
+      <button class="btn btn-secondary" id="btnData" type="button">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg>
+        Download Analysis Data
+      </button>
+      <button class="btn-icon" id="btnTheme" type="button" aria-label="Switch between light and dark mode" title="Light / dark mode">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <nav class="tabs" aria-label="Dashboard sections">
+    <div class="tabs-inner" role="tablist" id="tabList">
+      <button role="tab" aria-selected="true" aria-controls="tab-overview" id="t-overview" data-tab="overview">Overview</button>
+      <button role="tab" aria-selected="false" aria-controls="tab-categories" id="t-categories" data-tab="categories" tabindex="-1">Product categories</button>
+      <button role="tab" aria-selected="false" aria-controls="tab-customers" id="t-customers" data-tab="customers" tabindex="-1">Customers</button>
+      <button role="tab" aria-selected="false" aria-controls="tab-delivery" id="t-delivery" data-tab="delivery" tabindex="-1">Delivery</button>
+      <button role="tab" aria-selected="false" aria-controls="tab-experience" id="t-experience" data-tab="experience" tabindex="-1">Reviews</button>
+      <button role="tab" aria-selected="false" aria-controls="tab-sellers" id="t-sellers" data-tab="sellers" tabindex="-1">Sellers</button>
+      <button role="tab" aria-selected="false" aria-controls="tab-explorer" id="t-explorer" data-tab="explorer" tabindex="-1">Data explorer</button>
+      <button role="tab" aria-selected="false" aria-controls="tab-data" id="t-data" data-tab="data" tabindex="-1">Add data</button>
+      <button role="tab" aria-selected="false" aria-controls="tab-method" id="t-method" data-tab="method" tabindex="-1">Methodology &amp; help</button>
+    </div>
+  </nav>
+
+  <section class="filters" aria-label="Filters">
+    <div class="filters-inner">
+      <div class="filter"><label for="fFrom">From</label><select id="fFrom"></select></div>
+      <div class="filter"><label for="fTo">To</label><select id="fTo"></select></div>
+      <details class="filter multi" id="fCatBox"><summary><span class="flabel">Category</span> <span class="fval" id="fCatVal">All</span></summary><div class="menu" id="fCat" role="group" aria-label="Product categories"></div></details>
+      <details class="filter multi" id="fZoneBox"><summary><span class="flabel">Region</span> <span class="fval" id="fZoneVal">All</span></summary><div class="menu" id="fZone" role="group" aria-label="Delivery regions (geopolitical zones)"></div></details>
+      <details class="filter multi" id="fTierBox"><summary><span class="flabel">Seller tier</span> <span class="fval" id="fTierVal">All</span></summary><div class="menu" id="fTier" role="group" aria-label="Seller tiers"></div></details>
+      <details class="filter multi" id="fFulBox"><summary><span class="flabel">Fulfilment</span> <span class="fval" id="fFulVal">All</span></summary><div class="menu" id="fFul" role="group" aria-label="Fulfilment model"></div></details>
+      <details class="filter multi" id="fPayBox"><summary><span class="flabel">Payment</span> <span class="fval" id="fPayVal">All</span></summary><div class="menu" id="fPay" role="group" aria-label="Payment method"></div></details>
+      <button class="btn btn-ghost" id="btnReset" type="button">Reset filters</button>
+      <div class="chips" id="activeFilters" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <main id="main">
+    <!-- ============================================================ OVERVIEW -->
+    <section class="tab-panel" id="tab-overview" role="tabpanel" aria-labelledby="t-overview">
+      <div class="intro">
+        <h2>Which categories perform, how customers buy, and where the experience breaks down</h2>
+        <p>Management wants better assortment, seller and customer-experience decisions. This page summarises the current selection: <span id="ovScope"></span></p>
+      </div>
+      <div class="kpi-grid" id="kpis"></div>
+      <p class="note" id="kpiNote"></p>
+      <div class="grid g-2-1">
+        <article class="card">
+          <header><div><h3 id="monthTitle">Monthly trend</h3><p>Click a month to filter the whole dashboard to it.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="controls"><label for="monthMeasure">Measure <select id="monthMeasure"></select></label></div>
+          <div class="chart" id="cMonth" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>Key findings</h3><p>Generated by fixed rules from the data in view.</p></div></header>
+          <ul class="insights" id="insights"></ul>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Areas needing management attention</h3><p>Status uses illustrative thresholds (Methodology tab); icon and label, not colour alone.</p></div></header>
+          <div class="table-wrap"><table class="data" id="attention"></table></div>
+        </article>
+        <article class="card">
+          <header><div><h3>GMV by product category</h3><p>Click a category to filter the dashboard to it.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart tall" id="cCatOv" role="img"></div>
+        </article>
+      </div>
+      <article class="card">
+        <header><div><h3>Recommended actions</h3><p>Each recommendation shows the evidence from the current data that triggered it.</p></div></header>
+        <div class="recs" id="recs"></div>
+      </article>
+    </section>
+
+    <!-- ============================================================ CATEGORIES -->
+    <section class="tab-panel" id="tab-categories" role="tabpanel" aria-labelledby="t-categories" hidden>
+      <div class="intro"><h2>Sales performance of product categories</h2><p id="catIntro"></p></div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3 id="catRankTitle">Categories ranked</h3><p>Pale bars = fewer than 30 orders or reviews. Click to filter.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="controls"><label for="catMeasure">Measure <select id="catMeasure"></select></label></div>
+          <div class="chart tall" id="cCatRank" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>Value vs customer experience</h3><p>Each bubble is a category: GMV (across) against share of 1-2 star reviews (up). Bubble size = orders.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart tall" id="cCatMatrix" role="img"></div>
+        </article>
+      </div>
+      <article class="card">
+        <header><div><h3>GMV trend by category, by quarter</h3><p>The three largest categories in view are highlighted; the others are grey for context.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+        <div class="controls"><label for="catTrendMode">Values <select id="catTrendMode"><option value="nominal">Naira (as sold)</option><option value="real">At January 2024 prices</option></select></label></div>
+        <div class="chart" id="cCatTrend" role="img"></div>
+      </article>
+      <article class="card">
+        <header><div><h3>Category scorecard</h3><p id="catTests"></p></div></header>
+        <div class="table-wrap scroll"><table class="data sortable compact" id="catTable"></table></div>
+      </article>
+    </section>
+
+    <!-- ============================================================ CUSTOMERS -->
+    <section class="tab-panel" id="tab-customers" role="tabpanel" aria-labelledby="t-customers" hidden>
+      <div class="intro"><h2>Customer purchasing and repeat purchasing</h2><p id="custIntro"></p></div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Purchases per customer</h3><p>Separate checkouts (cart_id) per purchasing customer in the period.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cPurch" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>New and returning customers by month</h3><p>New = first purchase ever in that month.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cNewRet" role="img"></div>
+        </article>
+      </div>
+      <article class="card">
+        <header><div><h3>Do new customers come back? Quarterly cohorts</h3><p>Share of each quarter's new customers who bought again 1, 2, 3... quarters later. Blank = not yet observable.</p></div></header>
+        <div class="table-wrap"><table class="data compact cohort" id="cohortTable"></table></div>
+      </article>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Spend per customer by region</h3><p>GMV per purchasing customer, by geopolitical zone of the delivery address. Click to filter.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cZoneSpend" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>States with the most orders</h3><p>Top 15 delivery states by orders placed.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart tall" id="cStateOrders" role="img"></div>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Repeat rate by acquisition channel</h3><p>How customers first found Marketvale (customer table).</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cChannel" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>When do customers order?</h3><p>Orders by weekday and hour of purchase. Darker = more orders.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cOrderHeat" role="img"></div>
+        </article>
+      </div>
+      <article class="card">
+        <header><div><h3>Payment methods</h3></div></header>
+        <div class="table-wrap"><table class="data sortable compact" id="payTable"></table></div>
+      </article>
+    </section>
+
+    <!-- ============================================================ DELIVERY -->
+    <section class="tab-panel" id="tab-delivery" role="tabpanel" aria-labelledby="t-delivery" hidden>
+      <div class="intro"><h2>Delivery and fulfilment performance</h2><p id="delIntro"></p></div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3 id="delMonthTitle">Late deliveries by month</h3><p>Click a month to filter.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="controls"><label for="delMeasure">Measure <select id="delMeasure"><option value="late_rate">Late deliveries (%)</option><option value="avg_days">Average delivery time (days)</option><option value="delivery_success">Delivery success (%)</option></select></label></div>
+          <div class="chart" id="cDelMonth" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>How long do deliveries take?</h3><p>Orders by days from purchase to delivery; orange = arrived after the promised date.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cDelHist" role="img"></div>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Delivery time by region</h3><p>Average days to deliver; dashed line = all deliveries in view. Click to filter.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cZoneDays" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>What goes with late delivery?</h3><p>Late rate for each pair of groups, with a chi-square test.</p></div></header>
+          <div class="table-wrap"><table class="data" id="factorTable"></table></div>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>States with the longest deliveries</h3><p id="stateNote"></p></div></header>
+          <div class="table-wrap scroll"><table class="data sortable compact" id="stateTable"></table></div>
+        </article>
+        <article class="card">
+          <header><div><h3>Sellers with the highest late-delivery rates</h3><p>Top 15 sellers with 30+ deliveries; whiskers = 95% confidence interval; dashed line = marketplace rate.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart xtall" id="cSellerLate" role="img"></div>
+        </article>
+      </div>
+    </section>
+
+    <!-- ============================================================ REVIEWS -->
+    <section class="tab-panel" id="tab-experience" role="tabpanel" aria-labelledby="t-experience" hidden>
+      <div class="intro"><h2>Customer satisfaction and poor experiences</h2><p id="expIntro"></p></div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Is late delivery associated with poor reviews?</h3><p>Share of reviews with 1-2 stars by how late the order arrived.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cLateness" role="img"></div>
+          <div id="lateBox"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>Distribution of review scores</h3></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cScoreDist" role="img"></div>
+        </article>
+      </div>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Poor experiences by category</h3><p>1-2 star share for all reviews and for on-time deliveries only. A small gap means the product, not delivery, drives complaints.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart xtall" id="cCatLow" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>What do unhappy customers say?</h3><p>Themes of 1-2 star review comments (keyword rules, Methodology tab).</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart" id="cThemes" role="img"></div>
+          <h3 class="sub">Statistical tests</h3>
+          <div class="table-wrap"><table class="data" id="expTests"></table></div>
+        </article>
+      </div>
+    </section>
+
+    <!-- ============================================================ SELLERS -->
+    <section class="tab-panel" id="tab-sellers" role="tabpanel" aria-labelledby="t-sellers" hidden>
+      <div class="intro"><h2>Seller performance</h2><p id="selIntro"></p></div>
+      <div class="grid g-2-1">
+        <article class="card">
+          <header><div><h3>Late delivery vs low ratings by seller</h3><p>Sellers with 30+ deliveries. Orange = flagged (rate significantly above the marketplace); bubble size = GMV.</p></div><button class="fs" type="button" aria-label="Show chart full screen">⤢</button></header>
+          <div class="chart tall" id="cSellerScatter" role="img"></div>
+        </article>
+        <article class="card">
+          <header><div><h3>Performance by seller tier</h3></div></header>
+          <div class="table-wrap"><table class="data compact" id="tierTable"></table></div>
+          <p class="note">A seller is flagged when the lower end of the 95% confidence interval for its late or low-rating rate is above the marketplace rate, so a few bad orders at a small seller do not trigger a flag.</p>
+        </article>
+      </div>
+      <article class="card">
+        <header><div><h3>Seller scorecard</h3><p>Click a heading to sort. Flags: ! late delivery, ✕ low ratings.</p></div></header>
+        <div class="controls">
+          <label class="grow" for="sSearch">Search <input type="search" id="sSearch" placeholder="Seller name, ID or category..."></label>
+          <label for="sFlag">Show <select id="sFlag"><option value="all">All sellers</option><option value="flagged">Flagged sellers only</option></select></label>
+        </div>
+        <div class="table-wrap scroll"><table class="data sortable compact" id="sellerTable"></table></div>
+      </article>
+    </section>
+
+    <!-- ============================================================ EXPLORER -->
+    <section class="tab-panel" id="tab-explorer" role="tabpanel" aria-labelledby="t-explorer" hidden>
+      <article class="card">
+        <header><div><h3>Order records</h3><p>The order-level analysis table behind every chart, after filters.</p></div></header>
+        <div class="controls">
+          <label class="grow" for="tSearch">Search <input type="search" id="tSearch" placeholder="Order, customer, seller, category, state, status..."></label>
+          <label for="tCols">Columns <select id="tCols"><option value="key">Key fields</option><option value="all">All fields</option></select></label>
+          <label for="tPage">Rows <select id="tPage"><option>25</option><option selected>50</option><option>100</option></select></label>
+        </div>
+        <div class="table-wrap"><table class="data compact" id="explorer"></table></div>
+        <p class="note" id="tCount"></p>
+        <div class="pager" id="pager"></div>
+      </article>
+    </section>
+
+    <!-- ============================================================ ADD DATA -->
+    <section class="tab-panel" id="tab-data" role="tabpanel" aria-labelledby="t-data" hidden>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Add data</h3><p>Upload an Excel workbook with one sheet per table, or a CSV or JSON file for a single table. Files are read in your browser and never sent anywhere.</p></div></header>
+          <div class="drop" id="drop" tabindex="0" role="button" aria-describedby="dropHelp">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 16V4M7 9l5-5 5 5M4 20h16"/></svg>
+            <p><strong>Drag and drop a file here</strong> or <span class="link">browse</span></p>
+            <p class="note" id="dropHelp">XLSX, CSV or JSON, up to 25 MB. Tables: orders, order_items, reviews, customers, sellers, products (recognised by sheet name or columns).</p>
+            <input type="file" id="fileInput" accept=".csv,.xlsx,.json" hidden>
+          </div>
+          <fieldset class="modes">
+            <legend>What should happen to the data?</legend>
+            <label><input type="radio" name="mode" value="append" checked> <span><b>Add new records</b><br><small>New orders, lines, reviews and customers are added. Records that already exist (same key) are not changed.</small></span></label>
+            <label><input type="radio" name="mode" value="merge"> <span><b>Update or add</b><br><small>Matching records are updated (for example an order that has since been delivered) and new ones added. Blank cells keep existing values.</small></span></label>
+            <label><input type="radio" name="mode" value="replace"> <span><b>Replace the transaction data</b><br><small>Orders, order lines and reviews are replaced by the file (it must contain orders and order lines). You will be asked to confirm.</small></span></label>
+          </fieldset>
+          <p class="note"><a href="#" id="templateLink">Download a blank template (Excel)</a> · <a href="#" id="sampleLink">Download a test file (fictional orders, Excel)</a></p>
+        </article>
+        <article class="card">
+          <header><div><h3>Upload check</h3><p>Results of cleaning and validation, per table. Nothing changes until you apply the upload.</p></div></header>
+          <div id="uploadPanel" aria-live="polite"><p class="empty">No file selected yet.</p></div>
+        </article>
+      </div>
+      <article class="card">
+        <header><div><h3>Data held in this browser</h3><p>Uploaded data is saved in this browser only (IndexedDB). Other visitors and other devices do not see it.</p></div></header>
+        <div id="storeInfo"></div>
+        <div class="table-wrap"><table class="data" id="batchTable"></table></div>
+        <div class="btn-row">
+          <button class="btn btn-secondary" id="btnUndo" type="button">Undo last upload</button>
+          <button class="btn btn-danger" id="btnClear" type="button">Reset to the original dataset</button>
+          <button class="btn btn-ghost" id="btnSummaryCsv" type="button">Download category summary (CSV)</button>
+        </div>
+      </article>
+    </section>
+
+    <!-- ============================================================ METHODOLOGY -->
+    <section class="tab-panel" id="tab-method" role="tabpanel" aria-labelledby="t-method" hidden>
+      <div class="grid g-1-1">
+        <article class="card prose">
+          <header><div><h3>How to use this dashboard</h3></div></header>
+          <ol>
+            <li><b>Start on Overview.</b> KPI cards, key findings, areas needing attention and recommended actions summarise the current view.</li>
+            <li><b>Filter.</b> Choose months, categories, regions, seller tiers, fulfilment model or payment method in the bar at the top. Every chart, table, KPI, report and export follows the filters. Click a chip to remove a filter, or use Reset filters.</li>
+            <li><b>Investigate.</b> Each tab answers one group of questions: Product categories, Customers, Delivery, Reviews and Sellers. Hover any chart for exact values; click a month, category or region to filter to it; use ⤢ for full screen.</li>
+            <li><b>Add data.</b> On Add data, upload a workbook or file, read the per-table check, then apply it. Everything recalculates straight away. Undo or reset at any time.</li>
+            <li><b>Take it away.</b> Generate Analysis Report creates a PDF of the current or full analysis; Download Analysis Data exports the order-level data being analysed (CSV, or Excel with summaries).</li>
+          </ol>
+        </article>
+        <article class="card prose">
+          <header><div><h3>Data and its limits</h3></div></header>
+          <ul>
+            <li><b>Synthetic data:</b> Marketvale is a fictional marketplace. Patterns come from a simulation, not from real customers or sellers.</li>
+            <li><b>Source:</b> <span id="srcName"></span>. Orders 1 Jan 2024 - 31 Dec 2025, extract at 31 Dec 2025 23:59. Amounts in Nigerian naira (NGN).</li>
+            <li><b>Inflation:</b> selling prices rose about 49% over the two years, so the dashboard also shows GMV at constant January 2024 prices.</li>
+            <li><b>Open orders:</b> orders still shipped or processing at the extract are excluded from delivery-success rates.</li>
+            <li><b>Missing delivery scans:</b> 98 delivered orders have no delivery time; they are excluded from delivery-time and lateness measures.</li>
+            <li><b>Reviews</b> are per order (not per product); about 58% of orders have one.</li>
+            <li><b>Associations only:</b> tests show whether differences are larger than chance; they do not show cause and effect.</li>
+            <li><b>Where your data is kept:</b> uploads stay in this browser's IndexedDB. Clear them with "Reset to the original dataset" or by clearing site data.</li>
+          </ul>
+        </article>
+      </div>
+      <article class="card">
+        <header><div><h3>KPI definitions</h3></div></header>
+        <div class="table-wrap"><table class="data" id="kpiDefs"></table></div>
+      </article>
+      <div class="grid g-1-1">
+        <article class="card">
+          <header><div><h3>Cleaning rules applied to every file</h3><p>The same rules as the source workbook's cleaning log, re-implemented and verified.</p></div></header>
+          <div class="table-wrap scroll"><table class="data compact" id="cleanRules"></table></div>
+        </article>
+        <article class="card prose">
+          <header><div><h3>Analysis, status and insight rules</h3></div></header>
+          <ul id="ruleList"></ul>
+        </article>
+      </div>
+      <article class="card">
+        <header><div><h3>Upload file format</h3><p>Sheets are recognised by name (orders, order_items, reviews, customers, sellers, products, or raw_...) or by their columns. Column names are matched ignoring case, spaces and punctuation.</p></div></header>
+        <div class="table-wrap scroll"><table class="data compact" id="schemaTable"></table></div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Built with HTML, CSS and JavaScript (Apache ECharts, Papa Parse, ExcelJS, jsPDF). All analysis runs in your browser and no data is sent anywhere. Data: synthetic Marketvale marketplace dataset (fictional organisation). Amounts in Nigerian naira.</p>
+  </footer>
+
+  <dialog id="dlgReport" aria-labelledby="dlgReportTitle">
+    <form method="dialog">
+      <h3 id="dlgReportTitle">Generate Analysis Report (PDF)</h3>
+      <p>The report is built now from the data currently loaded, including any data you have added.</p>
+      <fieldset><legend>What should the report cover?</legend>
+        <label><input type="radio" name="rscope" value="filtered" checked> Current filtered view <small id="rScopeFiltered"></small></label>
+        <label><input type="radio" name="rscope" value="full"> Entire available dataset <small id="rScopeFull"></small></label>
+      </fieldset>
+      <div class="btn-row"><button class="btn btn-ghost" value="cancel">Cancel</button><button class="btn btn-primary" value="ok" id="dlgReportGo">Generate PDF</button></div>
+    </form>
+  </dialog>
+  <dialog id="dlgData" aria-labelledby="dlgDataTitle">
+    <form method="dialog">
+      <h3 id="dlgDataTitle">Download Analysis Data</h3>
+      <p>Exports the order-level analysis table (one row per order, with category, seller, delivery and review fields) exactly as the dashboard analyses it.</p>
+      <fieldset><legend>Which records?</legend>
+        <label><input type="radio" name="dscope" value="full" checked> Full analysis dataset <small id="dScopeFull"></small></label>
+        <label><input type="radio" name="dscope" value="filtered"> Currently filtered dataset <small id="dScopeFiltered"></small></label>
+      </fieldset>
+      <fieldset><legend>Format</legend>
+        <label><input type="radio" name="dfmt" value="csv" checked> CSV (orders)</label>
+        <label><input type="radio" name="dfmt" value="xlsx"> Excel (orders, order lines, reviews and summary sheets)</label>
+      </fieldset>
+      <div class="btn-row"><button class="btn btn-ghost" value="cancel">Cancel</button><button class="btn btn-primary" value="ok">Download</button></div>
+    </form>
+  </dialog>
+  <dialog id="dlgConfirm" aria-labelledby="dlgConfirmTitle">
+    <form method="dialog">
+      <h3 id="dlgConfirmTitle">Please confirm</h3>
+      <p id="dlgConfirmText"></p>
+      <div class="btn-row"><button class="btn btn-ghost" value="cancel">Cancel</button><button class="btn btn-danger" value="ok" id="dlgConfirmGo">Confirm</button></div>
+    </form>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <div class="busy" id="busy" hidden><div class="spinner" aria-hidden="true"></div><p id="busyText">Working...</p></div>
+
+  <script src="assets/vendor/echarts.min.js"></script>
+  <script src="assets/vendor/papaparse.min.js"></script>
+  <script src="assets/vendor/exceljs.min.js"></script>
+  <script src="assets/vendor/jspdf.umd.min.js"></script>
+  <script src="assets/vendor/jspdf.plugin.autotable.min.js"></script>
+  <script src="data/base-data.js"></script>
+  <script src="assets/js/config.js"></script>
+  <script src="assets/js/utils.js"></script>
+  <script src="assets/js/data-processing.js"></script>
+  <script src="assets/js/analytics.js"></script>
+  <script src="assets/js/store.js"></script>
+  <script src="assets/js/charts.js"></script>
+  <script src="assets/js/data-export.js"></script>
+  <script src="assets/js/report-generator.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

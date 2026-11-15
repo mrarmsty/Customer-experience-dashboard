@@ -1,0 +1,63 @@
+{
+ "orders": [
+  {
+   "Order ID": "ALIAS0",
+   "Customer ID": "CU00001",
+   "Seller ID": "SL001",
+   "Order Date": "2026-01-10 12:00:00",
+   "Subtotal": 20000,
+   "Status": "in_transit",
+   "Delivery State": "Abuja",
+   "Promised Date": "2026-01-14",
+   "Delivered Date": ""
+  },
+  {
+   "Order ID": "ALIAS1",
+   "Customer ID": "CU00002",
+   "Seller ID": "SL002",
+   "Order Date": "2026-01-11 12:00:00",
+   "Subtotal": 20001,
+   "Status": "Completed",
+   "Delivery State": "Rivers",
+   "Promised Date": "2026-01-15",
+   "Delivered Date": "2026-01-14 11:00:00"
+  },
+  {
+   "Order ID": "ALIAS2",
+   "Customer ID": "CU00003",
+   "Seller ID": "SL003",
+   "Order Date": "2026-01-12 12:00:00",
+   "Subtotal": 20002,
+   "Status": "Completed",
+   "Delivery State": "Rivers",
+   "Promised Date": "2026-01-16",
+   "Delivered Date": "2026-01-15 11:00:00"
+  }
+ ],
+ "order_items": [
+  {
+   "Order ID": "ALIAS0",
+   "Line Number": 1,
+   "Product ID": "P00001",
+   "Qty": 1,
+   "Unit Price": 20000,
+   "Line Total": 20000
+  },
+  {
+   "Order ID": "ALIAS1",
+   "Line Number": 1,
+   "Product ID": "P00018",
+   "Qty": 1,
+   "Unit Price": 20001,
+   "Line Total": 20001
+  },
+  {
+   "Order ID": "ALIAS2",
+   "Line Number": 1,
+   "Product ID": "P00026",
+   "Qty": 1,
+   "Unit Price": 20002,
+   "Line Total": 20002
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+order_id,cart_id,customer_id,seller_id,order_purchase_ts,payment_method,payment_confirmed_ts,items_subtotal_ngn,voucher_discount_ngn,shipping_fee_ngn,order_total_ngn,shipped_ts,delivered_ts,estimated_delivery_date,delivery_failed_ts,return_requested_ts,cancelled_ts,cancelled_by,cancellation_reason,ship_from_state,ship_to_state,data_quality_note
+MV000001,CT000001,CU00001,SL167,2024-01-25 12:34:08,Pay on delivery,2024-01-25 12:35:49,294700,0,0,294700,2024-01-26 13:48:12,2024-01-27 17:05:00,2024-01-28,,,,,,FCT,FCT,
+MV000002,CT000002,CU00001,SL027,2024-02-10 20:01:20,Card,2024-02-10 20:04:37,595150,0,0,595150,2024-02-12 06:40:33,2024-02-13 13:15:00,2024-02-13,,,,,,FCT,FCT,
+MV000003,CT000003,CU00002,SL046,2025-08-30 21:59:37,Wallet,2025-08-30 22:01:25,36350,3630,1300,34020,2025-08-31 23:24:58,2025-09-02 13:07:00,2025-09-02,,,,,,Lagos,Lagos,
